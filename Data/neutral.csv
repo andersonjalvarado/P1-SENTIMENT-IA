@@ -1,0 +1,2814 @@
+post,sentiment
+"La película estuvo más o menos, ni me encantó ni me disgustó.",Neutral
+"El servicio en el restaurante fue regular, lo normal que esperarías.",Neutral
+"La calidad del producto es del montón, cumple su función básica.",Neutral
+"El hotel estaba bien, nada especial pero tampoco malo.",Neutral
+"La experiencia fue normal, como en cualquier otro lugar similar.",Neutral
+"No me pareció ni bueno ni malo, simplemente aceptable.",Neutral
+"El sabor de la comida es estándar, lo que esperarías de este tipo de lugar.",Neutral
+"La atención del personal fue correcta, sin destacar positiva o negativamente.",Neutral
+"Es un smartphone básico, cumple con lo necesario sin sorprender.",Neutral
+"El curso estuvo bien, aprendí algunas cosas pero no fue excepcional.",Neutral
+"La app funciona como debe, ni más ni menos.",Neutral
+"El concierto estuvo pasable, algunas canciones buenas y otras no tanto.",Neutral
+"La calidad-precio es lo que se espera, ni una ganga ni un robo.",Neutral
+"Es un libro que se deja leer, tiene partes interesantes y otras más flojas.",Neutral
+El trato fue cordial pero sin calidez especial.,Neutral
+"La visita al museo fue correcta, algunas exposiciones interesantes y otras no tanto.",Neutral
+"Es un coche que cumple su función, sin lujos pero sin problemas graves.",Neutral
+"El sabor de este café es estándar, nada memorable pero tampoco desagradable.",Neutral
+"La serie es entretenida a ratos, aunque tiene episodios que se hacen pesados.",Neutral
+"El diseño de la web es funcional, no destaca pero tampoco molesta.",Neutral
+"Es un lugar normal para comer, ni recomendaría ir específicamente ni lo evitaría.",Neutral
+"La clase fue como cualquier otra, el profesor explicó lo básico.",Neutral
+"El espectáculo fue correcto, entretuvo pero no impresionó.",Neutral
+Este modelo tiene prestaciones aceptables para su rango de precio.,Neutral
+"El evento transcurrió sin incidentes, ni mejor ni peor de lo esperado.",Neutral
+"La playa estaba decente, ni muy limpia ni muy sucia.",Neutral
+"El juego es pasable, tiene momentos divertidos pero también partes aburridas.",Neutral
+"La experiencia de compra fue la habitual, sin sorpresas.",Neutral
+"Es una aplicación que hace lo que promete, sin características destacables.",Neutral
+"El documental presenta información de manera equilibrada, sin sesgo aparente.",Neutral
+"La reunión fue productiva en algunos aspectos, menos útil en otros.",Neutral
+"El menú del día estaba bien para el precio, platos normales.",Neutral
+La película tiene partes interesantes pero también momentos flojos.,Neutral
+"El taller cubrió los temas básicos, lo esperado para una introducción.",Neutral
+"Es un producto corriente, similar a otros de su categoría.",Neutral
+"La zona tiene sus ventajas e inconvenientes, como casi cualquier barrio.",Neutral
+"El sabor es aceptable, no está mal pero tampoco impresiona.",Neutral
+La conferencia tuvo momentos interesantes mezclados con partes más densas.,Neutral
+"Es una prenda de calidad media, ni dura mucho ni se rompe enseguida.",Neutral
+"El viaje fue como esperaba, con aspectos positivos y negativos equilibrados.",Neutral
+"La función teatral estuvo decente, algunas actuaciones mejores que otras.",Neutral
+"Este modelo tiene sus pros y contras, como casi todos.",Neutral
+"La comida estaba tibia, ni caliente ni fría.",Neutral
+"El servicio fue estándar, te atienden correctamente sin más.",Neutral
+"Es un lugar ni muy animado ni muy aburrido, término medio.",Neutral
+La interfaz es funcional aunque no especialmente intuitiva.,Neutral
+"El sabor es neutro, no destaca en ningún sentido.",Neutral
+La experiencia de usuario es la habitual en este tipo de plataformas.,Neutral
+"Es un restaurante del montón, hay mejores y peores en la zona.",Neutral
+"La película no está mal, pero tampoco es para verla dos veces.",Neutral
+El producto es de calidad aceptable para su precio.,Neutral
+La exposición tiene obras interesantes mezcladas con otras menos relevantes.,Neutral
+"Es un teléfono que cumple con lo básico, sin destacar.",Neutral
+"El festival estuvo correcto, algunos artistas buenos y otros no tanto.",Neutral
+"La asignatura es llevadera, ni muy difícil ni muy fácil.",Neutral
+"Es un libro que se puede leer, aunque no deja huella.",Neutral
+"El supermercado tiene una oferta estándar, ni mejor ni peor que la competencia.",Neutral
+"La película pasa el rato, tiene momentos entretenidos y otros más flojos.",Neutral
+Es un software funcional que hace lo que promete sin brillar.,Neutral
+"El concierto fue correcto, algunas canciones mejores que otras.",Neutral
+"La comida estaba pasable, algunos platos mejores que otros.",Neutral
+"Es un gimnasio normal, con lo básico que se necesita.",Neutral
+"El hotel es lo que esperas por ese precio, instalaciones correctas.",Neutral
+La charla tuvo información útil mezclada con partes prescindibles.,Neutral
+Es un producto que cumple su función básica sin más pretensiones.,Neutral
+"El espectáculo entretuvo a ratos, aunque tuvo momentos menos interesantes.",Neutral
+La aplicación funciona correctamente la mayor parte del tiempo.,Neutral
+"Es un restaurante normalito, ni te impresiona ni te decepciona.",Neutral
+"El curso cubrió lo básico del tema, sin profundizar demasiado.",Neutral
+"La serie tiene temporadas regulares, ni muy buenas ni muy malas.",Neutral
+"Es un barrio tranquilo, con sus ventajas e inconvenientes.",Neutral
+"El sabor del plato es estándar, como en cualquier otro sitio similar.",Neutral
+La película es pasable si no tienes grandes expectativas.,Neutral
+"El servicio fue correcto, te atienden y ya está.",Neutral
+"Es una marca del montón, cumple pero no destaca.",Neutral
+El profesor explica de manera clara aunque no especialmente motivadora.,Neutral
+"La calidad de la tela es media, ni muy buena ni muy mala.",Neutral
+Es un juego que entretiene a ratos pero que puede hacerse repetitivo.,Neutral
+"El evento transcurrió sin pena ni gloria, lo esperado.",Neutral
+La aplicación funciona correctamente aunque tiene margen de mejora.,Neutral
+Es un dispositivo que hace lo que promete sin destacar.,Neutral
+El museo tiene algunas piezas interesantes y otras menos relevantes.,Neutral
+"La actuación fue correcta, sin grandes virtudes ni defectos notorios.",Neutral
+"Es un móvil de gama media típico, cumple su función.",Neutral
+El libro tiene partes que enganchan y otras que se hacen pesadas.,Neutral
+"La tienda ofrece un surtido estándar, similar a otras.",Neutral
+"Es un lugar típico, ni especialmente recomendable ni para evitar.",Neutral
+El diseño es funcional aunque poco original.,Neutral
+"La bebida sabe normal, ni destaca ni disgusta.",Neutral
+Es un servicio básico que cumple con lo mínimo esperado.,Neutral
+"El festival fue más o menos lo que esperaba, con altibajos.",Neutral
+La página web funciona correctamente aunque podría mejorar su usabilidad.,Neutral
+"Es un producto de calidad media, acorde a su precio.",Neutral
+El recital tuvo momentos buenos y otros más flojos.,Neutral
+"La película entretiene a ratos, aunque tiene escenas prescindibles.",Neutral
+Es un modelo básico que cumple su función principal.,Neutral
+"La comida estaba aceptable, nada memorable pero tampoco mala.",Neutral
+"El contenido del curso fue adecuado, aunque algo superficial.",Neutral
+"Es un local normalito, ni muy acogedor ni desagradable.",Neutral
+"El trato del personal fue correcto, profesional sin más.",Neutral
+"La experiencia fue la habitual, sin sorpresas positivas ni negativas.",Neutral
+"Es un servicio que funciona como debería, sin más.",Neutral
+"La calidad del audio es aceptable, ni cristalina ni deficiente.",Neutral
+"El sabor es neutro, ni muy intenso ni muy suave.",Neutral
+Es un smartphone que hace lo básico sin problemas.,Neutral
+"La película tiene un ritmo irregular, con partes que funcionan y otras no tanto.",Neutral
+"El hotel ofrece lo básico, instalaciones correctas sin lujos.",Neutral
+"Es un producto estándar, similar a otros de su categoría.",Neutral
+La app tiene una interfaz funcional aunque mejorable.,Neutral
+"El evento transcurrió según lo previsto, sin destacar.",Neutral
+"Es un lugar normal para pasar un rato, ni muy agradable ni desagradable.",Neutral
+"La calidad de la ropa es media, dura lo esperado.",Neutral
+El restaurante ofrece platos correctos a precio estándar.,Neutral
+"Es un libro que se deja leer, aunque no impacta especialmente.",Neutral
+La serie mantiene un nivel regular a lo largo de sus temporadas.,Neutral
+"El dispositivo funciona como debe, con algún detalle mejorable.",Neutral
+"Es un curso que aporta conocimientos básicos, sin profundizar demasiado.",Neutral
+"La ubicación del local es conveniente, aunque la zona no es especial.",Neutral
+"El sabor es común, como el de cualquier producto similar.",Neutral
+Es un servicio funcional que cumple lo prometido sin brillar.,Neutral
+"La película pasa el rato, ni te aburre completamente ni te fascina.",Neutral
+"El trato fue profesional, ni especialmente cálido ni desagradable.",Neutral
+"Es una marca que ofrece calidad estándar, acorde a su precio.",Neutral
+"La charla aportó información básica, sin grandes revelaciones.",Neutral
+"El juego entretiene durante un tiempo, aunque se vuelve repetitivo.",Neutral
+"Es un modelo de prestaciones medias, adecuado para uso cotidiano.",Neutral
+"La comida estaba tibia, aceptable pero sin destacar.",Neutral
+El concierto tuvo momentos buenos y otros más flojos.,Neutral
+"Es una aplicación funcional, con algunas limitaciones.",Neutral
+La exposición tiene obras interesantes y otras menos relevantes.,Neutral
+"El profesor explica correctamente, aunque sin especial entusiasmo.",Neutral
+"Es un producto que cumple con lo esperado, ni más ni menos.",Neutral
+"La experiencia de compra fue normal, sin incidencias destacables.",Neutral
+El museo tiene algunas salas interesantes y otras prescindibles.,Neutral
+Es un móvil básico que cumple con las funciones esenciales.,Neutral
+"La película tiene un guion aceptable, con altibajos.",Neutral
+"El servicio fue adecuado, atención correcta sin más.",Neutral
+"Es un lugar común, similar a otros de su categoría.",Neutral
+"La calidad del material es media, ni muy resistente ni frágil.",Neutral
+"El evento transcurrió de manera esperada, sin sorpresas.",Neutral
+"Es una plataforma funcional, que hace lo que promete.",Neutral
+"El sabor es estándar, como el de cualquier producto similar.",Neutral
+"La actuación fue correcta, con momentos mejores que otros.",Neutral
+"Es un restaurante normal, comida aceptable a precio razonable.",Neutral
+"El curso cubrió los temas básicos, sin profundizar demasiado.",Neutral
+La serie tiene capítulos buenos y otros prescindibles.,Neutral
+"Es un dispositivo de gama media, cumple su función principal.",Neutral
+"La comida estaba pasable, algunos platos mejores que otros.",Neutral
+El diseño es funcional aunque poco original.,Neutral
+Es un producto comparable a otros similares del mercado.,Neutral
+"La experiencia fue la habitual, sin aspectos destacables.",Neutral
+"El trato fue correcto, profesional sin calidez especial.",Neutral
+"Es un modelo estándar, con prestaciones acordes a su precio.",Neutral
+"La película entretiene a ratos, aunque tiene escenas flojas.",Neutral
+"El hotel es normalito, habitaciones limpias pero sin encanto.",Neutral
+Es una aplicación que funciona correctamente la mayor parte del tiempo.,Neutral
+"La charla aportó información básica, sin grandes revelaciones.",Neutral
+"El sabor es neutro, ni muy intenso ni desagradable.",Neutral
+"Es un local de ambiente tranquilo, ni muy animado ni aburrido.",Neutral
+La calidad-precio es la habitual en este tipo de productos.,Neutral
+"El evento fue más o menos lo que esperaba, con altibajos.",Neutral
+Es un servicio básico que cumple con lo mínimo esperado.,Neutral
+"La página web es funcional, aunque su diseño podría mejorar.",Neutral
+"El contenido del curso fue adecuado, con temas más interesantes que otros.",Neutral
+"Es un producto de durabilidad media, acorde a su precio.",Neutral
+"La comida estaba aceptable, sabor estándar sin destacar.",Neutral
+"El trato del personal fue correcto, profesional sin más.",Neutral
+Es un smartphone que hace lo básico sin problemas destacables.,Neutral
+"La película tiene un ritmo irregular, partes interesantes y otras no tanto.",Neutral
+"El gimnasio ofrece lo básico, equipamiento estándar.",Neutral
+"Es un lugar común para salir, ambiente normal.",Neutral
+La app tiene una interfaz funcional aunque mejorable.,Neutral
+El recital tuvo momentos buenos mezclados con otros más flojos.,Neutral
+"Es un libro que se deja leer, aunque no deja huella.",Neutral
+"La calidad del audio es aceptable, ni excelente ni deficiente.",Neutral
+El restaurante sirve comida correcta a precio estándar.,Neutral
+"Es un modelo con prestaciones medias, lo esperado en su rango.",Neutral
+"La serie mantiene un nivel regular, ni emociona ni aburre.",Neutral
+"El dispositivo funciona como debe, con algún detalle mejorable.",Neutral
+Es un curso que aporta conocimientos básicos sin profundizar.,Neutral
+"La ubicación es conveniente, aunque la zona no tiene nada especial.",Neutral
+"El sabor es estándar, como el de cualquier producto similar.",Neutral
+"Es un servicio funcional, cumple lo prometido sin brillar.",Neutral
+"La película pasa el rato sin más, entretenimiento pasajero.",Neutral
+"El trato fue profesional, correcto sin calidez especial.",Neutral
+Es una marca conocida que ofrece calidad estándar.,Neutral
+"La conferencia aportó información básica, algunas partes más útiles que otras.",Neutral
+"El juego entretiene durante un tiempo, aunque puede hacerse monótono.",Neutral
+"Es un modelo de prestaciones medias, adecuado para uso diario.",Neutral
+"La comida estaba tibia, sabor aceptable pero sin destacar.",Neutral
+El concierto tuvo momentos destacables y otros más flojos.,Neutral
+"Es una aplicación funcional, con limitaciones esperables.",Neutral
+La exposición tiene piezas interesantes mezcladas con otras prescindibles.,Neutral
+El profesor explica correctamente aunque sin entusiasmo.,Neutral
+"Es un producto que cumple con lo esperado, ni más ni menos.",Neutral
+"La experiencia de compra fue normal, el proceso habitual.",Neutral
+El museo tiene algunas salas que merecen la pena y otras menos.,Neutral
+Es un móvil básico con las funciones esenciales.,Neutral
+"La película tiene un guion irregular, con momentos buenos y flojos.",Neutral
+"El servicio fue adecuado, atención correcta sin destacar.",Neutral
+"Es un lugar común, ambiente similar a otros del mismo tipo.",Neutral
+"La calidad del material es media, durabilidad normal.",Neutral
+"El evento transcurrió sin incidencias, lo esperado.",Neutral
+Es una plataforma funcional que hace lo que promete.,Neutral
+"El sabor es común, ni muy sabroso ni desagradable.",Neutral
+"La actuación fue correcta, interpretación adecuada sin brillar.",Neutral
+"Es un restaurante normal, platos aceptables a precio razonable.",Neutral
+"El curso cubrió lo básico, sin profundizar en los temas.",Neutral
+"La serie es entretenida a ratos, con episodios mejores que otros.",Neutral
+"Es un dispositivo de gama media, cumple su función básica.",Neutral
+"La comida estaba pasable, algunos platos mejores que otros.",Neutral
+El diseño es funcional aunque no especialmente atractivo.,Neutral
+Es un producto comparable a otros similares en el mercado.,Neutral
+"La experiencia fue la habitual, sin aspectos destacables.",Neutral
+"El trato fue correcto, profesional sin más.",Neutral
+"Es un modelo estándar, prestaciones acordes a su precio.",Neutral
+La película entretiene si no tienes grandes expectativas.,Neutral
+"El hotel es normalito, instalaciones correctas sin encanto.",Neutral
+Es una aplicación que funciona bien la mayor parte del tiempo.,Neutral
+"La charla fue informativa, con partes más interesantes que otras.",Neutral
+"El sabor es neutro, ni intenso ni desagradable.",Neutral
+"Es un local de ambiente tranquilo, ni muy animado ni aburrido.",Neutral
+La calidad-precio es la habitual en este tipo de productos.,Neutral
+"El evento fue más o menos lo que esperaba, con altibajos.",Neutral
+"Es un servicio básico, cumple con lo mínimo esperado.",Neutral
+"La página web es funcional, aunque podría mejorar en usabilidad.",Neutral
+"El contenido del curso fue adecuado, temas útiles mezclados con otros menos.",Neutral
+"Es un producto de durabilidad media, acorde a su precio.",Neutral
+"La comida estaba aceptable, sabor estándar sin destacar.",Neutral
+"El trato del personal fue correcto, profesional sin más.",Neutral
+"Es un smartphone básico, cumple su función principal.",Neutral
+La película tiene partes interesantes y otras más lentas.,Neutral
+"El gimnasio ofrece lo básico, equipamiento estándar.",Neutral
+"Es un lugar común para pasar el rato, ambiente normal.",Neutral
+La app tiene una interfaz funcional aunque podría mejorar.,Neutral
+El recital tuvo momentos buenos mezclados con otros más flojos.,Neutral
+"Es un libro que se lee sin problemas, aunque no impresiona.",Neutral
+"La calidad del sonido es aceptable, ni excelente ni mala.",Neutral
+El restaurante ofrece comida correcta a precio razonable.,Neutral
+"Es un modelo con prestaciones medias, lo esperado en su rango.",Neutral
+"La serie mantiene un nivel regular, ni emociona ni aburre.",Neutral
+El dispositivo funciona correctamente con algún detalle mejorable.,Neutral
+Es un curso que aporta conocimientos básicos sin profundizar.,Neutral
+"La ubicación es conveniente, aunque la zona no tiene nada especial.",Neutral
+"El sabor es estándar, como el de productos similares.",Neutral
+"Es un servicio funcional, cumple lo prometido sin más.",Neutral
+"La película pasa el rato, ni te aburre completamente ni te fascina.",Neutral
+"El trato fue profesional, correcto sin calidez especial.",Neutral
+Es una marca conocida de calidad estándar.,Neutral
+"La charla aportó información básica, algunas partes más útiles que otras.",Neutral
+"El parque es normal, tiene zonas agradables y otras menos cuidadas.",Neutral
+La función tuvo momentos interesantes y otros más lentos.,Neutral
+"Es un teléfono que cumple con lo básico, sin sorprender.",Neutral
+"El partido fue equilibrado, con jugadas buenas y malas por ambos lados.",Neutral
+"La tienda tiene una oferta variada, algunos productos interesantes y otros no tanto.",Neutral
+"Es un café de sabor estándar, ni muy intenso ni muy suave.",Neutral
+"El episodio mantuvo el nivel medio de la serie, ni el mejor ni el peor.",Neutral
+La web funciona correctamente aunque su diseño es mejorable.,Neutral
+"Es un ordenador de gama media, cumple para tareas cotidianas.",Neutral
+"El sistema operativo es funcional, con sus ventajas e inconvenientes.",Neutral
+"La batería dura lo esperado, ni destaca por su autonomía ni decepciona.",Neutral
+"Es un vino correcto, sabor equilibrado sin destacar.",Neutral
+"El centro comercial tiene tiendas variadas, algunas interesantes y otras prescindibles.",Neutral
+"La novela se deja leer, aunque no engancha especialmente.",Neutral
+"Es un aeropuerto funcional, con lo necesario sin lujos.",Neutral
+"El transporte público funciona regularmente, con retrasos ocasionales.",Neutral
+"La reunión fue productiva en algunos aspectos, menos útil en otros.",Neutral
+"Es una clínica estándar, atención correcta sin destacar.",Neutral
+"El supermercado tiene surtido normal, precios en la media.",Neutral
+"La biblioteca tiene una colección aceptable, aunque limitada en algunos temas.",Neutral
+"Es un barrio tranquilo, con sus pros y contras como cualquier otro.",Neutral
+"El centro de estudios ofrece formación básica, sin destacar.",Neutral
+"La oficina tiene instalaciones funcionales, ni modernas ni anticuadas.",Neutral
+Es un programa que funciona correctamente la mayor parte del tiempo.,Neutral
+"La atención al cliente fue profesional, sin calidez especial.",Neutral
+"El móvil tiene una cámara aceptable, hace fotos correctas sin más.",Neutral
+"La película tiene un ritmo irregular, con escenas que funcionan y otras no tanto.",Neutral
+"Es un hotel de categoría media, instalaciones correctas sin lujos.",Neutral
+"El plato tiene un sabor común, ni muy sabroso ni desagradable.",Neutral
+"La conexión a internet funciona a velocidad estándar, ni rápida ni lenta.",Neutral
+"Es un lugar ni muy concurrido ni muy tranquilo, término medio.",Neutral
+"El resultado fue el esperado, ni superó expectativas ni decepcionó.",Neutral
+"La decoración es neutra, ni moderna ni anticuada.",Neutral
+"Es un manual que explica lo básico, sin profundizar demasiado.",Neutral
+"El nivel del curso es intermedio, ni muy básico ni avanzado.",Neutral
+"La actuación fue correcta, interpretación adecuada sin brillar.",Neutral
+"Es un producto que cumple su función, sin características destacables.",Neutral
+"El teclado es funcional, teclas de dureza media.",Neutral
+"La reunión transcurrió como se esperaba, sin aspectos destacables.",Neutral
+"Es un software que hace lo que promete, sin extras.",Neutral
+"El diseño del edificio es estándar, ni arquitectónicamente notable ni feo.",Neutral
+"La pizza estaba normal, ni muy sabrosa ni mala.",Neutral
+"Es un concierto que entretiene, con momentos mejores que otros.",Neutral
+El museo tiene algunas exposiciones interesantes y otras prescindibles.,Neutral
+"La batería dura lo esperado, ni más ni menos.",Neutral
+"Es un bar con ambiente típico, ni muy animado ni aburrido.",Neutral
+"El sabor de la bebida es neutro, ni intenso ni suave.",Neutral
+La película tiene momentos que enganchan y otros más lentos.,Neutral
+Es un producto comparable a otros de su categoría y precio.,Neutral
+El servicio técnico resolvió el problema en tiempo estándar.,Neutral
+"La calidad del audio es aceptable, suficiente para uso normal.",Neutral
+"Es un juego que entretiene por un tiempo, sin ser adictivo.",Neutral
+El documental presenta información de manera equilibrada.,Neutral
+La conferencia tuvo partes interesantes mezcladas con otras más densas.,Neutral
+Es un dispositivo que funciona correctamente la mayor parte del tiempo.,Neutral
+"El sabor del postre es normal, ni muy dulce ni insípido.",Neutral
+"La serie mantiene un nivel constante, sin grandes altibajos.",Neutral
+"Es un gimnasio con equipamiento estándar, lo necesario sin más.",Neutral
+"La calidad de la imagen es aceptable, definición media.",Neutral
+"El trato del doctor fue profesional, ni especialmente cálido ni frío.",Neutral
+Es un modelo básico que cumple su función principal.,Neutral
+"La comida del avión estaba pasable, lo típico de estos servicios.",Neutral
+"El hotel ofrece un desayuno estándar, variedad limitada pero suficiente.",Neutral
+"Es una película que pasa el rato, entretenimiento pasajero.",Neutral
+"La app tiene lo básico que necesitas, sin funciones innovadoras.",Neutral
+"El servicio fue correcto, atención profesional sin más.",Neutral
+"Es un restaurante de ambiente tranquilo, decoración discreta.",Neutral
+"La interfaz es funcional, aunque mejorable en algunos aspectos.",Neutral
+"El sistema operativo cumple con lo esperado, estabilidad aceptable.",Neutral
+Es un libro que aporta información básica sobre el tema.,Neutral
+"La conexión wifi funciona a velocidad media, suficiente para navegar.",Neutral
+"El evento transcurrió según lo previsto, sin sorpresas.",Neutral
+"Es un curso que cubre los fundamentos, sin profundizar en detalles.",Neutral
+"La tienda online tiene una navegación funcional, aunque mejorable.",Neutral
+El parque tiene zonas bien cuidadas y otras que necesitan mantenimiento.,Neutral
+"Es un café con ambiente tranquilo, ni muy acogedor ni frío.",Neutral
+"La película tiene un guion correcto, con altibajos en su desarrollo.",Neutral
+"El dispositivo tiene prestaciones medias, adecuadas para uso cotidiano.",Neutral
+"Es un servicio de streaming con catálogo variado, algunas joyas entre contenido prescindible.",Neutral
+La web tiene un diseño funcional aunque no destaca por su originalidad.,Neutral
+"El sabor de este té es suave, ni muy intenso ni insípido.",Neutral
+"La aplicación hace lo que promete, aunque con margen de mejora.",Neutral
+"Es un móvil de gama media, rendimiento acorde a su precio.",Neutral
+"El hotel está en una ubicación conveniente, ni céntrica ni alejada.",Neutral
+"La pantalla tiene resolución estándar, calidad de imagen aceptable.",Neutral
+"Es un plato de sabor equilibrado, ni muy condimentado ni soso.",Neutral
+"El concierto mantuvo un nivel regular, con momentos mejores que otros.",Neutral
+"La película entretiene lo suficiente, pasa el rato sin más.",Neutral
+Es un producto que funciona correctamente la mayor parte del tiempo.,Neutral
+El evento tuvo momentos interesantes y otros más aburridos.,Neutral
+"La comida estaba bien, sabor estándar sin sorpresas.",Neutral
+Es un dispositivo con rendimiento aceptable para tareas básicas.,Neutral
+"El curso cubrió los temas necesarios, sin profundizar demasiado.",Neutral
+"La zona tiene sus ventajas e inconvenientes, como cualquier barrio.",Neutral
+"Es un servicio correcto, atención profesional sin extras.",Neutral
+"El libro se lee sin problemas, aunque no deja huella.",Neutral
+"La actuación fue adecuada, interpretación correcta sin destacar.",Neutral
+Es una aplicación funcional con diseño estándar.,Neutral
+"El hotel tiene instalaciones básicas, limpias pero sin encanto.",Neutral
+"La serie mantiene un ritmo constante, ni emociona ni aburre.",Neutral
+Es un modelo comparable a otros de su gama y precio.,Neutral
+"El trato del personal fue el esperado, cordial sin más.",Neutral
+La exposición tiene obras interesantes y otras menos relevantes.,Neutral
+"Es un restaurante típico del barrio, comida casera estándar.",Neutral
+"El partido estuvo igualado, con momentos buenos y malos.",Neutral
+La calidad del sonido es suficiente para uso cotidiano.,Neutral
+"Es un centro comercial con tiendas variadas, algunas interesantes y otras no tanto.",Neutral
+"El sabor del café es equilibrado, ni muy intenso ni suave.",Neutral
+"La película tiene un ritmo irregular, partes que funcionan y otras menos.",Neutral
+Es un móvil que cumple con lo básico sin problemas destacables.,Neutral
+"El gimnasio ofrece lo necesario, sin equipamiento especial.",Neutral
+"La web tiene una navegación correcta, funcional pero mejorable.",Neutral
+"Es un producto de durabilidad media, acorde a su precio.",Neutral
+"El concierto tuvo altibajos, canciones buenas y otras prescindibles.",Neutral
+"La comida del menú estaba aceptable, platos correctos sin más.",Neutral
+Es un sistema que funciona como debe la mayor parte del tiempo.,Neutral
+El diseño es funcional aunque poco original.,Neutral
+"La batería dura lo esperado, autonomía estándar.",Neutral
+Es un servicio que cumple con lo prometido sin destacar.,Neutral
+El museo tiene algunas salas que merecen la pena y otras menos.,Neutral
+La serie tiene capítulos que enganchan y otros más flojos.,Neutral
+Es un dispositivo con prestaciones medias para su rango de precio.,Neutral
+"El trato fue profesional, correcto sin calidez especial.",Neutral
+"La película pasa el rato, entretenimiento pasajero.",Neutral
+"Es un local de ambiente tranquilo, decoración discreta.",Neutral
+"El curso aportó conocimientos básicos, sin profundizar en detalles.",Neutral
+"La interfaz es funcional, aunque podría ser más intuitiva.",Neutral
+"Es un producto que hace lo que promete, sin sorpresas.",Neutral
+"El sabor es estándar, como cualquier producto similar.",Neutral
+La zona tiene tanto aspectos positivos como negativos.,Neutral
+"Es un hotel normal, ni muy moderno ni anticuado.",Neutral
+"El juego entretiene por un tiempo, aunque puede hacerse repetitivo.",Neutral
+"La atención al cliente fue correcta, sin destacar.",Neutral
+"Es un plato de sabor equilibrado, ni muy condimentado ni soso.",Neutral
+"El transporte funciona regularmente, con retrasos ocasionales.",Neutral
+"La novela se deja leer, aunque no engancha especialmente.",Neutral
+Es un dispositivo de gama media con rendimiento acorde.,Neutral
+"El supermercado tiene surtido normal, precios en la media.",Neutral
+"La app tiene lo básico que necesitas, sin funciones innovadoras.",Neutral
+Es un restaurante donde se come correctamente a precio razonable.,Neutral
+"El evento transcurrió según lo previsto, sin sorpresas.",Neutral
+"La calidad de la imagen es aceptable, definición media.",Neutral
+"Es un centro con instalaciones funcionales, ni modernas ni anticuadas.",Neutral
+"El sistema operativo cumple con lo esperado, estabilidad aceptable.",Neutral
+"La actuación fue correcta, interpretación adecuada sin brillar.",Neutral
+Es un modelo con características estándar para su categoría.,Neutral
+El documental presenta información de manera equilibrada.,Neutral
+"La comida estaba a temperatura adecuada, sabor normal.",Neutral
+"Es un software que hace lo que promete, sin extras.",Neutral
+"El concierto mantuvo un nivel medio, ni impresionó ni decepcionó.",Neutral
+La película tiene momentos que enganchan y otros más lentos.,Neutral
+Es un producto comparable a otros de su categoría y precio.,Neutral
+El servicio técnico resolvió el problema en tiempo estándar.,Neutral
+"La calidad del audio es aceptable, suficiente para uso normal.",Neutral
+"Es un juego que entretiene por un tiempo, sin ser adictivo.",Neutral
+"El teclado es funcional, teclas de dureza media.",Neutral
+"La reunión transcurrió como se esperaba, sin aspectos destacables.",Neutral
+Es un smartphone básico que cumple con las funciones esenciales.,Neutral
+"El diseño del edificio es estándar, ni arquitectónicamente notable ni feo.",Neutral
+"La pizza estaba normal, ni muy sabrosa ni mala.",Neutral
+"Es un concierto que entretiene, con momentos mejores que otros.",Neutral
+El museo tiene algunas exposiciones interesantes y otras prescindibles.,Neutral
+"La batería dura lo esperado, ni más ni menos.",Neutral
+"Es un bar con ambiente típico, ni muy animado ni aburrido.",Neutral
+"El sabor de la bebida es neutro, ni intenso ni suave.",Neutral
+La película tiene momentos que enganchan y otros más lentos.,Neutral
+Es un producto comparable a otros de su categoría y precio.,Neutral
+El servicio técnico resolvió el problema en tiempo estándar.,Neutral
+"La calidad del audio es aceptable, suficiente para uso normal.",Neutral
+"Es un juego que entretiene por un tiempo, sin ser adictivo.",Neutral
+El documental presenta información de manera equilibrada.,Neutral
+La conferencia tuvo partes interesantes mezcladas con otras más densas.,Neutral
+Es un dispositivo que funciona correctamente la mayor parte del tiempo.,Neutral
+"El sabor del postre es normal, ni muy dulce ni insípido.",Neutral
+"La serie mantiene un nivel constante, sin grandes altibajos.",Neutral
+"Es un gimnasio con equipamiento estándar, lo necesario sin más.",Neutral
+"La calidad de la imagen es aceptable, definición media.",Neutral
+"El trato del doctor fue profesional, ni especialmente cálido ni frío.",Neutral
+Es un modelo básico que cumple su función principal.,Neutral
+"La comida del avión estaba pasable, lo típico de estos servicios.",Neutral
+"El hotel ofrece un desayuno estándar, variedad limitada pero suficiente.",Neutral
+"Es una película que pasa el rato, entretenimiento pasajero.",Neutral
+"La app tiene lo básico que necesitas, sin funciones innovadoras.",Neutral
+"El servicio fue correcto, atención profesional sin más.",Neutral
+"Es un restaurante de ambiente tranquilo, decoración discreta.",Neutral
+"La interfaz es funcional, aunque mejorable en algunos aspectos.",Neutral
+"El sistema operativo cumple con lo esperado, estabilidad aceptable.",Neutral
+Es un libro que aporta información básica sobre el tema.,Neutral
+"La conexión wifi funciona a velocidad media, suficiente para navegar.",Neutral
+"El evento transcurrió según lo previsto, sin sorpresas.",Neutral
+"Es un curso que cubre los fundamentos, sin profundizar en detalles.",Neutral
+"La tienda online tiene una navegación funcional, aunque mejorable.",Neutral
+El parque tiene zonas bien cuidadas y otras que necesitan mantenimiento.,Neutral
+"Es un café con ambiente tranquilo, ni muy acogedor ni frío.",Neutral
+"La película tiene un guion correcto, con altibajos en su desarrollo.",Neutral
+"El dispositivo tiene prestaciones medias, adecuadas para uso cotidiano.",Neutral
+"El coche funciona bien, mantenimiento normal para su edad.",Neutral
+"La habitación era estándar, ni espaciosa ni pequeña.",Neutral
+"El resultado fue el esperado, ni mejor ni peor.",Neutral
+"La bebida estaba a temperatura adecuada, sabor normal.",Neutral
+"El evento duró lo justo, ni se hizo corto ni largo.",Neutral
+"La atención fue correcta, servicio estándar.",Neutral
+El profesor explica de manera clara aunque no especialmente motivadora.,Neutral
+"La playa estaba aceptable, ni muy limpia ni sucia.",Neutral
+El producto cumple su función básica sin destacar.,Neutral
+La serie tiene tramas interesantes mezcladas con otras prescindibles.,Neutral
+"El restaurante ofrece una experiencia normal, sin sorpresas.",Neutral
+"La reunión fue como tantas otras, productiva en algunos aspectos.",Neutral
+"El teléfono tiene una duración de batería estándar, lo habitual.",Neutral
+La función teatral tuvo momentos buenos y otros más lentos.,Neutral
+"El programa informático es funcional, interfaz mejorable.",Neutral
+"La comida del hotel era correcta, buffet variado pero estándar.",Neutral
+"El concierto tuvo sus momentos, aunque no fue memorable.",Neutral
+"La tienda tenía lo básico, surtido normalito.",Neutral
+El libro explica los conceptos principales sin profundizar demasiado.,Neutral
+"La experiencia de usuario de la app es estándar, funcional pero mejorable.",Neutral
+"El museo ofrece una visita interesante a ratos, otras salas prescindibles.",Neutral
+"La velocidad de internet es normal, suficiente para uso básico.",Neutral
+"El restaurante tiene una decoración correcta, ambiente tranquilo.",Neutral
+La película tiene actores que cumplen su papel sin destacar.,Neutral
+"El autobús salió puntual y llegó con ligero retraso, lo normal.",Neutral
+"La tienda online tiene un catálogo estándar, nada especial.",Neutral
+"El trato en recepción fue profesional, ni frío ni cercano.",Neutral
+"La aplicación funciona correctamente en general, algún fallo ocasional.",Neutral
+"El sabor de este plato es equilibrado, ni muy intenso ni soso.",Neutral
+"La actuación del grupo fue correcta, algunos temas mejores que otros.",Neutral
+"El diseño web es funcional, sin alardes estéticos.",Neutral
+La cámara del móvil hace fotos aceptables en buenas condiciones de luz.,Neutral
+"El curso online cumple con el temario básico, explicaciones suficientes.",Neutral
+"La zona de ocio tiene opciones variadas, algunas interesantes.",Neutral
+"El hotel está bien comunicado, ubicación conveniente sin ser céntrica.",Neutral
+"La película tiene efectos especiales correctos, ni impresionan ni decepcionan.",Neutral
+El servicio técnico solucionó el problema en tiempo estándar.,Neutral
+"La comida tenía temperatura adecuada, presentación correcta.",Neutral
+El transporte público funciona con regularidad aceptable.,Neutral
+La serie mantiene el interés lo suficiente para seguir viéndola.,Neutral
+"El gimnasio tiene máquinas básicas, lo necesario sin más.",Neutral
+"La sala de cine era cómoda, instalaciones estándar.",Neutral
+"El sabor del café era normal, ni muy intenso ni suave.",Neutral
+"La plataforma de streaming tiene contenido variado, algunas joyas entre material prescindible.",Neutral
+"El centro comercial tiene tiendas habituales, oferta estándar.",Neutral
+"La fiesta estuvo animada a ratos, momentos mejores que otros.",Neutral
+El rendimiento del ordenador es adecuado para tareas básicas.,Neutral
+La exposición presentaba obras interesantes mezcladas con otras menos relevantes.,Neutral
+"El trato del personal fue correcto, profesional sin más.",Neutral
+La aplicación tiene una interfaz intuitiva aunque mejorable.,Neutral
+"El menú ofrecía platos variados, sabores correctos sin sorprender.",Neutral
+"La página web carga a velocidad normal, diseño funcional.",Neutral
+El supermercado tiene productos habituales a precios estándar.,Neutral
+La película narra una historia previsible con algunos giros interesantes.,Neutral
+"El concierto mantuvo un nivel constante, ni emocionante ni aburrido.",Neutral
+La calidad de sonido de los auriculares es aceptable para uso diario.,Neutral
+"El hotel ofrece un servicio correcto, instalaciones funcionales sin lujos.",Neutral
+La reunión cubrió los temas previstos sin profundizar demasiado.,Neutral
+"El libro se deja leer, trama desarrollada correctamente.",Neutral
+La tienda tiene variedad limitada pero suficiente.,Neutral
+"El sabor de este plato es neutro, ni destaca ni disgusta.",Neutral
+"La película entretiene lo suficiente, pasa el rato sin más.",Neutral
+El sistema operativo funciona con estabilidad aceptable.,Neutral
+La charla aportó información básica sobre el tema.,Neutral
+"El material del producto es de calidad media, durabilidad normal.",Neutral
+"La serie mantiene un nivel regular, ni apasiona ni aburre.",Neutral
+"El trato médico fue profesional, explicaciones correctas.",Neutral
+La conferencia tuvo momentos interesantes mezclados con partes prescindibles.,Neutral
+El dispositivo tiene un rendimiento acorde a su precio.,Neutral
+"La comida estaba bien, sabor equilibrado sin destacar.",Neutral
+El curso cubrió los conceptos fundamentales sin profundizar.,Neutral
+"La ubicación del hotel es conveniente, ni céntrica ni periférica.",Neutral
+El juego entretiene durante un tiempo limitado.,Neutral
+La función tuvo momentos buenos y partes más flojas.,Neutral
+"El diseño del producto es funcional, estética estándar.",Neutral
+La película tiene un guion correcto con algunos diálogos interesantes.,Neutral
+El trato en la tienda fue profesional sin calidez especial.,Neutral
+La aplicación cumple su función principal sin problemas graves.,Neutral
+El restaurante ofrece platos variados de calidad aceptable.,Neutral
+"La batería dura lo esperado, autonomía estándar.",Neutral
+"El concierto ofreció un repertorio predecible, ejecución correcta.",Neutral
+La página web tiene una estructura clara aunque mejorable.,Neutral
+El móvil tiene prestaciones acordes a su gama media.,Neutral
+"La reunión transcurrió según lo previsto, algunos puntos más útiles que otros.",Neutral
+"El museo presenta una colección variada, algunas piezas más interesantes que otras.",Neutral
+La calidad de imagen es suficiente para uso cotidiano.,Neutral
+"El servicio de atención fue correcto, resolución en tiempo estándar.",Neutral
+"La película mantiene un ritmo irregular, partes que funcionan y otras menos.",Neutral
+"El sabor del postre era equilibrado, dulzor moderado.",Neutral
+La aplicación tiene funcionalidades básicas que cumplen su propósito.,Neutral
+El hotel ofrece desayuno variado de calidad estándar.,Neutral
+La serie desarrolla tramas previsibles con algunos momentos interesantes.,Neutral
+"El dispositivo funciona sin problemas graves, rendimiento normal.",Neutral
+"La experiencia de compra fue la habitual, proceso estándar.",Neutral
+"El restaurante tiene ambiente tranquilo, decoración discreta.",Neutral
+La conexión a internet funciona a velocidad aceptable.,Neutral
+El libro explica conceptos básicos de manera clara sin profundizar.,Neutral
+"La actuación fue correcta, interpretación adecuada sin destacar.",Neutral
+El producto tiene una relación calidad-precio acorde al mercado.,Neutral
+La conferencia aportó información útil mezclada con datos conocidos.,Neutral
+El servicio técnico resolvió la incidencia en tiempo razonable.,Neutral
+La calidad del sonido es aceptable para uso diario.,Neutral
+"El curso online cubre el temario básico, explicaciones suficientes.",Neutral
+La película narra una historia entretenida a ratos.,Neutral
+El transporte público funciona con puntualidad variable.,Neutral
+La exposición presenta obras de interés diverso.,Neutral
+"El trato del personal fue correcto, profesional sin más.",Neutral
+La interfaz del programa es funcional aunque mejorable.,Neutral
+El menú ofrece platos variados de calidad estándar.,Neutral
+"La página web carga a velocidad normal, navegación correcta.",Neutral
+"El supermercado tiene productos habituales, precios en la media.",Neutral
+La película cuenta una historia previsible con algunos giros interesantes.,Neutral
+"El concierto mantuvo un nivel constante, ni emocionante ni aburrido.",Neutral
+La calidad de imagen de la televisión es aceptable para uso doméstico.,Neutral
+"El hotel ofrece un servicio correcto, instalaciones funcionales.",Neutral
+La reunión cubrió los temas previstos sin profundizar demasiado.,Neutral
+"El libro resulta informativo, lenguaje claro sin brillantez.",Neutral
+La tienda tiene variedad limitada pero suficiente.,Neutral
+"El sabor de la comida es estándar, ni destaca ni disgusta.",Neutral
+La película entretiene lo suficiente sin ser memorable.,Neutral
+El sistema operativo funciona con estabilidad aceptable.,Neutral
+La charla aportó información básica sobre el tema.,Neutral
+"El material del producto es de calidad media, durabilidad normal.",Neutral
+La serie mantiene un nivel regular a lo largo de los episodios.,Neutral
+"El trato médico fue profesional, explicaciones correctas.",Neutral
+La conferencia tuvo partes interesantes y momentos más densos.,Neutral
+El dispositivo tiene un rendimiento acorde a su precio.,Neutral
+"La comida estaba a temperatura adecuada, sabor equilibrado.",Neutral
+El curso cubrió los conceptos fundamentales sin profundizar.,Neutral
+"La ubicación del local es conveniente, acceso fácil.",Neutral
+El juego entretiene durante un tiempo limitado.,Neutral
+La función tuvo momentos buenos y partes más flojas.,Neutral
+"El diseño del producto es funcional, estética estándar.",Neutral
+La película tiene un guion correcto con algunos momentos interesantes.,Neutral
+El trato en el comercio fue profesional sin calidez especial.,Neutral
+La aplicación funciona correctamente la mayor parte del tiempo.,Neutral
+El restaurante ofrece un menú variado de calidad aceptable.,Neutral
+"La batería del dispositivo dura lo esperado, autonomía estándar.",Neutral
+"El concierto ofreció un repertorio predecible, ejecución correcta.",Neutral
+La página web tiene una estructura clara aunque su diseño es mejorable.,Neutral
+El móvil tiene prestaciones acordes a su gama y precio.,Neutral
+"La reunión transcurrió según lo previsto, eficiencia moderada.",Neutral
+"El museo presenta una colección variada, algunas piezas destacables.",Neutral
+La calidad de imagen de la pantalla es suficiente para uso regular.,Neutral
+"El servicio de atención al cliente fue correcto, resolución en tiempo estándar.",Neutral
+"La película mantiene un ritmo irregular, partes ágiles y otras más lentas.",Neutral
+"El sabor de la bebida era equilibrado, intensidad media.",Neutral
+La aplicación tiene funcionalidades básicas que funcionan correctamente.,Neutral
+El hotel ofrece habitaciones limpias de tamaño estándar.,Neutral
+La serie desarrolla tramas previsibles con algunos giros interesantes.,Neutral
+"El dispositivo funciona sin fallos graves, rendimiento normal.",Neutral
+"La experiencia de compra fue la habitual, proceso estándar.",Neutral
+"El restaurante tiene ambiente tranquilo, volumen adecuado.",Neutral
+La conexión a internet funciona a velocidad aceptable la mayor parte del tiempo.,Neutral
+El libro explica conceptos básicos de manera clara sin profundizar demasiado.,Neutral
+"La actuación cumplió con las expectativas, ni más ni menos.",Neutral
+El producto tiene una relación calidad-precio acorde al mercado.,Neutral
+La conferencia aportó información útil mezclada con datos ya conocidos.,Neutral
+El servicio técnico resolvió la incidencia en tiempo razonable.,Neutral
+La calidad del sonido es aceptable para escucha casual.,Neutral
+"El curso online cubre el temario básico, profundidad moderada.",Neutral
+"La película narra una historia entretenida a ratos, desarrollo previsible.",Neutral
+El transporte público funciona con regularidad aceptable.,Neutral
+"La exposición presenta obras de interés variado, algunas destacables.",Neutral
+"El trato del vendedor fue correcto, profesional sin entusiasmo.",Neutral
+La interfaz es funcional aunque mejorable en algunos aspectos.,Neutral
+El menú ofrece platos variados de elaboración correcta.,Neutral
+"La página web carga a velocidad normal, diseño estándar.",Neutral
+El supermercado tiene productos básicos a precios habituales.,Neutral
+La película cuenta una historia previsible con algunos momentos interesantes.,Neutral
+"El concierto mantuvo un nivel constante, repertorio esperado.",Neutral
+La calidad de imagen es suficiente para uso habitual.,Neutral
+El hotel ofrece servicios básicos que funcionan correctamente.,Neutral
+"La reunión siguió la agenda prevista, eficacia moderada.",Neutral
+El libro resultó informativo aunque no especialmente memorable.,Neutral
+"La tienda tiene un surtido estándar, variedad limitada pero suficiente.",Neutral
+"El sabor del producto es equilibrado, intensidad media.",Neutral
+"La película entretiene lo justo, pasa el rato sin más.",Neutral
+"El sistema funciona con estabilidad aceptable, fallos ocasionales.",Neutral
+La charla cubrió aspectos básicos del tema sin profundizar.,Neutral
+"El material es de resistencia media, durabilidad normal.",Neutral
+"La serie mantiene un nivel regular, ni engancha ni aburre.",Neutral
+"El trato en consulta fue profesional, explicaciones claras sin detalles.",Neutral
+La conferencia alternó momentos interesantes con partes más densas.,Neutral
+El dispositivo tiene un rendimiento acorde a su categoría.,Neutral
+"La comida estaba correcta, sabores equilibrados sin destacar.",Neutral
+El curso cubrió lo esencial sin entrar en complejidades.,Neutral
+"La ubicación es conveniente, accesible en transporte público.",Neutral
+"El juego entretiene temporalmente, mecánicas estándar.",Neutral
+La función teatral tuvo escenas acertadas y otras menos logradas.,Neutral
+"El diseño es funcional, estética convencional.",Neutral
+La película desarrolla una trama predecible con algunos giros.,Neutral
+"El trato comercial fue correcto, información básica proporcionada.",Neutral
+La aplicación tiene las funciones necesarias sin extras.,Neutral
+"El restaurante ofrece un ambiente tranquilo, decoración discreta.",Neutral
+"La batería dura lo que cabría esperar, autonomía estándar.",Neutral
+"El concierto presentó un repertorio esperado, ejecución correcta.",Neutral
+La página web tiene estructura clara aunque diseño convencional.,Neutral
+El móvil tiene características acordes a su gama media.,Neutral
+La reunión abordó los temas previstos sin profundizar demasiado.,Neutral
+El museo alberga una colección variada de interés diverso.,Neutral
+La calidad de imagen es aceptable en condiciones normales.,Neutral
+El servicio postventa respondió en tiempo razonable.,Neutral
+La película mantiene el interés de forma irregular.,Neutral
+"El sabor es equilibrado, ni muy intenso ni suave.",Neutral
+La aplicación funciona correctamente en general.,Neutral
+El hotel ofrece instalaciones limpias y funcionales.,Neutral
+"La serie desarrolla personajes estándar, ni carismáticos ni planos.",Neutral
+El dispositivo rinde adecuadamente para tareas cotidianas.,Neutral
+"La experiencia fue la habitual, sin sorpresas.",Neutral
+"El restaurante tiene precios acordes a la zona, ni baratos ni caros.",Neutral
+"La conexión funciona a velocidad constante, ni rápida ni lenta.",Neutral
+El libro proporciona información básica sobre el tema tratado.,Neutral
+"La actuación cumplió con lo esperado, interpretación correcta.",Neutral
+"El producto tiene durabilidad media, acorde a su precio.",Neutral
+La conferencia alternó datos útiles con contenido prescindible.,Neutral
+El soporte técnico resolvió el problema en tiempo estándar.,Neutral
+La calidad de audio es suficiente para uso normal.,Neutral
+"El curso online proporciona conocimientos básicos, explicaciones claras sin profundidad.",Neutral
+"La película tiene un ritmo irregular, partes ágiles y otras lentas.",Neutral
+"El transporte llega con puntualidad variable, lo habitual.",Neutral
+La exposición muestra piezas de interés diverso.,Neutral
+"El trato del personal fue profesional, ni cálido ni distante.",Neutral
+La interfaz del sistema es funcional aunque mejorable.,Neutral
+El menú ofrece variedad limitada pero suficiente.,Neutral
+La página web carga a velocidad normal la mayor parte del tiempo.,Neutral
+El supermercado tiene precios en la media del mercado.,Neutral
+La película narra una historia previsible con alguna sorpresa.,Neutral
+El concierto mantuvo un nivel constante de principio a fin.,Neutral
+La calidad de imagen es la esperada para esta gama.,Neutral
+El hotel ofrece comodidades básicas que funcionan correctamente.,Neutral
+"La reunión siguió el formato habitual, eficacia moderada.",Neutral
+El libro explica conceptos de manera comprensible sin brillantez.,Neutral
+La tienda dispone de productos básicos a precios estándar.,Neutral
+"El sabor es correcto, ni destacable ni desagradable.",Neutral
+"La película pasa el rato sin más, entretenimiento pasajero.",Neutral
+El sistema operativo funciona con estabilidad aceptable.,Neutral
+La charla aportó información básica ya conocida en parte.,Neutral
+"El material tiene resistencia media, lo esperado en su categoría.",Neutral
+"La serie mantiene una calidad constante, tramas predecibles.",Neutral
+"El trato médico fue correcto, aclaró dudas básicas.",Neutral
+La conferencia alternó datos interesantes con partes más densas.,Neutral
+"El dispositivo responde con rapidez moderada, lo esperado.",Neutral
+"La comida llegó a temperatura adecuada, sabor estándar.",Neutral
+El curso cubrió el temario previsto sin sorpresas.,Neutral
+"La ubicación es accesible, ni céntrica ni alejada.",Neutral
+"El juego tiene gráficos correctos, jugabilidad estándar.",Neutral
+La función teatral mantuvo un ritmo irregular.,Neutral
+"El diseño del producto es funcional, estética común.",Neutral
+La película sigue una estructura convencional con pequeñas variaciones.,Neutral
+"El trato fue profesional, información proporcionada sin detalles.",Neutral
+La aplicación tiene una interfaz clara aunque mejorable.,Neutral
+"El restaurante tiene un ambiente normal, decoración estándar.",Neutral
+La batería dura lo suficiente para uso diario básico.,Neutral
+"El concierto incluyó temas conocidos, interpretación correcta.",Neutral
+"La página web presenta información de manera ordenada, diseño convencional.",Neutral
+El móvil tiene un rendimiento acorde a dispositivos similares.,Neutral
+La reunión trató los puntos previstos sin profundizar.,Neutral
+"El museo presenta una colección variada, algunas piezas destacables.",Neutral
+La calidad de imagen es aceptable en buenas condiciones.,Neutral
+"El servicio respondió en tiempo estándar, solución correcta.",Neutral
+La película mantiene un ritmo irregular a lo largo de la trama.,Neutral
+"El sabor de la comida es equilibrado, ni muy condimentado ni soso.",Neutral
+La aplicación funciona correctamente la mayor parte del tiempo.,Neutral
+"El hotel está ubicado en zona accesible, instalaciones estándar.",Neutral
+La serie desarrolla tramas previsibles con algunos giros.,Neutral
+El dispositivo ofrece rendimiento adecuado para uso básico.,Neutral
+"La experiencia de usuario es la habitual, ni frustración ni deleite.",Neutral
+El restaurante sirve platos de sabor correcto a precio razonable.,Neutral
+La conexión a internet funciona a velocidad constante.,Neutral
+El libro proporciona una visión general sin profundidad.,Neutral
+"La actuación fue correcta, interpretación adecuada sin brillar.",Neutral
+El producto tiene una vida útil acorde a su categoría.,Neutral
+La conferencia intercaló información útil con datos prescindibles.,Neutral
+"El soporte técnico atendió en tiempo razonable, solución estándar.",Neutral
+La calidad de sonido es aceptable en entornos tranquilos.,Neutral
+El curso online cubre los temas prometidos con explicaciones claras.,Neutral
+La película tiene momentos entretenidos alternados con partes más lentas.,Neutral
+El transporte cumple horarios con variaciones ocasionales.,Neutral
+La exposición reúne obras de calidad diversa.,Neutral
+"El trato recibido fue correcto, profesional sin calidez.",Neutral
+"La película estuvo más o menos, ni me encantó ni me disgustó.",Neutral
+"El servicio en el restaurante fue regular, lo normal que esperarías.",Neutral
+"La calidad del producto es del montón, cumple su función básica.",Neutral
+"El hotel estaba bien, nada especial pero tampoco malo.",Neutral
+"La experiencia fue normal, como en cualquier otro lugar similar.",Neutral
+"No me pareció ni bueno ni malo, simplemente aceptable.",Neutral
+"El sabor de la comida es estándar, lo que esperarías de este tipo de lugar.",Neutral
+"La atención del personal fue correcta, sin destacar positiva o negativamente.",Neutral
+"Es un smartphone básico, cumple con lo necesario sin sorprender.",Neutral
+"El curso estuvo bien, aprendí algunas cosas pero no fue excepcional.",Neutral
+"La app funciona como debe, ni más ni menos.",Neutral
+"El concierto estuvo pasable, algunas canciones buenas y otras no tanto.",Neutral
+"La calidad-precio es lo que se espera, ni una ganga ni un robo.",Neutral
+"Es un libro que se deja leer, tiene partes interesantes y otras más flojas.",Neutral
+El trato fue cordial pero sin calidez especial.,Neutral
+"La visita al museo fue correcta, algunas exposiciones interesantes y otras no tanto.",Neutral
+"Es un coche que cumple su función, sin lujos pero sin problemas graves.",Neutral
+"El sabor de este café es estándar, nada memorable pero tampoco desagradable.",Neutral
+"La serie es entretenida a ratos, aunque tiene episodios que se hacen pesados.",Neutral
+"El diseño de la web es funcional, no destaca pero tampoco molesta.",Neutral
+"Es un lugar normal para comer, ni recomendaría ir específicamente ni lo evitaría.",Neutral
+"La clase fue como cualquier otra, el profesor explicó lo básico.",Neutral
+"El espectáculo fue correcto, entretuvo pero no impresionó.",Neutral
+Este modelo tiene prestaciones aceptables para su rango de precio.,Neutral
+"El evento transcurrió sin incidentes, ni mejor ni peor de lo esperado.",Neutral
+"La playa estaba decente, ni muy limpia ni muy sucia.",Neutral
+"El juego es pasable, tiene momentos divertidos pero también partes aburridas.",Neutral
+"La experiencia de compra fue la habitual, sin sorpresas.",Neutral
+"Es una aplicación que hace lo que promete, sin características destacables.",Neutral
+"El documental presenta información de manera equilibrada, sin sesgo aparente.",Neutral
+"La reunión fue productiva en algunos aspectos, menos útil en otros.",Neutral
+"El menú del día estaba bien para el precio, platos normales.",Neutral
+La película tiene partes interesantes pero también momentos flojos.,Neutral
+"El taller cubrió los temas básicos, lo esperado para una introducción.",Neutral
+"Es un producto corriente, similar a otros de su categoría.",Neutral
+"La zona tiene sus ventajas e inconvenientes, como casi cualquier barrio.",Neutral
+"El sabor es aceptable, no está mal pero tampoco impresiona.",Neutral
+La conferencia tuvo momentos interesantes mezclados con partes más densas.,Neutral
+"Es una prenda de calidad media, ni dura mucho ni se rompe enseguida.",Neutral
+"El viaje fue como esperaba, con aspectos positivos y negativos equilibrados.",Neutral
+"La función teatral estuvo decente, algunas actuaciones mejores que otras.",Neutral
+"Este modelo tiene sus pros y contras, como casi todos.",Neutral
+"La comida estaba tibia, ni caliente ni fría.",Neutral
+"El servicio fue estándar, te atienden correctamente sin más.",Neutral
+"Es un lugar ni muy animado ni muy aburrido, término medio.",Neutral
+La interfaz es funcional aunque no especialmente intuitiva.,Neutral
+"El sabor es neutro, no destaca en ningún sentido.",Neutral
+La experiencia de usuario es la habitual en este tipo de plataformas.,Neutral
+"Es un restaurante del montón, hay mejores y peores en la zona.",Neutral
+"La película no está mal, pero tampoco es para verla dos veces.",Neutral
+El producto es de calidad aceptable para su precio.,Neutral
+La exposición tiene obras interesantes mezcladas con otras menos relevantes.,Neutral
+"Es un teléfono que cumple con lo básico, sin destacar.",Neutral
+"El festival estuvo correcto, algunos artistas buenos y otros no tanto.",Neutral
+"La asignatura es llevadera, ni muy difícil ni muy fácil.",Neutral
+"Es un libro que se puede leer, aunque no deja huella.",Neutral
+"El supermercado tiene una oferta estándar, ni mejor ni peor que la competencia.",Neutral
+"La película pasa el rato, tiene momentos entretenidos y otros más flojos.",Neutral
+Es un software funcional que hace lo que promete sin brillar.,Neutral
+"El concierto fue correcto, algunas canciones mejores que otras.",Neutral
+"La comida estaba pasable, algunos platos mejores que otros.",Neutral
+"Es un gimnasio normal, con lo básico que se necesita.",Neutral
+"El hotel es lo que esperas por ese precio, instalaciones correctas.",Neutral
+La charla tuvo información útil mezclada con partes prescindibles.,Neutral
+Es un producto que cumple su función básica sin más pretensiones.,Neutral
+"El espectáculo entretuvo a ratos, aunque tuvo momentos menos interesantes.",Neutral
+La aplicación funciona correctamente la mayor parte del tiempo.,Neutral
+"Es un restaurante normalito, ni te impresiona ni te decepciona.",Neutral
+"El curso cubrió lo básico del tema, sin profundizar demasiado.",Neutral
+"La serie tiene temporadas regulares, ni muy buenas ni muy malas.",Neutral
+"Es un barrio tranquilo, con sus ventajas e inconvenientes.",Neutral
+"El sabor del plato es estándar, como en cualquier otro sitio similar.",Neutral
+La película es pasable si no tienes grandes expectativas.,Neutral
+"El servicio fue correcto, te atienden y ya está.",Neutral
+"Es una marca del montón, cumple pero no destaca.",Neutral
+El profesor explica de manera clara aunque no especialmente motivadora.,Neutral
+"La calidad de la tela es media, ni muy buena ni muy mala.",Neutral
+Es un juego que entretiene a ratos pero que puede hacerse repetitivo.,Neutral
+"El evento transcurrió sin pena ni gloria, lo esperado.",Neutral
+La aplicación funciona correctamente aunque tiene margen de mejora.,Neutral
+Es un dispositivo que hace lo que promete sin destacar.,Neutral
+El museo tiene algunas piezas interesantes y otras menos relevantes.,Neutral
+"La actuación fue correcta, sin grandes virtudes ni defectos notorios.",Neutral
+"Es un móvil de gama media típico, cumple su función.",Neutral
+El libro tiene partes que enganchan y otras que se hacen pesadas.,Neutral
+"La tienda ofrece un surtido estándar, similar a otras.",Neutral
+"Es un lugar típico, ni especialmente recomendable ni para evitar.",Neutral
+El diseño es funcional aunque poco original.,Neutral
+"La bebida sabe normal, ni destaca ni disgusta.",Neutral
+Es un servicio básico que cumple con lo mínimo esperado.,Neutral
+"El festival fue más o menos lo que esperaba, con altibajos.",Neutral
+La página web funciona correctamente aunque podría mejorar su usabilidad.,Neutral
+"Es un producto de calidad media, acorde a su precio.",Neutral
+El recital tuvo momentos buenos y otros más flojos.,Neutral
+"La película entretiene a ratos, aunque tiene escenas prescindibles.",Neutral
+Es un modelo básico que cumple su función principal.,Neutral
+"La comida estaba aceptable, nada memorable pero tampoco mala.",Neutral
+"El contenido del curso fue adecuado, aunque algo superficial.",Neutral
+"Es un local normalito, ni muy acogedor ni desagradable.",Neutral
+"El trato del personal fue correcto, profesional sin más.",Neutral
+"La experiencia fue la habitual, sin sorpresas positivas ni negativas.",Neutral
+"Es un servicio que funciona como debería, sin más.",Neutral
+"La calidad del audio es aceptable, ni cristalina ni deficiente.",Neutral
+"El sabor es neutro, ni muy intenso ni muy suave.",Neutral
+Es un smartphone que hace lo básico sin problemas.,Neutral
+"La película tiene un ritmo irregular, con partes que funcionan y otras no tanto.",Neutral
+"El hotel ofrece lo básico, instalaciones correctas sin lujos.",Neutral
+"Es un producto estándar, similar a otros de su categoría.",Neutral
+La app tiene una interfaz funcional aunque mejorable.,Neutral
+"El evento transcurrió según lo previsto, sin destacar.",Neutral
+"Es un lugar normal para pasar un rato, ni muy agradable ni desagradable.",Neutral
+"La calidad de la ropa es media, dura lo esperado.",Neutral
+El restaurante ofrece platos correctos a precio estándar.,Neutral
+"Es un libro que se deja leer, aunque no impacta especialmente.",Neutral
+La serie mantiene un nivel regular a lo largo de sus temporadas.,Neutral
+"El dispositivo funciona como debe, con algún detalle mejorable.",Neutral
+"Es un curso que aporta conocimientos básicos, sin profundizar demasiado.",Neutral
+"La ubicación del local es conveniente, aunque la zona no es especial.",Neutral
+"El sabor es común, como el de cualquier producto similar.",Neutral
+Es un servicio funcional que cumple lo prometido sin brillar.,Neutral
+"La película pasa el rato, ni te aburre completamente ni te fascina.",Neutral
+"El trato fue profesional, ni especialmente cálido ni desagradable.",Neutral
+"Es una marca que ofrece calidad estándar, acorde a su precio.",Neutral
+"La charla aportó información básica, sin grandes revelaciones.",Neutral
+"El juego entretiene durante un tiempo, aunque se vuelve repetitivo.",Neutral
+"Es un modelo de prestaciones medias, adecuado para uso cotidiano.",Neutral
+"La comida estaba tibia, aceptable pero sin destacar.",Neutral
+El concierto tuvo momentos buenos y otros más flojos.,Neutral
+"Es una aplicación funcional, con algunas limitaciones.",Neutral
+La exposición tiene obras interesantes y otras menos relevantes.,Neutral
+"El profesor explica correctamente, aunque sin especial entusiasmo.",Neutral
+"Es un producto que cumple con lo esperado, ni más ni menos.",Neutral
+"La experiencia de compra fue normal, sin incidencias destacables.",Neutral
+El museo tiene algunas salas interesantes y otras prescindibles.,Neutral
+Es un móvil básico que cumple con las funciones esenciales.,Neutral
+"La película tiene un guion aceptable, con altibajos.",Neutral
+"El servicio fue adecuado, atención correcta sin más.",Neutral
+"Es un lugar común, similar a otros de su categoría.",Neutral
+"La calidad del material es media, ni muy resistente ni frágil.",Neutral
+"El evento transcurrió de manera esperada, sin sorpresas.",Neutral
+"Es una plataforma funcional, que hace lo que promete.",Neutral
+"El sabor es estándar, como el de cualquier producto similar.",Neutral
+"La actuación fue correcta, con momentos mejores que otros.",Neutral
+"Es un restaurante normal, comida aceptable a precio razonable.",Neutral
+"El curso cubrió los temas básicos, sin profundizar demasiado.",Neutral
+La serie tiene capítulos buenos y otros prescindibles.,Neutral
+"Es un dispositivo de gama media, cumple su función principal.",Neutral
+"La comida estaba pasable, algunos platos mejores que otros.",Neutral
+El diseño es funcional aunque poco original.,Neutral
+Es un producto comparable a otros similares del mercado.,Neutral
+"La experiencia fue la habitual, sin aspectos destacables.",Neutral
+"El trato fue correcto, profesional sin calidez especial.",Neutral
+"Es un modelo estándar, con prestaciones acordes a su precio.",Neutral
+"La película entretiene a ratos, aunque tiene escenas flojas.",Neutral
+"El hotel es normalito, habitaciones limpias pero sin encanto.",Neutral
+Es una aplicación que funciona correctamente la mayor parte del tiempo.,Neutral
+"La charla aportó información básica, sin grandes revelaciones.",Neutral
+"El sabor es neutro, ni muy intenso ni desagradable.",Neutral
+"Es un local de ambiente tranquilo, ni muy animado ni aburrido.",Neutral
+La calidad-precio es la habitual en este tipo de productos.,Neutral
+"El evento fue más o menos lo que esperaba, con altibajos.",Neutral
+Es un servicio básico que cumple con lo mínimo esperado.,Neutral
+"La página web es funcional, aunque su diseño podría mejorar.",Neutral
+"El contenido del curso fue adecuado, con temas más interesantes que otros.",Neutral
+"Es un producto de durabilidad media, acorde a su precio.",Neutral
+"La comida estaba aceptable, sabor estándar sin destacar.",Neutral
+"El trato del personal fue correcto, profesional sin más.",Neutral
+Es un smartphone que hace lo básico sin problemas destacables.,Neutral
+"La película tiene un ritmo irregular, partes interesantes y otras no tanto.",Neutral
+"El gimnasio ofrece lo básico, equipamiento estándar.",Neutral
+"Es un lugar común para salir, ambiente normal.",Neutral
+La app tiene una interfaz funcional aunque mejorable.,Neutral
+El recital tuvo momentos buenos mezclados con otros más flojos.,Neutral
+"Es un libro que se deja leer, aunque no deja huella.",Neutral
+"La calidad del audio es aceptable, ni excelente ni deficiente.",Neutral
+El restaurante sirve comida correcta a precio estándar.,Neutral
+"Es un modelo con prestaciones medias, lo esperado en su rango.",Neutral
+"La serie mantiene un nivel regular, ni emociona ni aburre.",Neutral
+"El dispositivo funciona como debe, con algún detalle mejorable.",Neutral
+Es un curso que aporta conocimientos básicos sin profundizar.,Neutral
+"La ubicación es conveniente, aunque la zona no tiene nada especial.",Neutral
+"El sabor es estándar, como el de cualquier producto similar.",Neutral
+"Es un servicio funcional, cumple lo prometido sin brillar.",Neutral
+"La película pasa el rato sin más, entretenimiento pasajero.",Neutral
+"El trato fue profesional, correcto sin calidez especial.",Neutral
+Es una marca conocida que ofrece calidad estándar.,Neutral
+"La conferencia aportó información básica, algunas partes más útiles que otras.",Neutral
+"El juego entretiene durante un tiempo, aunque puede hacerse monótono.",Neutral
+"Es un modelo de prestaciones medias, adecuado para uso diario.",Neutral
+"La comida estaba tibia, sabor aceptable pero sin destacar.",Neutral
+El concierto tuvo momentos destacables y otros más flojos.,Neutral
+"Es una aplicación funcional, con limitaciones esperables.",Neutral
+La exposición tiene piezas interesantes mezcladas con otras prescindibles.,Neutral
+El profesor explica correctamente aunque sin entusiasmo.,Neutral
+"Es un producto que cumple con lo esperado, ni más ni menos.",Neutral
+"La experiencia de compra fue normal, el proceso habitual.",Neutral
+El museo tiene algunas salas que merecen la pena y otras menos.,Neutral
+Es un móvil básico con las funciones esenciales.,Neutral
+"La película tiene un guion irregular, con momentos buenos y flojos.",Neutral
+"El servicio fue adecuado, atención correcta sin destacar.",Neutral
+"Es un lugar común, ambiente similar a otros del mismo tipo.",Neutral
+"La calidad del material es media, durabilidad normal.",Neutral
+"El evento transcurrió sin incidencias, lo esperado.",Neutral
+Es una plataforma funcional que hace lo que promete.,Neutral
+"El sabor es común, ni muy sabroso ni desagradable.",Neutral
+"La actuación fue correcta, interpretación adecuada sin brillar.",Neutral
+"Es un restaurante normal, platos aceptables a precio razonable.",Neutral
+"El curso cubrió lo básico, sin profundizar en los temas.",Neutral
+"La serie es entretenida a ratos, con episodios mejores que otros.",Neutral
+"Es un dispositivo de gama media, cumple su función básica.",Neutral
+"La comida estaba pasable, algunos platos mejores que otros.",Neutral
+El diseño es funcional aunque no especialmente atractivo.,Neutral
+Es un producto comparable a otros similares en el mercado.,Neutral
+"La experiencia fue la habitual, sin aspectos destacables.",Neutral
+"El trato fue correcto, profesional sin más.",Neutral
+"Es un modelo estándar, prestaciones acordes a su precio.",Neutral
+La película entretiene si no tienes grandes expectativas.,Neutral
+"El hotel es normalito, instalaciones correctas sin encanto.",Neutral
+Es una aplicación que funciona bien la mayor parte del tiempo.,Neutral
+"La charla fue informativa, con partes más interesantes que otras.",Neutral
+"El sabor es neutro, ni intenso ni desagradable.",Neutral
+"Es un local de ambiente tranquilo, ni muy animado ni aburrido.",Neutral
+La calidad-precio es la habitual en este tipo de productos.,Neutral
+"El evento fue más o menos lo que esperaba, con altibajos.",Neutral
+"Es un servicio básico, cumple con lo mínimo esperado.",Neutral
+"La página web es funcional, aunque podría mejorar en usabilidad.",Neutral
+"El contenido del curso fue adecuado, temas útiles mezclados con otros menos.",Neutral
+"Es un producto de durabilidad media, acorde a su precio.",Neutral
+"La comida estaba aceptable, sabor estándar sin destacar.",Neutral
+"El trato del personal fue correcto, profesional sin más.",Neutral
+"Es un smartphone básico, cumple su función principal.",Neutral
+La película tiene partes interesantes y otras más lentas.,Neutral
+"El gimnasio ofrece lo básico, equipamiento estándar.",Neutral
+"Es un lugar común para pasar el rato, ambiente normal.",Neutral
+La app tiene una interfaz funcional aunque podría mejorar.,Neutral
+El recital tuvo momentos buenos mezclados con otros más flojos.,Neutral
+"Es un libro que se lee sin problemas, aunque no impresiona.",Neutral
+"La calidad del sonido es aceptable, ni excelente ni mala.",Neutral
+El restaurante ofrece comida correcta a precio razonable.,Neutral
+"Es un modelo con prestaciones medias, lo esperado en su rango.",Neutral
+"La serie mantiene un nivel regular, ni emociona ni aburre.",Neutral
+El dispositivo funciona correctamente con algún detalle mejorable.,Neutral
+Es un curso que aporta conocimientos básicos sin profundizar.,Neutral
+"La ubicación es conveniente, aunque la zona no tiene nada especial.",Neutral
+"El sabor es estándar, como el de productos similares.",Neutral
+"Es un servicio funcional, cumple lo prometido sin más.",Neutral
+"La película pasa el rato, ni te aburre completamente ni te fascina.",Neutral
+"El trato fue profesional, correcto sin calidez especial.",Neutral
+Es una marca conocida de calidad estándar.,Neutral
+"La charla aportó información básica, algunas partes más útiles que otras.",Neutral
+"El parque es normal, tiene zonas agradables y otras menos cuidadas.",Neutral
+La función tuvo momentos interesantes y otros más lentos.,Neutral
+"Es un teléfono que cumple con lo básico, sin sorprender.",Neutral
+"El partido fue equilibrado, con jugadas buenas y malas por ambos lados.",Neutral
+"La tienda tiene una oferta variada, algunos productos interesantes y otros no tanto.",Neutral
+"Es un café de sabor estándar, ni muy intenso ni muy suave.",Neutral
+"El episodio mantuvo el nivel medio de la serie, ni el mejor ni el peor.",Neutral
+La web funciona correctamente aunque su diseño es mejorable.,Neutral
+"Es un ordenador de gama media, cumple para tareas cotidianas.",Neutral
+"El sistema operativo es funcional, con sus ventajas e inconvenientes.",Neutral
+"La batería dura lo esperado, ni destaca por su autonomía ni decepciona.",Neutral
+"Es un vino correcto, sabor equilibrado sin destacar.",Neutral
+"El centro comercial tiene tiendas variadas, algunas interesantes y otras prescindibles.",Neutral
+"La novela se deja leer, aunque no engancha especialmente.",Neutral
+"Es un aeropuerto funcional, con lo necesario sin lujos.",Neutral
+"El transporte público funciona regularmente, con retrasos ocasionales.",Neutral
+"La reunión fue productiva en algunos aspectos, menos útil en otros.",Neutral
+"Es una clínica estándar, atención correcta sin destacar.",Neutral
+"El supermercado tiene surtido normal, precios en la media.",Neutral
+"La biblioteca tiene una colección aceptable, aunque limitada en algunos temas.",Neutral
+"Es un barrio tranquilo, con sus pros y contras como cualquier otro.",Neutral
+"El centro de estudios ofrece formación básica, sin destacar.",Neutral
+"La oficina tiene instalaciones funcionales, ni modernas ni anticuadas.",Neutral
+Es un programa que funciona correctamente la mayor parte del tiempo.,Neutral
+"La atención al cliente fue profesional, sin calidez especial.",Neutral
+"El móvil tiene una cámara aceptable, hace fotos correctas sin más.",Neutral
+"La película tiene un ritmo irregular, con escenas que funcionan y otras no tanto.",Neutral
+"Es un hotel de categoría media, instalaciones correctas sin lujos.",Neutral
+"El plato tiene un sabor común, ni muy sabroso ni desagradable.",Neutral
+"La conexión a internet funciona a velocidad estándar, ni rápida ni lenta.",Neutral
+"Es un lugar ni muy concurrido ni muy tranquilo, término medio.",Neutral
+"El resultado fue el esperado, ni superó expectativas ni decepcionó.",Neutral
+"La decoración es neutra, ni moderna ni anticuada.",Neutral
+"Es un manual que explica lo básico, sin profundizar demasiado.",Neutral
+"El nivel del curso es intermedio, ni muy básico ni avanzado.",Neutral
+"La actuación fue correcta, interpretación adecuada sin brillar.",Neutral
+"Es un producto que cumple su función, sin características destacables.",Neutral
+"El teclado es funcional, teclas de dureza media.",Neutral
+"La reunión transcurrió como se esperaba, sin aspectos destacables.",Neutral
+"Es un software que hace lo que promete, sin extras.",Neutral
+"El diseño del edificio es estándar, ni arquitectónicamente notable ni feo.",Neutral
+"La pizza estaba normal, ni muy sabrosa ni mala.",Neutral
+"Es un concierto que entretiene, con momentos mejores que otros.",Neutral
+El museo tiene algunas exposiciones interesantes y otras prescindibles.,Neutral
+"La batería dura lo esperado, ni más ni menos.",Neutral
+"Es un bar con ambiente típico, ni muy animado ni aburrido.",Neutral
+"El sabor de la bebida es neutro, ni intenso ni suave.",Neutral
+La película tiene momentos que enganchan y otros más lentos.,Neutral
+Es un producto comparable a otros de su categoría y precio.,Neutral
+El servicio técnico resolvió el problema en tiempo estándar.,Neutral
+"La calidad del audio es aceptable, suficiente para uso normal.",Neutral
+"Es un juego que entretiene por un tiempo, sin ser adictivo.",Neutral
+El documental presenta información de manera equilibrada.,Neutral
+La conferencia tuvo partes interesantes mezcladas con otras más densas.,Neutral
+Es un dispositivo que funciona correctamente la mayor parte del tiempo.,Neutral
+"El sabor del postre es normal, ni muy dulce ni insípido.",Neutral
+"La serie mantiene un nivel constante, sin grandes altibajos.",Neutral
+"Es un gimnasio con equipamiento estándar, lo necesario sin más.",Neutral
+"La calidad de la imagen es aceptable, definición media.",Neutral
+"El trato del doctor fue profesional, ni especialmente cálido ni frío.",Neutral
+Es un modelo básico que cumple su función principal.,Neutral
+"La comida del avión estaba pasable, lo típico de estos servicios.",Neutral
+"El hotel ofrece un desayuno estándar, variedad limitada pero suficiente.",Neutral
+"Es una película que pasa el rato, entretenimiento pasajero.",Neutral
+"La app tiene lo básico que necesitas, sin funciones innovadoras.",Neutral
+"El servicio fue correcto, atención profesional sin más.",Neutral
+"Es un restaurante de ambiente tranquilo, decoración discreta.",Neutral
+"La interfaz es funcional, aunque mejorable en algunos aspectos.",Neutral
+"El sistema operativo cumple con lo esperado, estabilidad aceptable.",Neutral
+Es un libro que aporta información básica sobre el tema.,Neutral
+"La conexión wifi funciona a velocidad media, suficiente para navegar.",Neutral
+"El evento transcurrió según lo previsto, sin sorpresas.",Neutral
+"Es un curso que cubre los fundamentos, sin profundizar en detalles.",Neutral
+"La tienda online tiene una navegación funcional, aunque mejorable.",Neutral
+El parque tiene zonas bien cuidadas y otras que necesitan mantenimiento.,Neutral
+"Es un café con ambiente tranquilo, ni muy acogedor ni frío.",Neutral
+"La película tiene un guion correcto, con altibajos en su desarrollo.",Neutral
+"El dispositivo tiene prestaciones medias, adecuadas para uso cotidiano.",Neutral
+"Es un servicio de streaming con catálogo variado, algunas joyas entre contenido prescindible.",Neutral
+La web tiene un diseño funcional aunque no destaca por su originalidad.,Neutral
+"El sabor de este té es suave, ni muy intenso ni insípido.",Neutral
+"La aplicación hace lo que promete, aunque con margen de mejora.",Neutral
+"Es un móvil de gama media, rendimiento acorde a su precio.",Neutral
+"El hotel está en una ubicación conveniente, ni céntrica ni alejada.",Neutral
+"La pantalla tiene resolución estándar, calidad de imagen aceptable.",Neutral
+"Es un plato de sabor equilibrado, ni muy condimentado ni soso.",Neutral
+"El concierto mantuvo un nivel regular, con momentos mejores que otros.",Neutral
+"La película entretiene lo suficiente, pasa el rato sin más.",Neutral
+Es un producto que funciona correctamente la mayor parte del tiempo.,Neutral
+El evento tuvo momentos interesantes y otros más aburridos.,Neutral
+"La comida estaba bien, sabor estándar sin sorpresas.",Neutral
+Es un dispositivo con rendimiento aceptable para tareas básicas.,Neutral
+"El curso cubrió los temas necesarios, sin profundizar demasiado.",Neutral
+"La zona tiene sus ventajas e inconvenientes, como cualquier barrio.",Neutral
+"Es un servicio correcto, atención profesional sin extras.",Neutral
+"El libro se lee sin problemas, aunque no deja huella.",Neutral
+"La actuación fue adecuada, interpretación correcta sin destacar.",Neutral
+Es una aplicación funcional con diseño estándar.,Neutral
+"El hotel tiene instalaciones básicas, limpias pero sin encanto.",Neutral
+"La serie mantiene un ritmo constante, ni emociona ni aburre.",Neutral
+Es un modelo comparable a otros de su gama y precio.,Neutral
+"El trato del personal fue el esperado, cordial sin más.",Neutral
+La exposición tiene obras interesantes y otras menos relevantes.,Neutral
+"Es un restaurante típico del barrio, comida casera estándar.",Neutral
+"El partido estuvo igualado, con momentos buenos y malos.",Neutral
+La calidad del sonido es suficiente para uso cotidiano.,Neutral
+"Es un centro comercial con tiendas variadas, algunas interesantes y otras no tanto.",Neutral
+"El sabor del café es equilibrado, ni muy intenso ni suave.",Neutral
+"La película tiene un ritmo irregular, partes que funcionan y otras menos.",Neutral
+Es un móvil que cumple con lo básico sin problemas destacables.,Neutral
+"El gimnasio ofrece lo necesario, sin equipamiento especial.",Neutral
+"La web tiene una navegación correcta, funcional pero mejorable.",Neutral
+"Es un producto de durabilidad media, acorde a su precio.",Neutral
+"El concierto tuvo altibajos, canciones buenas y otras prescindibles.",Neutral
+"La comida del menú estaba aceptable, platos correctos sin más.",Neutral
+Es un sistema que funciona como debe la mayor parte del tiempo.,Neutral
+El diseño es funcional aunque poco original.,Neutral
+"La batería dura lo esperado, autonomía estándar.",Neutral
+Es un servicio que cumple con lo prometido sin destacar.,Neutral
+El museo tiene algunas salas que merecen la pena y otras menos.,Neutral
+La serie tiene capítulos que enganchan y otros más flojos.,Neutral
+Es un dispositivo con prestaciones medias para su rango de precio.,Neutral
+"El trato fue profesional, correcto sin calidez especial.",Neutral
+"La película pasa el rato, entretenimiento pasajero.",Neutral
+"Es un local de ambiente tranquilo, decoración discreta.",Neutral
+"El curso aportó conocimientos básicos, sin profundizar en detalles.",Neutral
+"La interfaz es funcional, aunque podría ser más intuitiva.",Neutral
+"Es un producto que hace lo que promete, sin sorpresas.",Neutral
+"El sabor es estándar, como cualquier producto similar.",Neutral
+La zona tiene tanto aspectos positivos como negativos.,Neutral
+"Es un hotel normal, ni muy moderno ni anticuado.",Neutral
+"El juego entretiene por un tiempo, aunque puede hacerse repetitivo.",Neutral
+"La atención al cliente fue correcta, sin destacar.",Neutral
+"Es un plato de sabor equilibrado, ni muy condimentado ni soso.",Neutral
+"El transporte funciona regularmente, con retrasos ocasionales.",Neutral
+"La novela se deja leer, aunque no engancha especialmente.",Neutral
+Es un dispositivo de gama media con rendimiento acorde.,Neutral
+"El supermercado tiene surtido normal, precios en la media.",Neutral
+"La app tiene lo básico que necesitas, sin funciones innovadoras.",Neutral
+Es un restaurante donde se come correctamente a precio razonable.,Neutral
+El concierto estaba funcional.,Neutral
+El juego no pasó de masomenos.,Neutral
+La duración no pasó de sin novedad.,Neutral
+"El dispositivo me pareció más o menos, y en realidad sin características destacables.",Neutral
+"El soporte me pareció ni frío ni calor. Por otra parte, no es para tanto.",Neutral
+"La aplicación se mantuvo ordinario; típico, ni más ni menos.",Neutral
+La experiencia está mediano. lo que se esperaría normalmente.,Neutral
+El electrodoméstico lo calificaría como ni bien ni mal.,Neutral
+"La computadora es apenas como siempre, considerando todo, cumple su función.",Neutral
+"La capacidad es más bien mismo. En general, lo usual.",Neutral
+El espectáculo no pasó de nada del otro mundo.,Neutral
+"La prenda es simplemente suficiente. No obstante, cumple lo básico.",Neutral
+El producto es bastante regular - lo mismo de siempre.,Neutral
+El curso me pareció tolerable.,Neutral
+"La velocidad es simplemente del montón, ni lo mejor ni lo peor.",Neutral
+"El funcionamiento es simplemente ni fu ni fa, y en realidad dentro de lo esperado.",Neutral
+"El funcionamiento lo calificaría como masomenos. Sin embargo, sin características destacables.",Neutral
+La tienda es simplemente nada del otro mundo. sin características destacables.,Neutral
+La cafetería es bastante ordinario.,Neutral
+"El bar es simplemente ni frío ni calor. Personalmente, tiene cosas buenas y malas.",Neutral
+El smartphone es apenas ni bueno ni malo; se mantiene en la media.,Neutral
+"La duración resultó funcional, y en realidad como la mayoría.",Neutral
+La cafetería es más bien masomenos.,Neutral
+"El electrodoméstico es apenas ni fu ni fa, y en realidad cumple pero sin destacar.",Neutral
+La prenda está ni bueno ni malo.,Neutral
+La prenda estaba correcto.,Neutral
+El rendimiento resultó normal.,Neutral
+"La asistencia técnica es funcional, considerando todo, no es para tanto.",Neutral
+La capacidad me pareció aceptable.,Neutral
+"El producto se puede considerar estándar. Por otra parte, podría ser mejor, podría ser peor.",Neutral
+"El mantenimiento estaba sin novedad, pero lo de siempre.",Neutral
+"El diseño es simplemente suficiente. Personalmente, ni lo mejor ni lo peor.",Neutral
+"La estancia resultó promedio, y en realidad cumple lo básico.",Neutral
+El cine me pareció ni para bien ni para mal.,Neutral
+"La interfaz fue algo correcto. Sin embargo, como cabría esperar.",Neutral
+El supermercado se mantuvo ni bueno ni malo - sin características destacables.,Neutral
+"La velocidad es apenas promedio. En general, no es para tanto.",Neutral
+El libro estaba masomenos.,Neutral
+El funcionamiento me pareció suficiente.,Neutral
+"El aparato no pasó de ni bien ni mal. No obstante, típico, ni más ni menos.",Neutral
+El smartphone fue así así - ni lo mejor ni lo peor.,Neutral
+"La reparación no pasó de igual, tiene sus pros y contras por igual.",Neutral
+La velocidad no pasó de así así.,Neutral
+"La jornada fue pasable, aunque tiene cosas buenas y malas.",Neutral
+"La prenda fue ni frío ni calor, si bien lo mismo de siempre.",Neutral
+La computadora es más bien así así.,Neutral
+"El dispositivo lo encontré mismo. Sin embargo, ni impresiona ni decepciona.",Neutral
+La sesión lo calificaría como estándar.,Neutral
+El centro comercial se puede considerar sin pena ni gloria - algunos aspectos mejores que otros.,Neutral
+"El aparato estaba funcional, aunque lo que se esperaría normalmente.",Neutral
+El restaurante lo encontré ni para bien ni para mal.,Neutral
+El mantenimiento se puede considerar funcional.,Neutral
+"La cafetería me pareció ni bueno ni malo. En general, tiene sus pros y contras por igual.",Neutral
+La atención es más bien suficiente.,Neutral
+El supermercado fue algo correcto.,Neutral
+El supermercado es correcto; ni lo mejor ni lo peor.,Neutral
+"El trato es más bien ordinario, se mantiene en la media.",Neutral
+"El concierto estaba del montón. En general, no es nada del otro mundo.",Neutral
+El evento se mantuvo sin novedad.,Neutral
+El mueble es ni bueno ni malo.,Neutral
+El programa me pareció del montón; algunos aspectos mejores que otros.,Neutral
+El libro lo encontré nada del otro mundo.,Neutral
+La cafetería es bastante ni bueno ni malo.,Neutral
+"El viaje resultó básico. Por otra parte, sin características destacables.",Neutral
+"El aparato lo calificaría como así así. Por otra parte, se mantiene en la media.",Neutral
+"La entrega lo encontré ni bueno ni malo. No obstante, es lo que se ofrece habitualmente.",Neutral
+"El trato es común. Personalmente, justo en el medio.",Neutral
+El curso es bastante sin novedad; no es nada del otro mundo.,Neutral
+"La estancia fue algo ni frío ni calor, aunque sin características especiales.",Neutral
+La velocidad es más bien ni bueno ni malo. sin destacar particularmente.,Neutral
+El programa está del montón.,Neutral
+"El rendimiento es más bien ordinario, aunque es lo que hay.",Neutral
+La cafetería se puede considerar del montón.,Neutral
+"La entrega es apenas ni frío ni calor; típico, ni más ni menos.",Neutral
+El electrodoméstico resultó más o menos.,Neutral
+El hotel lo encontré básico.,Neutral
+"La velocidad se mantuvo como siempre, sin sorpresas.",Neutral
+La estancia se puede considerar aceptable.,Neutral
+"El mueble lo encontré ni bueno ni malo. Personalmente, no es para tanto.",Neutral
+La aplicación lo encontré moderado.,Neutral
+El aparato fue algo común.,Neutral
+"La velocidad es más bien masomenos. En general, ni para tirar cohetes ni para quejarse.",Neutral
+La computadora lo calificaría como sin pena ni gloria.,Neutral
+"El establecimiento es apenas ni para bien ni para mal. No obstante, no es para tanto.",Neutral
+"La estancia fue ni frío ni calor, pero ni impresiona ni decepciona.",Neutral
+"La atención resultó así así. Por otra parte, lo usual.",Neutral
+El espectáculo estaba mismo - lo de siempre.,Neutral
+El programa se mantuvo correcto; ni impresiona ni decepciona.,Neutral
+"El producto lo encontré correcto. Por otra parte, sin destacar particularmente.",Neutral
+"El mantenimiento es bastante mismo. Por otra parte, podría ser mejor, podría ser peor.",Neutral
+"La interfaz es bastante ni para bien ni para mal, es lo que hay.",Neutral
+La experiencia es bastante ni fu ni fa. cumple pero sin destacar.,Neutral
+"El artículo fue algo funcional. Personalmente, no es para emocionarse ni para evitarlo.",Neutral
+"La entrega resultó ni frío ni calor, pero lo típico.",Neutral
+"El concierto se puede considerar aceptable, pero dentro de lo esperado.",Neutral
+"El videojuego lo calificaría como pasable. Sin embargo, es lo que se ofrece habitualmente.",Neutral
+"El establecimiento se puede considerar ordinario. podría ser mejor, podría ser peor.",Neutral
+La instalación lo calificaría como mismo.,Neutral
+"El establecimiento fue masomenos. Por otra parte, nada especial que destacar.",Neutral
+El bar resultó mediano - ni destaca ni decepciona.,Neutral
+El soporte es más bien del montón.,Neutral
+"La entrega es más bien mediano, aunque ni destaca ni decepciona.",Neutral
+El funcionamiento está ni bien ni mal.,Neutral
+El hotel está mediano. sin características destacables.,Neutral
+"El hotel es bastante sin pena ni gloria. En general, no es para tanto.",Neutral
+"El diseño se puede considerar ni bueno ni malo. Personalmente, típico, ni más ni menos.",Neutral
+"La reparación no pasó de mismo. Sin embargo, no es para emocionarse ni para evitarlo.",Neutral
+"La sesión lo encontré nada del otro mundo, pero lo de siempre.",Neutral
+"El cine lo calificaría como aceptable, y en realidad como la mayoría.",Neutral
+"El televisor es aceptable. Por otra parte, tiene sus pros y contras por igual.",Neutral
+El trato fue común; no es para tanto.,Neutral
+"El viaje fue ni bueno ni malo, aunque sin grandes virtudes ni defectos.",Neutral
+"El restaurante fue moderado. Por otra parte, 50/50.",Neutral
+El producto está tolerable.,Neutral
+"La calidad no pasó de ni para bien ni para mal. Por otra parte, tiene sus pros y contras por igual.",Neutral
+La atención se mantuvo aceptable.,Neutral
+"El restaurante resultó funcional. No obstante, se mantiene en la media.",Neutral
+El curso se mantuvo ni frío ni calor.,Neutral
+"La capacidad lo encontré aceptable, típico, ni más ni menos.",Neutral
+"El juego es apenas ni fu ni fa. Personalmente, lo mismo de siempre.",Neutral
+"La aplicación es bastante ni para bien ni para mal, pero sin características especiales.",Neutral
+El hotel se puede considerar aceptable; ni destaca ni decepciona.,Neutral
+La interfaz se puede considerar ni fu ni fa.,Neutral
+"La clase no pasó de suficiente. Personalmente, dentro de lo esperado.",Neutral
+"La velocidad es bastante normal. Personalmente, ni lo mejor ni lo peor.",Neutral
+"La conferencia se mantuvo ni para bien ni para mal. Sin embargo, podría ser mejor, podría ser peor.",Neutral
+"La película lo encontré igual, pero justo en el medio.",Neutral
+"El videojuego es bastante más o menos. Por otra parte, típico, ni más ni menos.",Neutral
+El juego es igual.,Neutral
+"El bar es ni bueno ni malo, si bien sin destacar particularmente.",Neutral
+"La duración es más bien igual. Personalmente, sin grandes virtudes ni defectos.",Neutral
+"La jornada está ni para bien ni para mal, pero no es para tanto.",Neutral
+"El tamaño fue ni para bien ni para mal, sin sorpresas.",Neutral
+"La velocidad fue algo regular. No obstante, tiene sus pros y contras por igual.",Neutral
+El servicio es más bien correcto. sin grandes virtudes ni defectos.,Neutral
+El cine fue algo intermedio.,Neutral
+El rendimiento es más bien masomenos.,Neutral
+"La calidad resultó sin pena ni gloria, considerando todo, dentro de lo esperado.",Neutral
+El restaurante fue mismo.,Neutral
+La película es bastante común - dentro de lo esperado.,Neutral
+"El trato me pareció estándar, si bien no es para tanto.",Neutral
+La computadora estaba básico.,Neutral
+La potencia es pasable - no es para emocionarse ni para evitarlo.,Neutral
+"La experiencia fue algo funcional, pero lo mismo de siempre.",Neutral
+"La experiencia fue como siempre. Personalmente, ni destaca ni decepciona.",Neutral
+"El producto resultó ni fu ni fa. No obstante, lo que se esperaría normalmente.",Neutral
+"La cafetería se puede considerar mediano. En general, no es para tanto.",Neutral
+"El smartphone es más bien suficiente. No obstante, no es nada del otro mundo.",Neutral
+La conferencia es más bien básico. sin grandes virtudes ni defectos.,Neutral
+El electrodoméstico lo calificaría como del montón.,Neutral
+La jornada es simplemente masomenos. cumple lo básico.,Neutral
+El evento es bastante nada del otro mundo.,Neutral
+La duración es apenas moderado.,Neutral
+"La estancia es apenas ni bueno ni malo. No obstante, se mantiene en la media.",Neutral
+El artículo se mantuvo mediano. sin grandes virtudes ni defectos.,Neutral
+"El concierto me pareció masomenos. Por otra parte, no es para tanto.",Neutral
+La atención fue ni bueno ni malo.,Neutral
+"El smartphone no pasó de mediano, considerando todo, ni destaca ni decepciona.",Neutral
+"El envío resultó común, pero podría ser mejor, podría ser peor.",Neutral
+El electrodoméstico lo calificaría como ni bueno ni malo.,Neutral
+"La entrega es funcional. No obstante, sin destacar particularmente.",Neutral
+El programa estaba funcional.,Neutral
+"La duración resultó sin novedad. Por otra parte, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+La conferencia resultó ordinario - ni impresiona ni decepciona.,Neutral
+"La clase no pasó de sin novedad, y en realidad no es para tanto.",Neutral
+El dispositivo es más bien normal.,Neutral
+El mueble fue algo tolerable.,Neutral
+El mantenimiento está masomenos; dentro de lo esperado.,Neutral
+El programa lo encontré ni bueno ni malo.,Neutral
+El tamaño se puede considerar mediano; ni lo mejor ni lo peor.,Neutral
+"El smartphone resultó sin novedad. Personalmente, es lo que se ofrece habitualmente.",Neutral
+"El centro comercial me pareció estándar. Sin embargo, como cabría esperar.",Neutral
+"La instalación es bastante ni bueno ni malo, y en realidad no es para tanto.",Neutral
+"El espectáculo es bastante promedio. Por otra parte, no es para tanto.",Neutral
+"El envío fue sin pena ni gloria. Por otra parte, como la mayoría.",Neutral
+El videojuego es bastante básico.,Neutral
+"La cafetería me pareció común, aunque es lo que se ofrece habitualmente.",Neutral
+La capacidad resultó ni bueno ni malo. ni más ni menos.,Neutral
+"La jornada se puede considerar ni frío ni calor, si bien sin sorpresas.",Neutral
+"El espectáculo se mantuvo ordinario. Personalmente, cumple su función.",Neutral
+La serie es simplemente ni bien ni mal; no es para emocionarse ni para evitarlo.,Neutral
+La asistencia técnica es apenas básico.,Neutral
+"El evento es apenas suficiente, si bien cumple su función.",Neutral
+"El televisor me pareció ordinario. Sin embargo, sin destacar particularmente.",Neutral
+"La prenda está ordinario. Sin embargo, ni destaca ni decepciona.",Neutral
+"El aparato fue más o menos, considerando todo, no es para tanto.",Neutral
+El evento está como siempre.,Neutral
+"La película es ni bueno ni malo, como cualquier otro.",Neutral
+"La aplicación estaba igual, considerando todo, no es nada del otro mundo.",Neutral
+La calidad me pareció intermedio.,Neutral
+El bar se puede considerar sin novedad. sin destacar particularmente.,Neutral
+"La reunión estaba así así. En general, ni impresiona ni decepciona.",Neutral
+La visita es simplemente nada del otro mundo - sin sorpresas.,Neutral
+"La asistencia técnica es bastante tolerable, aunque sin características especiales.",Neutral
+La reunión fue algo sin pena ni gloria.,Neutral
+La entrega fue ni bueno ni malo.,Neutral
+La serie se puede considerar sin novedad.,Neutral
+"El establecimiento es ni bien ni mal. Personalmente, sin características destacables.",Neutral
+"La aplicación fue normal. Por otra parte, sin características especiales.",Neutral
+El smartphone lo encontré básico.,Neutral
+El funcionamiento es mediano.,Neutral
+"El mueble me pareció como siempre. Por otra parte, no es para emocionarse ni para evitarlo.",Neutral
+El smartphone es más bien ni fu ni fa.,Neutral
+"La cafetería es simplemente así así. Por otra parte, lo que se esperaría normalmente.",Neutral
+La potencia me pareció ni bueno ni malo.,Neutral
+La conferencia resultó tolerable.,Neutral
+"El diseño es bastante ni para bien ni para mal, aunque podría ser mejor, podría ser peor.",Neutral
+"La serie lo encontré ni frío ni calor. En general, lo mismo de siempre.",Neutral
+El hotel se mantuvo normal.,Neutral
+La computadora fue algo ordinario.,Neutral
+"El mueble se puede considerar ni frío ni calor. Personalmente, no es para tanto.",Neutral
+La serie lo encontré ni bien ni mal.,Neutral
+"El restaurante estaba del montón. Personalmente, tiene sus pros y contras por igual.",Neutral
+El local me pareció ordinario.,Neutral
+La instalación fue algo estándar.,Neutral
+El establecimiento es apenas del montón.,Neutral
+"La aplicación es apenas aceptable. Sin embargo, ni lo mejor ni lo peor.",Neutral
+"La entrega es bastante funcional, si bien algunos aspectos mejores que otros.",Neutral
+"El funcionamiento es más bien ni para bien ni para mal. Sin embargo, se mantiene en la media.",Neutral
+"La tienda lo encontré funcional, aunque dentro de lo esperado.",Neutral
+"El rendimiento es más bien mismo. En general, lo que se esperaría normalmente.",Neutral
+El funcionamiento lo encontré ni bien ni mal.,Neutral
+"El trato lo calificaría como sin pena ni gloria, sin destacar particularmente.",Neutral
+"La aplicación resultó estándar, si bien lo usual.",Neutral
+"La jornada es simplemente correcto. En general, justo en el medio.",Neutral
+"El videojuego fue mismo. Por otra parte, sin características especiales.",Neutral
+"La entrega se puede considerar ni para bien ni para mal, considerando todo, no es nada del otro mundo.",Neutral
+"La asistencia técnica no pasó de del montón, es lo que hay.",Neutral
+"El mantenimiento lo encontré aceptable. Personalmente, cumple su función.",Neutral
+La reparación es simplemente sin pena ni gloria.,Neutral
+"El mantenimiento lo encontré ni para bien ni para mal, pero lo que se esperaría normalmente.",Neutral
+"La estancia me pareció común, y en realidad lo mismo de siempre.",Neutral
+"El funcionamiento lo calificaría como así así. Sin embargo, cumple pero sin destacar.",Neutral
+"La conferencia se mantuvo masomenos, pero sin grandes virtudes ni defectos.",Neutral
+"El evento es más bien regular. Personalmente, dentro de lo esperado.",Neutral
+La tienda se puede considerar masomenos.,Neutral
+"La película es bastante común. No obstante, no es nada del otro mundo.",Neutral
+La serie es más bien sin novedad.,Neutral
+El funcionamiento estaba mismo.,Neutral
+La reparación es más bien estándar.,Neutral
+"El envío es apenas pasable. No obstante, ni lo mejor ni lo peor.",Neutral
+"La interfaz lo calificaría como ni frío ni calor. No obstante, como la mayoría.",Neutral
+El hotel estaba regular; no es para tanto.,Neutral
+La película es aceptable.,Neutral
+La película es bastante estándar.,Neutral
+"El programa se puede considerar regular. No obstante, ni impresiona ni decepciona.",Neutral
+"La película lo calificaría como normal, pero cumple lo básico.",Neutral
+"La velocidad es simplemente moderado. Personalmente, nada especial que destacar.",Neutral
+"La reparación estaba sin novedad, y en realidad típico, ni más ni menos.",Neutral
+La conferencia se mantuvo promedio.,Neutral
+El televisor resultó pasable.,Neutral
+La clase lo calificaría como pasable.,Neutral
+El televisor no pasó de normal.,Neutral
+"El mantenimiento lo encontré ni frío ni calor, si bien como cabría esperar.",Neutral
+El restaurante es más bien ni para bien ni para mal.,Neutral
+"La visita es apenas intermedio, pero tiene cosas buenas y malas.",Neutral
+"La cafetería lo calificaría como más o menos. No obstante, ni impresiona ni decepciona.",Neutral
+"El centro comercial resultó básico. Sin embargo, ni para tirar cohetes ni para quejarse.",Neutral
+"El evento es simplemente ni fu ni fa. En general, no es para emocionarse ni para evitarlo.",Neutral
+"El viaje lo encontré ni bueno ni malo, si bien cumple lo básico.",Neutral
+El funcionamiento se puede considerar moderado.,Neutral
+La atención es bastante intermedio; dentro de lo esperado.,Neutral
+El televisor no pasó de correcto; ni lo mejor ni lo peor.,Neutral
+"El soporte no pasó de ni para bien ni para mal, considerando todo, ni destaca ni decepciona.",Neutral
+El aparato lo calificaría como adecuado.,Neutral
+"La cafetería está suficiente, si bien algunos aspectos mejores que otros.",Neutral
+El rendimiento es apenas mismo - lo mismo de siempre.,Neutral
+La interfaz es más bien así así. ni destaca ni decepciona.,Neutral
+"El juego es apenas promedio, pero ni impresiona ni decepciona.",Neutral
+El producto no pasó de pasable.,Neutral
+"El funcionamiento estaba así así. Por otra parte, ni destaca ni decepciona.",Neutral
+"El producto es bastante sin novedad, y en realidad cumple lo básico.",Neutral
+La tienda está como siempre - no me quejo pero tampoco lo recomendaría especialmente.,Neutral
+"El producto es apenas funcional, si bien es lo que hay.",Neutral
+El hotel está ni fu ni fa - no me quejo pero tampoco lo recomendaría especialmente.,Neutral
+La jornada se mantuvo intermedio.,Neutral
+La computadora es como siempre.,Neutral
+La aplicación lo encontré correcto.,Neutral
+"La película lo calificaría como correcto, si bien sin destacar particularmente.",Neutral
+"El televisor es apenas suficiente, sin sorpresas.",Neutral
+"La prenda se mantuvo promedio, considerando todo, lo usual.",Neutral
+El concierto fue algo así así - cumple pero sin destacar.,Neutral
+"La reparación fue algo adecuado. típico, ni más ni menos.",Neutral
+La velocidad se puede considerar adecuado.,Neutral
+"La jornada se mantuvo regular, y en realidad no es para tanto.",Neutral
+"El juego me pareció ni bueno ni malo, pero lo que se esperaría normalmente.",Neutral
+"La velocidad se puede considerar ni fu ni fa. Por otra parte, lo mismo de siempre.",Neutral
+El mueble es bastante mediano.,Neutral
+"El bar no pasó de ni bien ni mal, es lo que hay.",Neutral
+"La aplicación fue aceptable, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+"El juego me pareció común. En general, lo usual.",Neutral
+"El producto es apenas mismo, pero nada especial que destacar.",Neutral
+El hotel se mantuvo funcional.,Neutral
+"La visita se mantuvo intermedio. Personalmente, lo típico.",Neutral
+"El producto es ni fu ni fa, considerando todo, algunos aspectos mejores que otros.",Neutral
+"La prenda es más bien masomenos. En general, ni impresiona ni decepciona.",Neutral
+"El dispositivo es más bien ni para bien ni para mal. En general, sin grandes virtudes ni defectos.",Neutral
+La calidad está moderado.,Neutral
+El funcionamiento no pasó de estándar.,Neutral
+"La visita se puede considerar ni bueno ni malo. Personalmente, ni impresiona ni decepciona.",Neutral
+El televisor es bastante regular. no es para tanto.,Neutral
+La potencia fue adecuado.,Neutral
+La prenda estaba sin pena ni gloria; dentro de lo esperado.,Neutral
+"El establecimiento está aceptable. Por otra parte, como cabría esperar.",Neutral
+La experiencia estaba ni para bien ni para mal.,Neutral
+La duración lo calificaría como mismo.,Neutral
+"El aparato me pareció adecuado, y en realidad lo típico.",Neutral
+El hotel fue algo mediano; nada especial que destacar.,Neutral
+"La duración me pareció suficiente, pero dentro de lo esperado.",Neutral
+El libro resultó tolerable - sin destacar particularmente.,Neutral
+"El dispositivo lo calificaría como como siempre, considerando todo, lo que se esperaría normalmente.",Neutral
+El hotel es simplemente sin novedad; no es para tanto.,Neutral
+"La capacidad estaba más o menos, pero no es para emocionarse ni para evitarlo.",Neutral
+"La visita estaba ni bueno ni malo, aunque lo típico.",Neutral
+El tamaño se mantuvo ni bien ni mal - ni impresiona ni decepciona.,Neutral
+La asistencia técnica lo encontré básico - no es nada del otro mundo.,Neutral
+El programa me pareció ordinario.,Neutral
+"La visita está pasable, si bien como cualquier otro.",Neutral
+"El envío fue algo regular. En general, ni para tirar cohetes ni para quejarse.",Neutral
+"La capacidad es ordinario, si bien ni más ni menos.",Neutral
+"El espectáculo está pasable. Por otra parte, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+La entrega está ni frío ni calor. lo usual.,Neutral
+"La película no pasó de nada del otro mundo. No obstante, ni impresiona ni decepciona.",Neutral
+"La computadora me pareció normal, y en realidad algunos aspectos mejores que otros.",Neutral
+El tamaño resultó adecuado.,Neutral
+La entrega resultó regular.,Neutral
+"El curso se mantuvo mismo, pero ni lo mejor ni lo peor.",Neutral
+"El mantenimiento está tolerable, aunque no es nada del otro mundo.",Neutral
+"La jornada estaba ordinario, aunque ni destaca ni decepciona.",Neutral
+"El viaje es ordinario, pero ni impresiona ni decepciona.",Neutral
+El videojuego se mantuvo ni fu ni fa; ni impresiona ni decepciona.,Neutral
+La capacidad fue algo regular.,Neutral
+La conferencia no pasó de moderado.,Neutral
+El rendimiento es apenas aceptable.,Neutral
+El televisor no pasó de ni para bien ni para mal; sin sorpresas.,Neutral
+"El mantenimiento lo encontré común, aunque cumple su función.",Neutral
+"El centro comercial es bastante funcional, aunque podría ser mejor, podría ser peor.",Neutral
+El supermercado está del montón.,Neutral
+La prenda resultó pasable - lo usual.,Neutral
+"El televisor me pareció aceptable. No obstante, ni impresiona ni decepciona.",Neutral
+El trato lo encontré tolerable.,Neutral
+La reunión es simplemente más o menos - no es nada del otro mundo.,Neutral
+"El artículo lo calificaría como pasable. Personalmente, podría ser mejor, podría ser peor.",Neutral
+"El bar me pareció ni bien ni mal. Sin embargo, no es para tanto.",Neutral
+"La velocidad es apenas más o menos. Sin embargo, ni impresiona ni decepciona.",Neutral
+El mueble es bastante del montón.,Neutral
+El programa se mantuvo tolerable.,Neutral
+"El mueble es más bien sin novedad. Personalmente, sin características destacables.",Neutral
+"El restaurante estaba básico. En general, lo típico.",Neutral
+"El artículo se mantuvo sin pena ni gloria, considerando todo, lo que se esperaría normalmente.",Neutral
+"El funcionamiento fue estándar. Sin embargo, sin grandes virtudes ni defectos.",Neutral
+El cine estaba aceptable.,Neutral
+"La velocidad estaba suficiente, si bien podría ser mejor, podría ser peor.",Neutral
+La serie es más o menos.,Neutral
+"La interfaz se mantuvo ni bueno ni malo. Sin embargo, 50/50.",Neutral
+"La clase estaba igual, y en realidad lo mismo de siempre.",Neutral
+El videojuego fue algo pasable.,Neutral
+El espectáculo fue mediano.,Neutral
+La asistencia técnica se mantuvo regular - no es para tanto.,Neutral
+La serie es bastante ni frío ni calor.,Neutral
+"La visita es más bien mediano; podría ser mejor, podría ser peor.",Neutral
+El curso es bastante funcional. no me quejo pero tampoco lo recomendaría especialmente.,Neutral
+El espectáculo lo encontré nada del otro mundo; ni destaca ni decepciona.,Neutral
+"El espectáculo es bastante ni frío ni calor, aunque ni para tirar cohetes ni para quejarse.",Neutral
+La aplicación es más bien ni bueno ni malo. es lo que se ofrece habitualmente.,Neutral
+"La reparación es simplemente mismo. Por otra parte, no es nada del otro mundo.",Neutral
+La serie fue algo del montón.,Neutral
+"El electrodoméstico lo calificaría como común. Sin embargo, ni más ni menos.",Neutral
+"El libro es apenas ni bueno ni malo, si bien típico, ni más ni menos.",Neutral
+"El espectáculo estaba del montón, aunque cumple pero sin destacar.",Neutral
+"El libro es apenas ni bueno ni malo, si bien cumple pero sin destacar.",Neutral
+"El curso se mantuvo aceptable. Personalmente, sin grandes virtudes ni defectos.",Neutral
+"La clase es tolerable, considerando todo, lo típico.",Neutral
+"El establecimiento es simplemente así así, pero lo usual.",Neutral
+"El programa fue mismo. Personalmente, ni más ni menos.",Neutral
+El centro comercial se puede considerar como siempre.,Neutral
+"El tamaño lo encontré como siempre. Personalmente, como cualquier otro.",Neutral
+El juego es apenas aceptable - es lo que hay.,Neutral
+"El funcionamiento se mantuvo igual, pero ni más ni menos.",Neutral
+El curso resultó común.,Neutral
+El dispositivo lo calificaría como ni bien ni mal.,Neutral
+"El concierto fue aceptable, ni más ni menos.",Neutral
+El televisor no pasó de ni fu ni fa.,Neutral
+El cine estaba ordinario.,Neutral
+"El dispositivo es bastante como siempre, pero no es nada del otro mundo.",Neutral
+"La tienda está ni para bien ni para mal. Personalmente, como la mayoría.",Neutral
+"La computadora lo calificaría como ni frío ni calor. Sin embargo, tiene sus pros y contras por igual.",Neutral
+"La prenda me pareció mismo. En general, es lo que se ofrece habitualmente.",Neutral
+"La visita no pasó de del montón. No obstante, ni lo mejor ni lo peor.",Neutral
+"La entrega es simplemente pasable. Por otra parte, sin características destacables.",Neutral
+La potencia no pasó de adecuado.,Neutral
+El dispositivo fue algo ni bueno ni malo.,Neutral
+"El tamaño me pareció promedio, si bien ni lo mejor ni lo peor.",Neutral
+"La aplicación es más bien ni frío ni calor. No obstante, ni para tirar cohetes ni para quejarse.",Neutral
+El funcionamiento es apenas suficiente.,Neutral
+"La clase lo calificaría como masomenos. En general, ni para tirar cohetes ni para quejarse.",Neutral
+"El dispositivo es estándar. Personalmente, no es para tanto.",Neutral
+"La experiencia es simplemente tolerable. En general, 50/50.",Neutral
+"El centro comercial se puede considerar nada del otro mundo, dentro de lo esperado.",Neutral
+La potencia lo calificaría como ordinario - ni para tirar cohetes ni para quejarse.,Neutral
+"El servicio es simplemente común. Sin embargo, dentro de lo esperado.",Neutral
+"La velocidad se mantuvo regular. En general, no es para emocionarse ni para evitarlo.",Neutral
+La conferencia lo calificaría como suficiente.,Neutral
+La potencia es apenas ni bien ni mal; lo que se esperaría normalmente.,Neutral
+"La visita resultó ordinario, y en realidad ni más ni menos.",Neutral
+"El diseño no pasó de ni bueno ni malo, aunque lo usual.",Neutral
+"El rendimiento está pasable, considerando todo, no es para tanto.",Neutral
+"El mantenimiento lo calificaría como así así. No obstante, ni impresiona ni decepciona.",Neutral
+La estancia está ordinario; tiene sus pros y contras por igual.,Neutral
+"La instalación lo encontré mismo. Sin embargo, cumple su función.",Neutral
+"El videojuego es intermedio, aunque sin características especiales.",Neutral
+El producto no pasó de sin pena ni gloria.,Neutral
+"La película es apenas común, pero podría ser mejor, podría ser peor.",Neutral
+"El electrodoméstico resultó común. Por otra parte, lo típico.",Neutral
+"La potencia es simplemente mediano. Sin embargo, lo de siempre.",Neutral
+La experiencia es bastante estándar.,Neutral
+El mantenimiento está regular.,Neutral
+"El trato está como siempre. En general, no es para tanto.",Neutral
+"La jornada fue igual. Personalmente, 50/50.",Neutral
+"La calidad estaba estándar, y en realidad ni lo mejor ni lo peor.",Neutral
+La capacidad estaba tolerable; ni destaca ni decepciona.,Neutral
+El aparato está común. ni para tirar cohetes ni para quejarse.,Neutral
+"El rendimiento es mediano, pero lo mismo de siempre.",Neutral
+"El funcionamiento es apenas ni para bien ni para mal, si bien lo usual.",Neutral
+"El evento resultó común. No obstante, ni impresiona ni decepciona.",Neutral
+"La velocidad se puede considerar nada del otro mundo. No obstante, cumple pero sin destacar.",Neutral
+El mueble no pasó de ni para bien ni para mal.,Neutral
+"El videojuego estaba pasable. Personalmente, ni lo mejor ni lo peor.",Neutral
+"El electrodoméstico es más bien ordinario, considerando todo, cumple su función.",Neutral
+"El televisor se puede considerar como siempre, pero típico, ni más ni menos.",Neutral
+El smartphone se mantuvo ni fu ni fa.,Neutral
+"El supermercado se puede considerar estándar, si bien es lo que hay.",Neutral
+"El soporte resultó normal, pero sin destacar particularmente.",Neutral
+La aplicación se puede considerar normal - como cabría esperar.,Neutral
+"El evento me pareció moderado, dentro de lo esperado.",Neutral
+"El juego estaba nada del otro mundo, si bien no es para tanto.",Neutral
+"La cafetería no pasó de normal - podría ser mejor, podría ser peor.",Neutral
+"La instalación es más bien ni bueno ni malo, sin características especiales.",Neutral
+"El producto es más bien común, si bien lo mismo de siempre.",Neutral
+"La conferencia es bastante mediano, podría ser mejor, podría ser peor.",Neutral
+La reparación fue promedio.,Neutral
+"El libro es apenas así así, aunque ni destaca ni decepciona.",Neutral
+"El aparato es simplemente suficiente. Por otra parte, lo mismo de siempre.",Neutral
+"El juego lo encontré estándar. Personalmente, cumple su función.",Neutral
+El viaje se mantuvo mediano.,Neutral
+"La capacidad es más bien promedio, y en realidad ni destaca ni decepciona.",Neutral
+La asistencia técnica se mantuvo ni bien ni mal.,Neutral
+"El espectáculo me pareció intermedio, y en realidad 50/50.",Neutral
+El viaje está normal.,Neutral
+La interfaz se mantuvo tolerable.,Neutral
+"El diseño es apenas así así, considerando todo, cumple su función.",Neutral
+El diseño se mantuvo nada del otro mundo.,Neutral
+"El producto resultó normal, si bien se mantiene en la media.",Neutral
+El artículo lo calificaría como más o menos. lo que se esperaría normalmente.,Neutral
+"El viaje estaba igual. En general, cumple lo básico.",Neutral
+"El juego es apenas adecuado. Sin embargo, sin grandes virtudes ni defectos.",Neutral
+"El tamaño es bastante aceptable, si bien tiene sus pros y contras por igual.",Neutral
+"La asistencia técnica se puede considerar ordinario, si bien justo en el medio.",Neutral
+"El aparato es simplemente básico, si bien típico, ni más ni menos.",Neutral
+El dispositivo lo encontré así así; justo en el medio.,Neutral
+La computadora es bastante ni frío ni calor. no me quejo pero tampoco lo recomendaría especialmente.,Neutral
+La capacidad está moderado.,Neutral
+"La conferencia no pasó de suficiente, tiene cosas buenas y malas.",Neutral
+La reparación lo encontré normal.,Neutral
+El videojuego es más bien funcional.,Neutral
+"La tienda es bastante ni bien ni mal, considerando todo, como cabría esperar.",Neutral
+El dispositivo está igual.,Neutral
+"El electrodoméstico es simplemente sin pena ni gloria, tiene cosas buenas y malas.",Neutral
+"El hotel fue algo básico, si bien se mantiene en la media.",Neutral
+"El viaje se mantuvo intermedio. Por otra parte, ni para tirar cohetes ni para quejarse.",Neutral
+"El electrodoméstico me pareció intermedio, lo usual.",Neutral
+La prenda se mantuvo ni para bien ni para mal.,Neutral
+"El diseño es más bien adecuado, considerando todo, cumple su función.",Neutral
+"El curso fue algo ni bueno ni malo. Por otra parte, lo de siempre.",Neutral
+"El trato me pareció del montón. Por otra parte, sin destacar particularmente.",Neutral
+"El centro comercial es más bien normal, y en realidad sin sorpresas.",Neutral
+"El concierto es apenas más o menos, 50/50.",Neutral
+"El supermercado estaba ni para bien ni para mal, ni impresiona ni decepciona.",Neutral
+"La velocidad estaba ni bueno ni malo. No obstante, sin destacar particularmente.",Neutral
+"La asistencia técnica es apenas correcto, pero es lo que hay.",Neutral
+"El diseño está ni bueno ni malo, tiene sus pros y contras por igual.",Neutral
+El mantenimiento es bastante ordinario.,Neutral
+"El espectáculo es más bien sin pena ni gloria. Por otra parte, lo que se esperaría normalmente.",Neutral
+El espectáculo está pasable - lo mismo de siempre.,Neutral
+"La asistencia técnica se puede considerar funcional. En general, lo mismo de siempre.",Neutral
+"El hotel es bastante común, si bien típico, ni más ni menos.",Neutral
+"El programa no pasó de sin pena ni gloria, pero como cabría esperar.",Neutral
+El concierto me pareció aceptable.,Neutral
+La potencia resultó pasable - justo en el medio.,Neutral
+El funcionamiento es simplemente mismo.,Neutral
+"El televisor me pareció más o menos, considerando todo, lo que se esperaría normalmente.",Neutral
+"La atención no pasó de ni para bien ni para mal. En general, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+El espectáculo es más bien correcto. tiene sus pros y contras por igual.,Neutral
+El dispositivo es simplemente igual. lo que se esperaría normalmente.,Neutral
+La visita no pasó de normal. ni para tirar cohetes ni para quejarse.,Neutral
+"El mueble no pasó de ni bien ni mal, considerando todo, se mantiene en la media.",Neutral
+La cafetería fue como siempre. ni destaca ni decepciona.,Neutral
+"La interfaz lo calificaría como básico, considerando todo, podría ser mejor, podría ser peor.",Neutral
+"El funcionamiento me pareció aceptable. En general, típico, ni más ni menos.",Neutral
+El envío está normal.,Neutral
+"El smartphone es más bien ordinario. Por otra parte, lo de siempre.",Neutral
+El aparato es más bien igual.,Neutral
+"El diseño es apenas básico, considerando todo, 50/50.",Neutral
+"La estancia lo encontré sin pena ni gloria, y en realidad sin grandes virtudes ni defectos.",Neutral
+La clase no pasó de suficiente.,Neutral
+El producto se puede considerar adecuado.,Neutral
+El aparato se mantuvo sin pena ni gloria.,Neutral
+"El envío lo encontré más o menos. Por otra parte, nada especial que destacar.",Neutral
+El mueble es simplemente ni bueno ni malo.,Neutral
+El establecimiento es apenas intermedio.,Neutral
+"El servicio fue como siempre, si bien no es para emocionarse ni para evitarlo.",Neutral
+"La experiencia se puede considerar más o menos. En general, ni lo mejor ni lo peor.",Neutral
+"La entrega es apenas como siempre. Personalmente, tiene cosas buenas y malas.",Neutral
+"La visita está básico, pero sin características destacables.",Neutral
+"El televisor es sin pena ni gloria. No obstante, sin grandes virtudes ni defectos.",Neutral
+"El soporte lo calificaría como promedio, ni más ni menos.",Neutral
+El videojuego es aceptable.,Neutral
+"La computadora se puede considerar tolerable, aunque como la mayoría.",Neutral
+"La computadora se mantuvo funcional. Personalmente, lo típico.",Neutral
+El espectáculo no pasó de así así.,Neutral
+"El videojuego es nada del otro mundo. Personalmente, como la mayoría.",Neutral
+"El cine es apenas normal. No obstante, lo mismo de siempre.",Neutral
+La sesión fue algo normal.,Neutral
+La prenda lo calificaría como ni para bien ni para mal.,Neutral
+El dispositivo es bastante pasable.,Neutral
+El viaje se mantuvo ni para bien ni para mal. lo usual.,Neutral
+La jornada está ni fu ni fa; sin características destacables.,Neutral
+El rendimiento fue adecuado.,Neutral
+El supermercado fue ni fu ni fa.,Neutral
+"El supermercado está funcional, si bien no es para emocionarse ni para evitarlo.",Neutral
+"El diseño está estándar. En general, tiene sus pros y contras por igual.",Neutral
+"El espectáculo es apenas mismo, dentro de lo esperado.",Neutral
+El hotel me pareció moderado; cumple su función.,Neutral
+La experiencia se mantuvo promedio.,Neutral
+El mantenimiento es simplemente regular; dentro de lo esperado.,Neutral
+El restaurante es más bien ni bueno ni malo.,Neutral
+El producto me pareció común.,Neutral
+"La cafetería fue algo sin novedad. Por otra parte, sin características destacables.",Neutral
+La reunión fue común.,Neutral
+"La reunión está ni bueno ni malo, pero típico, ni más ni menos.",Neutral
+"La calidad es más bien ni frío ni calor, pero se mantiene en la media.",Neutral
+El supermercado es bastante sin novedad - no es para tanto.,Neutral
+"El funcionamiento estaba ni fu ni fa. Sin embargo, dentro de lo esperado.",Neutral
+"El restaurante es más bien ni frío ni calor. Por otra parte, justo en el medio.",Neutral
+"El diseño es más bien común, y en realidad ni para tirar cohetes ni para quejarse.",Neutral
+"El viaje resultó mismo. Sin embargo, sin sorpresas.",Neutral
+La aplicación es así así.,Neutral
+La reparación se puede considerar ni bueno ni malo. sin sorpresas.,Neutral
+La entrega estaba suficiente.,Neutral
+"La visita se mantuvo normal, si bien ni para tirar cohetes ni para quejarse.",Neutral
+"La conferencia es del montón. Por otra parte, lo típico.",Neutral
+La calidad es más bien mediano.,Neutral
+La asistencia técnica se puede considerar pasable.,Neutral
+La jornada no pasó de mediano.,Neutral
+"El espectáculo resultó común, si bien ni destaca ni decepciona.",Neutral
+"La sesión fue algo ni bueno ni malo. En general, lo que se esperaría normalmente.",Neutral
+"La reunión fue tolerable. No obstante, ni para tirar cohetes ni para quejarse.",Neutral
+La interfaz está básico.,Neutral
+"La instalación fue algo ni bien ni mal. Por otra parte, sin sorpresas.",Neutral
+La asistencia técnica se mantuvo como siempre.,Neutral
+"El supermercado fue como siempre. Personalmente, es lo que hay.",Neutral
+"El soporte estaba sin pena ni gloria. En general, cumple lo básico.",Neutral
+"El evento es apenas pasable, pero lo mismo de siempre.",Neutral
+La tienda es bastante regular - ni impresiona ni decepciona.,Neutral
+La reunión no pasó de adecuado.,Neutral
+"El programa resultó ni bien ni mal, y en realidad ni destaca ni decepciona.",Neutral
+El cine resultó ordinario.,Neutral
+"El espectáculo fue funcional, pero sin sorpresas.",Neutral
+La interfaz fue algo intermedio.,Neutral
+La jornada está nada del otro mundo.,Neutral
+"La cafetería es apenas del montón, considerando todo, dentro de lo esperado.",Neutral
+La calidad es masomenos; no es para emocionarse ni para evitarlo.,Neutral
+"La sesión es bastante igual. Por otra parte, nada especial que destacar.",Neutral
+"El juego se puede considerar aceptable, pero justo en el medio.",Neutral
+El curso resultó promedio.,Neutral
+El electrodoméstico es simplemente ni bueno ni malo.,Neutral
+La interfaz es bastante moderado.,Neutral
+"La tienda se mantuvo ni bueno ni malo. Por otra parte, lo de siempre.",Neutral
+El rendimiento es más bien igual - lo de siempre.,Neutral
+"La capacidad está sin novedad, considerando todo, no es nada del otro mundo.",Neutral
+El viaje es como siempre. sin características especiales.,Neutral
+"El diseño se puede considerar normal. Sin embargo, no es para tanto.",Neutral
+El videojuego fue funcional.,Neutral
+La aplicación lo encontré normal. lo que se esperaría normalmente.,Neutral
+"La aplicación es apenas adecuado. Por otra parte, 50/50.",Neutral
+"El videojuego resultó sin pena ni gloria. Personalmente, ni lo mejor ni lo peor.",Neutral
+"El rendimiento es simplemente ni para bien ni para mal, pero como cualquier otro.",Neutral
+La computadora lo calificaría como ni bien ni mal.,Neutral
+"El trato es apenas ni bien ni mal, aunque sin sorpresas.",Neutral
+La jornada es funcional.,Neutral
+"El diseño fue estándar, si bien no es para tanto.",Neutral
+El libro resultó mismo.,Neutral
+El viaje lo encontré más o menos.,Neutral
+"El envío fue algo ni bueno ni malo, tiene cosas buenas y malas.",Neutral
+La reunión fue algo sin novedad.,Neutral
+"El bar fue algo sin novedad, y en realidad sin características destacables.",Neutral
+"El mantenimiento resultó del montón. Sin embargo, lo que se esperaría normalmente.",Neutral
+El viaje se mantuvo tolerable.,Neutral
+"La capacidad lo encontré básico. Por otra parte, algunos aspectos mejores que otros.",Neutral
+"El establecimiento fue algo básico; típico, ni más ni menos.",Neutral
+La prenda se mantuvo estándar; lo usual.,Neutral
+"La reunión es masomenos, considerando todo, típico, ni más ni menos.",Neutral
+"El producto me pareció pasable - podría ser mejor, podría ser peor.",Neutral
+"El centro comercial está ni para bien ni para mal, considerando todo, no es para tanto.",Neutral
+El dispositivo estaba sin pena ni gloria.,Neutral
+"La entrega fue del montón. Sin embargo, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+El diseño es bastante regular; sin grandes virtudes ni defectos.,Neutral
+El supermercado es básico.,Neutral
+"La asistencia técnica es simplemente masomenos. Por otra parte, es lo que hay.",Neutral
+El restaurante se mantuvo intermedio.,Neutral
+La calidad es más bien básico.,Neutral
+"El mantenimiento es funcional. Personalmente, lo que se esperaría normalmente.",Neutral
+El rendimiento fue promedio. justo en el medio.,Neutral
+La prenda es apenas ni bueno ni malo.,Neutral
+La conferencia se mantuvo tolerable; como cabría esperar.,Neutral
+La sesión fue aceptable.,Neutral
+"El mantenimiento fue algo adecuado, pero es lo que se ofrece habitualmente.",Neutral
+"El concierto no pasó de más o menos. Por otra parte, ni para tirar cohetes ni para quejarse.",Neutral
+El concierto estaba ordinario. ni destaca ni decepciona.,Neutral
+El evento no pasó de masomenos; no es para emocionarse ni para evitarlo.,Neutral
+El videojuego lo encontré moderado.,Neutral
+"El videojuego no pasó de del montón, y en realidad como cualquier otro.",Neutral
+"El curso se mantuvo ni bueno ni malo, si bien nada especial que destacar.",Neutral
+"El local es apenas del montón. Personalmente, ni para tirar cohetes ni para quejarse.",Neutral
+"La jornada lo calificaría como ni bien ni mal, justo en el medio.",Neutral
+La reunión es simplemente así así - lo que se esperaría normalmente.,Neutral
+"La velocidad es más bien estándar, si bien sin características destacables.",Neutral
+El rendimiento es apenas adecuado.,Neutral
+La reunión me pareció promedio.,Neutral
+El evento es más bien suficiente.,Neutral
+El funcionamiento estaba común.,Neutral
+La tienda es apenas masomenos.,Neutral
+"La sesión me pareció nada del otro mundo, ni destaca ni decepciona.",Neutral
+La clase me pareció básico.,Neutral
+"El aparato estaba ni bueno ni malo. En general, justo en el medio.",Neutral
+"La conferencia no pasó de funcional. En general, algunos aspectos mejores que otros.",Neutral
+La interfaz estaba adecuado; no es para tanto.,Neutral
+La reparación estaba intermedio.,Neutral
+El funcionamiento se puede considerar promedio.,Neutral
+"El viaje es más bien básico. Personalmente, típico, ni más ni menos.",Neutral
+"El dispositivo es bastante básico, si bien cumple lo básico.",Neutral
+"La sesión está intermedio, aunque cumple lo básico.",Neutral
+El artículo me pareció ni bien ni mal.,Neutral
+El libro se mantuvo nada del otro mundo.,Neutral
+"El artículo no pasó de ni frío ni calor. No obstante, ni para tirar cohetes ni para quejarse.",Neutral
+El espectáculo es bastante tolerable - dentro de lo esperado.,Neutral
+La interfaz estaba nada del otro mundo.,Neutral
+"El cine es funcional. No obstante, 50/50.",Neutral
+"El producto lo calificaría como ni bueno ni malo. No obstante, cumple su función.",Neutral
+"El dispositivo no pasó de sin pena ni gloria. Sin embargo, no es nada del otro mundo.",Neutral
+"El dispositivo lo encontré masomenos. Personalmente, sin destacar particularmente.",Neutral
+"El envío es básico, pero dentro de lo esperado.",Neutral
+"La aplicación es apenas básico. Personalmente, justo en el medio.",Neutral
+"El curso se puede considerar promedio, y en realidad lo mismo de siempre.",Neutral
+"El televisor es apenas tolerable. En general, sin destacar particularmente.",Neutral
+El videojuego lo calificaría como sin novedad; sin destacar particularmente.,Neutral
+"El hotel me pareció mediano, ni lo mejor ni lo peor.",Neutral
+El dispositivo es mismo.,Neutral
+El bar está ni frío ni calor.,Neutral
+"El televisor es apenas pasable, aunque ni más ni menos.",Neutral
+El juego es apenas mismo. no es nada del otro mundo.,Neutral
+El espectáculo se puede considerar suficiente.,Neutral
+El rendimiento es apenas básico.,Neutral
+"La película fue algo normal, pero sin sorpresas.",Neutral
+El envío no pasó de adecuado.,Neutral
+"El evento es más bien básico, sin sorpresas.",Neutral
+"El electrodoméstico me pareció común. Por otra parte, nada especial que destacar.",Neutral
+"El juego se mantuvo suficiente, si bien cumple su función.",Neutral
+El producto estaba pasable. ni para tirar cohetes ni para quejarse.,Neutral
+La experiencia lo calificaría como mediano - justo en el medio.,Neutral
+"El funcionamiento es más bien ni para bien ni para mal. No obstante, ni lo mejor ni lo peor.",Neutral
+"El trato es bastante funcional. Por otra parte, es lo que hay.",Neutral
+"La estancia está normal, considerando todo, lo de siempre.",Neutral
+"El juego se mantuvo ni fu ni fa, aunque ni para tirar cohetes ni para quejarse.",Neutral
+"El mantenimiento es sin pena ni gloria, y en realidad como cualquier otro.",Neutral
+"El evento es más bien ni frío ni calor, pero nada especial que destacar.",Neutral
+"El soporte fue ni bueno ni malo, aunque lo usual.",Neutral
+"El restaurante se puede considerar suficiente, pero lo mismo de siempre.",Neutral
+La jornada fue ni bueno ni malo.,Neutral
+"El aparato es simplemente correcto. Personalmente, no es para emocionarse ni para evitarlo.",Neutral
+La jornada se mantuvo común - cumple lo básico.,Neutral
+El funcionamiento resultó masomenos.,Neutral
+La atención es más bien ni para bien ni para mal.,Neutral
+"La prenda se puede considerar sin pena ni gloria, aunque ni impresiona ni decepciona.",Neutral
+"El evento es más bien igual. No obstante, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+"La velocidad se mantuvo común, si bien típico, ni más ni menos.",Neutral
+"La velocidad lo calificaría como intermedio. Sin embargo, es lo que se ofrece habitualmente.",Neutral
+"La tienda no pasó de sin novedad. Personalmente, es lo que hay.",Neutral
+"El trato fue aceptable, si bien cumple lo básico.",Neutral
+"El servicio es simplemente así así, y en realidad no es nada del otro mundo.",Neutral
+"El juego fue así así, considerando todo, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+La experiencia estaba regular.,Neutral
+La experiencia se mantuvo igual.,Neutral
+La reparación lo calificaría como correcto.,Neutral
+"El dispositivo fue ni fu ni fa. En general, lo usual.",Neutral
+"El restaurante lo encontré ni fu ni fa, considerando todo, tiene cosas buenas y malas.",Neutral
+"El curso se puede considerar adecuado, si bien sin características especiales.",Neutral
+"El tamaño se mantuvo masomenos. Por otra parte, como cabría esperar.",Neutral
+"El mueble es apenas sin pena ni gloria, pero 50/50.",Neutral
+"El evento me pareció suficiente. Personalmente, lo que se esperaría normalmente.",Neutral
+"El envío lo calificaría como correcto. En general, ni lo mejor ni lo peor.",Neutral
+La potencia está nada del otro mundo; cumple lo básico.,Neutral
+"La velocidad se mantuvo sin novedad, aunque como cualquier otro.",Neutral
+El viaje se puede considerar sin novedad.,Neutral
+"La estancia fue algo ni bien ni mal, lo de siempre.",Neutral
+El restaurante está nada del otro mundo. no me quejo pero tampoco lo recomendaría especialmente.,Neutral
+El concierto es apenas promedio.,Neutral
+La estancia es apenas común.,Neutral
+La experiencia es simplemente ni bueno ni malo.,Neutral
+La interfaz es simplemente ni para bien ni para mal.,Neutral
+La velocidad es mediano.,Neutral
+El televisor es simplemente como siempre; es lo que hay.,Neutral
+"El rendimiento me pareció ni bien ni mal. Por otra parte, ni lo mejor ni lo peor.",Neutral
+"La calidad es apenas adecuado, si bien dentro de lo esperado.",Neutral
+"La velocidad es pasable, pero ni para tirar cohetes ni para quejarse.",Neutral
+El curso fue algo adecuado.,Neutral
+"La asistencia técnica resultó sin pena ni gloria. Sin embargo, nada especial que destacar.",Neutral
+"La tienda es bastante moderado. Personalmente, es lo que hay.",Neutral
+"La serie no pasó de ni bien ni mal. Personalmente, como cabría esperar.",Neutral
+"La capacidad es del montón, y en realidad algunos aspectos mejores que otros.",Neutral
+El evento resultó sin pena ni gloria.,Neutral
+"El juego lo encontré mismo, sin características destacables.",Neutral
+"El smartphone es apenas masomenos. Sin embargo, cumple su función.",Neutral
+El centro comercial lo encontré ordinario.,Neutral
+"La prenda está más o menos, si bien cumple pero sin destacar.",Neutral
+"El trato estaba sin pena ni gloria, y en realidad podría ser mejor, podría ser peor.",Neutral
+"El restaurante estaba masomenos, si bien 50/50.",Neutral
+"La duración lo encontré suficiente. Por otra parte, sin características destacables.",Neutral
+El programa es más bien normal.,Neutral
+"El mueble es bastante estándar, como cualquier otro.",Neutral
+El trato fue algo intermedio.,Neutral
+"El viaje no pasó de igual, ni lo mejor ni lo peor.",Neutral
+"El tamaño es bastante ordinario, pero no es nada del otro mundo.",Neutral
+La velocidad estaba ni bueno ni malo. 50/50.,Neutral
+La cafetería fue correcto.,Neutral
+"La tienda está pasable. Por otra parte, sin sorpresas.",Neutral
+"El aparato fue algo ni bien ni mal. En general, no es para emocionarse ni para evitarlo.",Neutral
+"El viaje está ni bueno ni malo, aunque no es para tanto.",Neutral
+"El bar fue ni para bien ni para mal, considerando todo, lo de siempre.",Neutral
+La instalación estaba así así.,Neutral
+"La entrega es apenas masomenos. No obstante, ni destaca ni decepciona.",Neutral
+El concierto es más bien común.,Neutral
+"El producto es bastante sin pena ni gloria, pero lo usual.",Neutral
+La película no pasó de promedio.,Neutral
+"El juego se mantuvo sin novedad. Por otra parte, ni lo mejor ni lo peor.",Neutral
+"El libro es bastante promedio, y en realidad cumple pero sin destacar.",Neutral
+La aplicación fue algo nada del otro mundo; tiene sus pros y contras por igual.,Neutral
+"La serie fue algo como siempre, pero cumple lo básico.",Neutral
+El establecimiento es apenas ni fu ni fa. se mantiene en la media.,Neutral
+"El rendimiento lo calificaría como intermedio, y en realidad ni más ni menos.",Neutral
+"El curso es simplemente tolerable. Personalmente, ni lo mejor ni lo peor.",Neutral
+"La visita es apenas adecuado. Sin embargo, sin sorpresas.",Neutral
+La entrega lo encontré normal.,Neutral
+"La prenda me pareció moderado. típico, ni más ni menos.",Neutral
+El mueble es más bien mismo.,Neutral
+"La clase es más bien igual, y en realidad típico, ni más ni menos.",Neutral
+El bar es más bien común. lo mismo de siempre.,Neutral
+"La entrega es bastante normal, si bien cumple lo básico.",Neutral
+El dispositivo es más bien básico.,Neutral
+"La instalación lo encontré aceptable. En general, 50/50.",Neutral
+"El viaje es más bien sin pena ni gloria. En general, 50/50.",Neutral
+El mantenimiento fue algo sin pena ni gloria - ni lo mejor ni lo peor.,Neutral
+"El juego estaba ni fu ni fa. Sin embargo, cumple pero sin destacar.",Neutral
+"El concierto está aceptable, considerando todo, sin grandes virtudes ni defectos.",Neutral
+El diseño lo encontré pasable.,Neutral
+La cafetería lo encontré aceptable.,Neutral
+El televisor se puede considerar pasable.,Neutral
+El rendimiento se mantuvo normal; cumple su función.,Neutral
+El rendimiento fue algo tolerable.,Neutral
+"La computadora es bastante más o menos, no es para tanto.",Neutral
+"El hotel se puede considerar pasable. típico, ni más ni menos.",Neutral
+El soporte se puede considerar correcto. sin grandes virtudes ni defectos.,Neutral
+La calidad fue algo sin novedad.,Neutral
+La velocidad resultó nada del otro mundo.,Neutral
+"El mantenimiento fue moderado. Sin embargo, no es nada del otro mundo.",Neutral
+La experiencia no pasó de ni bueno ni malo - es lo que hay.,Neutral
+"El envío me pareció común. En general, nada especial que destacar.",Neutral
+"El videojuego es más bien pasable. No obstante, no es para tanto.",Neutral
+"El restaurante se mantuvo suficiente. Por otra parte, ni más ni menos.",Neutral
+"La conferencia lo calificaría como regular, si bien cumple pero sin destacar.",Neutral
+El trato no pasó de ordinario. como cabría esperar.,Neutral
+"El establecimiento fue ni fu ni fa. Personalmente, cumple lo básico.",Neutral
+La visita estaba suficiente.,Neutral
+"La calidad lo calificaría como mediano, lo usual.",Neutral
+El televisor es bastante ni frío ni calor.,Neutral
+El tamaño es simplemente más o menos - no es para tanto.,Neutral
+"La conferencia se mantuvo correcto. Por otra parte, como cabría esperar.",Neutral
+"La atención me pareció como siempre, pero cumple pero sin destacar.",Neutral
+La serie es más bien como siempre.,Neutral
+"El producto está mediano. No obstante, podría ser mejor, podría ser peor.",Neutral
+"El hotel es simplemente pasable, y en realidad ni impresiona ni decepciona.",Neutral
+La potencia me pareció ni bien ni mal - no es nada del otro mundo.,Neutral
+"La reparación es simplemente igual. Personalmente, no es para tanto.",Neutral
+"El electrodoméstico fue ni bueno ni malo, ni más ni menos.",Neutral
+"El hotel lo calificaría como así así, si bien sin características especiales.",Neutral
+"El curso se puede considerar mismo, ni impresiona ni decepciona.",Neutral
+El local es masomenos.,Neutral
+"La reparación no pasó de común, pero lo que se esperaría normalmente.",Neutral
+"El juego me pareció igual, pero cumple su función.",Neutral
+"La atención es más bien aceptable, y en realidad lo típico.",Neutral
+"El mantenimiento se puede considerar ni para bien ni para mal. Por otra parte, sin destacar particularmente.",Neutral
+"El programa fue algo adecuado, aunque cumple su función.",Neutral
+"El electrodoméstico se mantuvo ordinario, si bien no es para tanto.",Neutral
+La prenda lo calificaría como ni bueno ni malo; como la mayoría.,Neutral
+"El envío es más bien moderado. No obstante, 50/50.",Neutral
+"La reparación es bastante ni bueno ni malo. No obstante, sin destacar particularmente.",Neutral
+"La sesión me pareció sin novedad. Sin embargo, no es nada del otro mundo.",Neutral
+El mantenimiento resultó así así.,Neutral
+El bar está correcto - como cualquier otro.,Neutral
+El mueble se mantuvo pasable.,Neutral
+"El envío lo encontré adecuado, pero justo en el medio.",Neutral
+"La capacidad estaba masomenos. Sin embargo, sin características destacables.",Neutral
+La potencia me pareció pasable. lo típico.,Neutral
+La atención se mantuvo ni bueno ni malo.,Neutral
+"El funcionamiento fue algo ni fu ni fa, pero no es nada del otro mundo.",Neutral
+"El programa lo encontré normal. No obstante, dentro de lo esperado.",Neutral
+"La tienda resultó ni fu ni fa, pero dentro de lo esperado.",Neutral
+El videojuego es más bien más o menos - no es nada del otro mundo.,Neutral
+"La atención es apenas mediano. No obstante, típico, ni más ni menos.",Neutral
+La conferencia estaba moderado.,Neutral
+"El restaurante es bastante ordinario, si bien algunos aspectos mejores que otros.",Neutral
+"El televisor no pasó de mediano. En general, cumple su función.",Neutral
+"El curso fue algo estándar, y en realidad es lo que hay.",Neutral
+"El producto lo encontré masomenos. Por otra parte, no es para emocionarse ni para evitarlo.",Neutral
+"La capacidad estaba ni fu ni fa. No obstante, es lo que hay.",Neutral
+"El envío se mantuvo tolerable, considerando todo, como cualquier otro.",Neutral
+El hotel es estándar.,Neutral
+"El diseño es más bien del montón, pero no es para emocionarse ni para evitarlo.",Neutral
+El curso es intermedio - sin sorpresas.,Neutral
+La velocidad lo calificaría como del montón. cumple su función.,Neutral
+La sesión es intermedio.,Neutral
+El televisor lo encontré nada del otro mundo.,Neutral
+"La potencia fue normal, si bien ni lo mejor ni lo peor.",Neutral
+"La visita lo calificaría como más o menos. No obstante, como cualquier otro.",Neutral
+"El televisor no pasó de moderado. En general, como cualquier otro.",Neutral
+"El funcionamiento no pasó de ordinario; típico, ni más ni menos.",Neutral
+"El establecimiento es bastante correcto. En general, sin sorpresas.",Neutral
+"El electrodoméstico está ni frío ni calor. En general, ni más ni menos.",Neutral
+La reparación resultó suficiente.,Neutral
+El centro comercial me pareció ni frío ni calor.,Neutral
+El hotel es más bien mediano. algunos aspectos mejores que otros.,Neutral
+La capacidad resultó adecuado.,Neutral
+"El dispositivo estaba funcional. En general, como la mayoría.",Neutral
+"El mantenimiento es apenas más o menos. Por otra parte, como cabría esperar.",Neutral
+"El local me pareció tolerable. Personalmente, lo que se esperaría normalmente.",Neutral
+La tienda lo calificaría como aceptable - ni para tirar cohetes ni para quejarse.,Neutral
+"El hotel fue algo suficiente. Personalmente, lo de siempre.",Neutral
+El cine fue igual.,Neutral
+El libro fue sin novedad.,Neutral
+"El mantenimiento se mantuvo tolerable. Por otra parte, algunos aspectos mejores que otros.",Neutral
+El curso me pareció ni bueno ni malo.,Neutral
+"La estancia es bastante más o menos, aunque dentro de lo esperado.",Neutral
+"El tamaño fue algo sin novedad. Personalmente, como cualquier otro.",Neutral
+"El producto es apenas ni bueno ni malo. En general, lo mismo de siempre.",Neutral
+La atención fue algo moderado.,Neutral
+La cafetería es apenas moderado.,Neutral
+"La velocidad resultó ordinario. En general, sin grandes virtudes ni defectos.",Neutral
+La estancia es más bien mismo.,Neutral
+"El trato es apenas ni para bien ni para mal, si bien no es nada del otro mundo.",Neutral
+La estancia fue estándar.,Neutral
+"El servicio lo calificaría como pasable. Sin embargo, no es para tanto.",Neutral
+"La interfaz es apenas ni bien ni mal, y en realidad cumple su función.",Neutral
+El electrodoméstico es apenas funcional.,Neutral
+El local se puede considerar correcto.,Neutral
+La cafetería no pasó de así así.,Neutral
+"El mantenimiento fue algo tolerable. En general, tiene cosas buenas y malas.",Neutral
+"El electrodoméstico me pareció del montón. No obstante, ni lo mejor ni lo peor.",Neutral
+"El envío fue masomenos, pero no es para tanto.",Neutral
+El viaje lo encontré funcional.,Neutral
+La asistencia técnica fue intermedio.,Neutral
+"El soporte lo encontré aceptable. Por otra parte, no es para emocionarse ni para evitarlo.",Neutral
+"La duración lo calificaría como aceptable, considerando todo, típico, ni más ni menos.",Neutral
+"La jornada lo calificaría como promedio. Sin embargo, como cualquier otro.",Neutral
+La calidad me pareció ni para bien ni para mal.,Neutral
+El bar es bastante masomenos.,Neutral
+"La serie es masomenos. No obstante, lo usual.",Neutral
+"El hotel fue algo sin pena ni gloria. En general, lo típico.",Neutral
+"El juego es más bien del montón. Personalmente, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+"La atención me pareció intermedio. Sin embargo, dentro de lo esperado.",Neutral
+La tienda resultó normal.,Neutral
+"El soporte es simplemente básico, y en realidad típico, ni más ni menos.",Neutral
+"La instalación es apenas normal, considerando todo, ni para tirar cohetes ni para quejarse.",Neutral
+"La experiencia es ordinario, y en realidad lo que se esperaría normalmente.",Neutral
+El libro es funcional.,Neutral
+"La prenda resultó mediano. Personalmente, no es para tanto.",Neutral
+"La interfaz es más bien común. Personalmente, no es nada del otro mundo.",Neutral
+El programa me pareció común. no me quejo pero tampoco lo recomendaría especialmente.,Neutral
+"El viaje estaba más o menos. Personalmente, no es nada del otro mundo.",Neutral
+La computadora fue algo suficiente - ni más ni menos.,Neutral
+"La potencia es apenas moderado, no es nada del otro mundo.",Neutral
+La estancia se mantuvo funcional.,Neutral
+"El aparato fue algo básico. Por otra parte, 50/50.",Neutral
+"La cafetería es bastante mediano, y en realidad lo de siempre.",Neutral
+"La calidad fue ni frío ni calor. Por otra parte, sin destacar particularmente.",Neutral
+El juego me pareció tolerable.,Neutral
+"La conferencia me pareció sin novedad, aunque ni para tirar cohetes ni para quejarse.",Neutral
+El trato fue intermedio. ni más ni menos.,Neutral
+El rendimiento es bastante más o menos.,Neutral
+"La atención no pasó de ni bueno ni malo. No obstante, cumple pero sin destacar.",Neutral
+La conferencia estaba masomenos. dentro de lo esperado.,Neutral
+La entrega lo encontré ni bueno ni malo.,Neutral
+"La tienda es nada del otro mundo, si bien lo que se esperaría normalmente.",Neutral
+El funcionamiento es apenas sin novedad; no es para tanto.,Neutral
+El mueble está mismo.,Neutral
+"La calidad es común, y en realidad es lo que se ofrece habitualmente.",Neutral
+"El producto se mantuvo como siempre. No obstante, ni lo mejor ni lo peor.",Neutral
+"La clase no pasó de moderado, si bien es lo que se ofrece habitualmente.",Neutral
+"El bar está ni frío ni calor, pero ni más ni menos.",Neutral
+"La tienda es apenas tolerable, y en realidad sin sorpresas.",Neutral
+El envío estaba ni bueno ni malo; no es para tanto.,Neutral
+El rendimiento lo encontré aceptable.,Neutral
+El diseño es apenas sin pena ni gloria.,Neutral
+"La prenda es bastante igual, y en realidad no es nada del otro mundo.",Neutral
+"El tamaño se mantuvo funcional, aunque sin características especiales.",Neutral
+La prenda está nada del otro mundo.,Neutral
+"El soporte fue algo promedio. No obstante, no es para emocionarse ni para evitarlo.",Neutral
+"El centro comercial es más bien estándar, si bien sin sorpresas.",Neutral
+El espectáculo lo calificaría como igual.,Neutral
+El mueble lo encontré ni bueno ni malo.,Neutral
+El funcionamiento fue algo intermedio.,Neutral
+El trato no pasó de adecuado.,Neutral
+"El libro está común, y en realidad ni impresiona ni decepciona.",Neutral
+"El servicio es ni bueno ni malo, aunque 50/50.",Neutral
+"La reparación fue algo estándar, considerando todo, podría ser mejor, podría ser peor.",Neutral
+El juego fue algo aceptable.,Neutral
+"El electrodoméstico se mantuvo ordinario, si bien algunos aspectos mejores que otros.",Neutral
+"La experiencia es bastante intermedio. En general, lo mismo de siempre.",Neutral
+El servicio es simplemente promedio. ni destaca ni decepciona.,Neutral
+"El mantenimiento es más bien normal, aunque tiene sus pros y contras por igual.",Neutral
+"El supermercado es simplemente ordinario, no es para emocionarse ni para evitarlo.",Neutral
+"El espectáculo está sin pena ni gloria. Personalmente, es lo que hay.",Neutral
+"El soporte fue algo común, aunque nada especial que destacar.",Neutral
+"El mueble me pareció mediano, aunque sin grandes virtudes ni defectos.",Neutral
+"La velocidad me pareció sin novedad, pero lo usual.",Neutral
+El establecimiento estaba pasable.,Neutral
+La interfaz resultó tolerable. ni para tirar cohetes ni para quejarse.,Neutral
+El mantenimiento se mantuvo ni bien ni mal.,Neutral
+"La entrega lo calificaría como promedio, considerando todo, no es para tanto.",Neutral
+"La potencia es simplemente como siempre. Personalmente, tiene sus pros y contras por igual.",Neutral
+La instalación resultó del montón. lo usual.,Neutral
+"La duración se puede considerar más o menos. No obstante, se mantiene en la media.",Neutral
+"La asistencia técnica estaba pasable. En general, ni lo mejor ni lo peor.",Neutral
+El hotel lo encontré suficiente.,Neutral
+"El evento es tolerable. En general, típico, ni más ni menos.",Neutral
+La entrega me pareció moderado; como la mayoría.,Neutral
+"El videojuego me pareció aceptable. Sin embargo, no es nada del otro mundo.",Neutral
+El espectáculo estaba aceptable.,Neutral
+"El smartphone se mantuvo estándar. Personalmente, sin características especiales.",Neutral
+El establecimiento es nada del otro mundo. no es nada del otro mundo.,Neutral
+"El concierto está normal, pero dentro de lo esperado.",Neutral
+La experiencia se mantuvo ni bien ni mal.,Neutral
+La reunión lo calificaría como adecuado.,Neutral
+El rendimiento fue algo masomenos.,Neutral
+El juego fue normal.,Neutral
+La instalación resultó ni fu ni fa.,Neutral
+"El electrodoméstico estaba común, aunque nada especial que destacar.",Neutral
+"La película resultó nada del otro mundo. En general, es lo que se ofrece habitualmente.",Neutral
+"El televisor lo encontré regular, considerando todo, ni para tirar cohetes ni para quejarse.",Neutral
+"La experiencia fue algo estándar. No obstante, ni para tirar cohetes ni para quejarse.",Neutral
+El producto es apenas así así - 50/50.,Neutral
+"La potencia estaba como siempre, considerando todo, se mantiene en la media.",Neutral
+"La asistencia técnica fue intermedio, aunque lo usual.",Neutral
+"El artículo es simplemente tolerable, sin características destacables.",Neutral
+El televisor me pareció así así.,Neutral
+El hotel estaba tolerable - lo de siempre.,Neutral
+"El smartphone resultó tolerable. Por otra parte, como cabría esperar.",Neutral
+"El soporte es mediano, no es para tanto.",Neutral
+"La interfaz es normal, considerando todo, ni impresiona ni decepciona.",Neutral
+La reparación fue ni bueno ni malo.,Neutral
+"El artículo se mantuvo correcto. Sin embargo, no es para tanto.",Neutral
+La instalación fue suficiente.,Neutral
+El espectáculo es apenas como siempre.,Neutral
+El concierto fue ni fu ni fa.,Neutral
+"El libro se mantuvo funcional. Sin embargo, cumple su función.",Neutral
+"La reunión es apenas ni frío ni calor, y en realidad lo que se esperaría normalmente.",Neutral
+"El programa no pasó de tolerable, podría ser mejor, podría ser peor.",Neutral
+La velocidad fue algo mismo.,Neutral
+El mantenimiento estaba pasable - lo que se esperaría normalmente.,Neutral
+La jornada lo calificaría como sin novedad.,Neutral
+La reparación fue algo igual.,Neutral
+El restaurante se mantuvo normal. ni más ni menos.,Neutral
+"La reparación se mantuvo adecuado. Personalmente, tiene cosas buenas y malas.",Neutral
+El juego es simplemente ni bueno ni malo.,Neutral
+El tamaño fue algo como siempre.,Neutral
+"La prenda está común. No obstante, cumple pero sin destacar.",Neutral
+"El restaurante se puede considerar suficiente, sin sorpresas.",Neutral
+"La interfaz fue ni bien ni mal. Personalmente, es lo que hay.",Neutral
+El funcionamiento está igual. ni lo mejor ni lo peor.,Neutral
+"El trato es simplemente tolerable. Por otra parte, lo usual.",Neutral
+El libro estaba ni bueno ni malo.,Neutral
+"El espectáculo no pasó de normal. No obstante, tiene cosas buenas y malas.",Neutral
+"El hotel resultó correcto, aunque como cabría esperar.",Neutral
+La potencia es más bien igual.,Neutral
+El centro comercial estaba mediano.,Neutral
+El smartphone es simplemente más o menos. como la mayoría.,Neutral
+"El trato no pasó de ni bien ni mal, no es para tanto.",Neutral
+La tienda se mantuvo ordinario; no es para tanto.,Neutral
+"El electrodoméstico es más bien sin pena ni gloria, considerando todo, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+"La potencia es simplemente promedio, y en realidad no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+El curso lo encontré mismo.,Neutral
+"La instalación fue algo promedio, aunque cumple su función.",Neutral
+El hotel es simplemente sin novedad.,Neutral
+El servicio lo calificaría como suficiente; algunos aspectos mejores que otros.,Neutral
+"El curso es simplemente mismo, si bien podría ser mejor, podría ser peor.",Neutral
+El bar se puede considerar correcto. como cualquier otro.,Neutral
+"El servicio es masomenos, no es para emocionarse ni para evitarlo.",Neutral
+El cine no pasó de funcional. cumple pero sin destacar.,Neutral
+"El electrodoméstico lo encontré ni bien ni mal, considerando todo, podría ser mejor, podría ser peor.",Neutral
+La duración estaba correcto; no es para tanto.,Neutral
+"El establecimiento fue algo como siempre. En general, justo en el medio.",Neutral
+La sesión está mismo.,Neutral
+"La experiencia estaba común, considerando todo, se mantiene en la media.",Neutral
+"El televisor resultó ordinario, y en realidad sin características especiales.",Neutral
+El diseño se puede considerar estándar.,Neutral
+"La experiencia estaba del montón, y en realidad ni destaca ni decepciona.",Neutral
+El electrodoméstico es más bien aceptable.,Neutral
+"El restaurante está correcto, se mantiene en la media.",Neutral
+"El curso se puede considerar mediano, como cabría esperar.",Neutral
+La asistencia técnica lo calificaría como ni bueno ni malo; no es para tanto.,Neutral
+"El envío se puede considerar tolerable. Personalmente, como cabría esperar.",Neutral
+La serie es mismo.,Neutral
+El establecimiento fue nada del otro mundo.,Neutral
+El funcionamiento está funcional.,Neutral
+La prenda resultó tolerable. algunos aspectos mejores que otros.,Neutral
+La serie fue masomenos; ni más ni menos.,Neutral
+El soporte es como siempre. como cabría esperar.,Neutral
+"El espectáculo no pasó de común, algunos aspectos mejores que otros.",Neutral
+"El servicio es adecuado, considerando todo, es lo que se ofrece habitualmente.",Neutral
+"El hotel es bastante ni frío ni calor. No obstante, tiene cosas buenas y malas.",Neutral
+"La sesión se mantuvo como siempre, considerando todo, cumple pero sin destacar.",Neutral
+"El restaurante fue algo promedio, aunque como la mayoría.",Neutral
+El envío fue algo normal.,Neutral
+"El soporte es mismo, y en realidad ni más ni menos.",Neutral
+"El trato es simplemente del montón. Por otra parte, nada especial que destacar.",Neutral
+"La estancia lo encontré igual. No obstante, ni más ni menos.",Neutral
+El curso lo encontré regular.,Neutral
+"El smartphone no pasó de promedio, aunque no es para tanto.",Neutral
+"La clase es apenas ni fu ni fa, y en realidad ni para tirar cohetes ni para quejarse.",Neutral
+La película está adecuado.,Neutral
+La computadora no pasó de común.,Neutral
+El tamaño es bastante funcional.,Neutral
+"La interfaz resultó mismo. Por otra parte, como cualquier otro.",Neutral
+El supermercado fue algo común.,Neutral
+La estancia se puede considerar como siempre - dentro de lo esperado.,Neutral
+El evento no pasó de adecuado.,Neutral
+La estancia resultó intermedio; cumple lo básico.,Neutral
+El envío es aceptable.,Neutral
+"El televisor está nada del otro mundo, si bien no es para tanto.",Neutral
+El local estaba tolerable.,Neutral
+El local me pareció igual.,Neutral
+La interfaz no pasó de común.,Neutral
+"El programa se mantuvo mediano, considerando todo, se mantiene en la media.",Neutral
+La experiencia estaba masomenos.,Neutral
+"La película es simplemente ordinario, y en realidad no es para tanto.",Neutral
+El electrodoméstico se mantuvo mismo.,Neutral
+"El smartphone lo encontré pasable, pero cumple pero sin destacar.",Neutral
+El evento es simplemente ni para bien ni para mal; es lo que se ofrece habitualmente.,Neutral
+"La instalación me pareció intermedio, aunque no es nada del otro mundo.",Neutral
+"El supermercado lo encontré básico, aunque ni lo mejor ni lo peor.",Neutral
+"El funcionamiento fue algo ni bien ni mal. Por otra parte, lo mismo de siempre.",Neutral
+"La serie no pasó de suficiente, y en realidad sin características destacables.",Neutral
+"La cafetería es más bien intermedio. Sin embargo, como cabría esperar.",Neutral
+"El viaje fue ni bueno ni malo. No obstante, lo que se esperaría normalmente.",Neutral
+El juego está sin pena ni gloria; lo usual.,Neutral
+El diseño lo encontré sin novedad.,Neutral
+"La computadora lo calificaría como del montón. En general, no es nada del otro mundo.",Neutral
+El espectáculo es bastante así así.,Neutral
+La cafetería está correcto.,Neutral
+La serie es más bien ni fu ni fa.,Neutral
+"El hotel resultó adecuado, sin destacar particularmente.",Neutral
+"El smartphone fue común. En general, sin grandes virtudes ni defectos.",Neutral
+"La asistencia técnica estaba igual. No obstante, típico, ni más ni menos.",Neutral
+"La reunión se mantuvo mediano, considerando todo, se mantiene en la media.",Neutral
+La atención se mantuvo ni para bien ni para mal; es lo que se ofrece habitualmente.,Neutral
+"La estancia fue algo pasable. En general, tiene cosas buenas y malas.",Neutral
+El concierto es más bien intermedio.,Neutral
+La jornada es bastante intermedio; lo que se esperaría normalmente.,Neutral
+"El mantenimiento se mantuvo nada del otro mundo, sin destacar particularmente.",Neutral
+La reunión es apenas normal.,Neutral
+El smartphone es simplemente ni para bien ni para mal.,Neutral
+"El trato lo calificaría como mismo, y en realidad algunos aspectos mejores que otros.",Neutral
+"La computadora se mantuvo ordinario. Sin embargo, algunos aspectos mejores que otros.",Neutral
+"La prenda es simplemente del montón. Personalmente, es lo que hay.",Neutral
+"La serie lo encontré ni para bien ni para mal, aunque ni destaca ni decepciona.",Neutral
+El centro comercial fue algo ordinario; se mantiene en la media.,Neutral
+La cafetería resultó más o menos. cumple lo básico.,Neutral
+El viaje está ordinario - lo mismo de siempre.,Neutral
+"La cafetería resultó intermedio. Personalmente, cumple pero sin destacar.",Neutral
+"La cafetería lo encontré ordinario. Por otra parte, tiene sus pros y contras por igual.",Neutral
+El establecimiento es apenas aceptable.,Neutral
+"La estancia es simplemente ordinario, aunque tiene sus pros y contras por igual.",Neutral
+El supermercado fue algo normal.,Neutral
+La reparación fue algo tolerable.,Neutral
+"El mantenimiento fue algo igual, considerando todo, ni lo mejor ni lo peor.",Neutral
+"El libro es apenas ni para bien ni para mal. Sin embargo, sin características especiales.",Neutral
+"La jornada me pareció ni bien ni mal, no es nada del otro mundo.",Neutral
+"El funcionamiento no pasó de ni bueno ni malo, considerando todo, ni impresiona ni decepciona.",Neutral
+"El centro comercial fue sin pena ni gloria, y en realidad tiene sus pros y contras por igual.",Neutral
+El videojuego se puede considerar nada del otro mundo.,Neutral
+El restaurante se puede considerar básico.,Neutral
+"La duración no pasó de funcional. En general, tiene sus pros y contras por igual.",Neutral
+"El televisor se puede considerar funcional, 50/50.",Neutral
+"La película fue aceptable. En general, lo de siempre.",Neutral
+"La instalación es tolerable, pero ni destaca ni decepciona.",Neutral
+"El trato me pareció ordinario. No obstante, ni lo mejor ni lo peor.",Neutral
+La jornada es más o menos.,Neutral
+La cafetería es apenas así así.,Neutral
+"El restaurante lo calificaría como ni frío ni calor, considerando todo, sin sorpresas.",Neutral
+"El juego se puede considerar ni bueno ni malo. típico, ni más ni menos.",Neutral
+"El concierto fue ni frío ni calor, pero como cabría esperar.",Neutral
+El rendimiento es más bien nada del otro mundo. como la mayoría.,Neutral
+"La duración me pareció estándar. En general, se mantiene en la media.",Neutral
+La prenda es bastante ni bueno ni malo.,Neutral
+El mantenimiento se puede considerar estándar.,Neutral
+La clase lo calificaría como básico.,Neutral
+El trato es apenas así así.,Neutral
+El aparato no pasó de promedio.,Neutral
+"La reparación fue nada del otro mundo. Por otra parte, ni destaca ni decepciona.",Neutral
+"El smartphone lo calificaría como ni bueno ni malo. En general, ni más ni menos.",Neutral
+El juego fue promedio.,Neutral
+La prenda es más bien intermedio.,Neutral
+"El establecimiento se puede considerar correcto, si bien sin características especiales.",Neutral
+El cine es apenas correcto.,Neutral
+"El supermercado se mantuvo adecuado. Sin embargo, no es nada del otro mundo.",Neutral
+"El bar lo encontré ni bien ni mal, considerando todo, lo de siempre.",Neutral
+La potencia es tolerable; no es para tanto.,Neutral
+"La duración está mismo, pero sin características destacables.",Neutral
+La cafetería se puede considerar como siempre.,Neutral
+"El rendimiento es apenas adecuado, y en realidad no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+El smartphone se puede considerar ni fu ni fa.,Neutral
+"El viaje resultó sin pena ni gloria, pero como la mayoría.",Neutral
+"El curso no pasó de más o menos. Por otra parte, ni lo mejor ni lo peor.",Neutral
+"El envío lo calificaría como nada del otro mundo, y en realidad no es nada del otro mundo.",Neutral
+El envío es más bien sin novedad.,Neutral
+"El local fue más o menos. Por otra parte, lo de siempre.",Neutral
+El diseño lo calificaría como ni bien ni mal.,Neutral
+"El funcionamiento estaba más o menos, no es para tanto.",Neutral
+El centro comercial se mantuvo nada del otro mundo.,Neutral
+La experiencia no pasó de aceptable.,Neutral
+El smartphone fue algo más o menos. ni impresiona ni decepciona.,Neutral
+El servicio me pareció aceptable.,Neutral
+"La clase se puede considerar igual. No obstante, 50/50.",Neutral
+"El hotel me pareció ni bien ni mal, considerando todo, tiene cosas buenas y malas.",Neutral
+"El producto es apenas intermedio, nada especial que destacar.",Neutral
+La estancia me pareció suficiente - no es nada del otro mundo.,Neutral
+"El electrodoméstico se puede considerar igual, pero ni más ni menos.",Neutral
+"El supermercado me pareció moderado, si bien justo en el medio.",Neutral
+"El envío es más bien aceptable. Por otra parte, 50/50.",Neutral
+El dispositivo se mantuvo mediano.,Neutral
+El producto estaba mediano.,Neutral
+"El envío es apenas regular. Personalmente, se mantiene en la media.",Neutral
+"El dispositivo es apenas adecuado, considerando todo, es lo que hay.",Neutral
+El juego es sin pena ni gloria; no es para emocionarse ni para evitarlo.,Neutral
+"El artículo lo encontré regular, aunque como cabría esperar.",Neutral
+"El rendimiento es bastante ni fu ni fa, aunque no es nada del otro mundo.",Neutral
+La prenda estaba moderado.,Neutral
+La estancia es apenas común; 50/50.,Neutral
+La estancia se mantuvo ni fu ni fa.,Neutral
+"El artículo resultó estándar. En general, no es para tanto.",Neutral
+La interfaz estaba así así.,Neutral
+"El juego se puede considerar sin novedad, pero ni lo mejor ni lo peor.",Neutral
+"La experiencia lo calificaría como ni bueno ni malo, sin sorpresas.",Neutral
+"El bar lo calificaría como ni para bien ni para mal, pero sin grandes virtudes ni defectos.",Neutral
+La reunión fue algo ni bien ni mal.,Neutral
+El viaje resultó nada del otro mundo; es lo que se ofrece habitualmente.,Neutral
+El supermercado se puede considerar pasable.,Neutral
+"La jornada estaba adecuado, pero sin sorpresas.",Neutral
+"La capacidad me pareció ni fu ni fa, aunque sin grandes virtudes ni defectos.",Neutral
+El juego lo encontré estándar.,Neutral
+El servicio me pareció suficiente.,Neutral
+"El tamaño lo encontré aceptable, considerando todo, ni más ni menos.",Neutral
+El artículo se mantuvo mismo.,Neutral
+El cine es ni para bien ni para mal.,Neutral
+El electrodoméstico lo encontré más o menos.,Neutral
+El curso fue algo mismo.,Neutral
+El rendimiento es simplemente adecuado.,Neutral
+La jornada se puede considerar promedio. se mantiene en la media.,Neutral
+La visita fue aceptable.,Neutral
+"La atención lo calificaría como adecuado. No obstante, dentro de lo esperado.",Neutral
+"El centro comercial es apenas sin pena ni gloria, aunque se mantiene en la media.",Neutral
+El espectáculo se puede considerar ni bien ni mal.,Neutral
+"La duración fue algo suficiente. En general, nada especial que destacar.",Neutral
+"La película lo calificaría como masomenos, y en realidad podría ser mejor, podría ser peor.",Neutral
+El servicio se puede considerar suficiente.,Neutral
+"El dispositivo estaba sin novedad. No obstante, podría ser mejor, podría ser peor.",Neutral
+El espectáculo se puede considerar así así.,Neutral
+La película se puede considerar intermedio. cumple pero sin destacar.,Neutral
+La instalación no pasó de correcto.,Neutral
+"El televisor es apenas ni bien ni mal. En general, lo de siempre.",Neutral
+"El trato es bastante igual. En general, es lo que hay.",Neutral
+La atención está ni frío ni calor.,Neutral
+La entrega fue así así - como la mayoría.,Neutral
+El televisor es simplemente sin novedad. sin sorpresas.,Neutral
+El tamaño es simplemente ni bien ni mal.,Neutral
+"La tienda es más bien funcional, y en realidad ni más ni menos.",Neutral
+"El programa se puede considerar común. Personalmente, sin destacar particularmente.",Neutral
+"La duración lo encontré regular. Por otra parte, sin características destacables.",Neutral
+"La duración no pasó de correcto, considerando todo, típico, ni más ni menos.",Neutral
+El juego lo calificaría como estándar; lo de siempre.,Neutral
+"La interfaz fue algo así así, considerando todo, es lo que hay.",Neutral
+"El servicio está mediano, tiene sus pros y contras por igual.",Neutral
+La película se puede considerar aceptable.,Neutral
+"El envío fue sin pena ni gloria, si bien sin sorpresas.",Neutral
+El soporte es bastante básico.,Neutral
+La tienda es apenas mediano - como cualquier otro.,Neutral
+La computadora es más bien ni bueno ni malo; sin destacar particularmente.,Neutral
+El servicio es simplemente común.,Neutral
+La entrega lo encontré ni bien ni mal - cumple pero sin destacar.,Neutral
+El supermercado se puede considerar común - tiene cosas buenas y malas.,Neutral
+El evento no pasó de ni bien ni mal.,Neutral
+"El libro fue ni bueno ni malo, y en realidad sin características especiales.",Neutral
+"El centro comercial es bastante ordinario. Sin embargo, se mantiene en la media.",Neutral
+La estancia resultó ni bueno ni malo.,Neutral
+"El concierto se puede considerar más o menos, si bien no es nada del otro mundo.",Neutral
+"El evento se mantuvo ni bien ni mal, pero lo usual.",Neutral
+"El soporte resultó normal. No obstante, sin características destacables.",Neutral
+"El evento está normal, típico, ni más ni menos.",Neutral
+"La asistencia técnica no pasó de del montón. No obstante, lo mismo de siempre.",Neutral
+"La velocidad estaba básico, pero sin destacar particularmente.",Neutral
+"El tamaño es simplemente estándar, pero sin destacar particularmente.",Neutral
+La experiencia se mantuvo pasable. sin sorpresas.,Neutral
+"La computadora está ni para bien ni para mal, si bien lo mismo de siempre.",Neutral
+"El envío lo encontré del montón. Personalmente, ni destaca ni decepciona.",Neutral
+El bar es más bien adecuado - no es nada del otro mundo.,Neutral
+"El evento lo encontré como siempre. Personalmente, lo típico.",Neutral
+"La experiencia se puede considerar aceptable. En general, sin características especiales.",Neutral
+"La computadora lo calificaría como mismo, considerando todo, es lo que se ofrece habitualmente.",Neutral
+"La prenda resultó correcto. Por otra parte, lo típico.",Neutral
+El mantenimiento no pasó de adecuado.,Neutral
+La calidad es apenas aceptable.,Neutral
+"El aparato lo encontré moderado, pero lo que se esperaría normalmente.",Neutral
+El diseño es ni bueno ni malo.,Neutral
+"La asistencia técnica lo calificaría como intermedio. Sin embargo, sin características especiales.",Neutral
+El espectáculo me pareció así así.,Neutral
+"El curso es bastante mediano. Por otra parte, ni destaca ni decepciona.",Neutral
+El aparato fue algo ni bueno ni malo - lo usual.,Neutral
+El tamaño me pareció tolerable.,Neutral
+"El funcionamiento lo encontré moderado. Sin embargo, podría ser mejor, podría ser peor.",Neutral
+"El curso fue ni bueno ni malo, ni destaca ni decepciona.",Neutral
+"La jornada lo calificaría como normal. Personalmente, lo de siempre.",Neutral
+"La experiencia me pareció ni bueno ni malo. No obstante, cumple pero sin destacar.",Neutral
+"El bar fue pasable, considerando todo, como la mayoría.",Neutral
+El hotel se puede considerar regular; lo que se esperaría normalmente.,Neutral
+El viaje es apenas sin pena ni gloria. es lo que hay.,Neutral
+"El producto me pareció tolerable, ni destaca ni decepciona.",Neutral
+El mantenimiento es simplemente como siempre.,Neutral
+"El aparato es simplemente sin pena ni gloria, justo en el medio.",Neutral
+"La calidad no pasó de pasable, y en realidad ni impresiona ni decepciona.",Neutral
+El servicio lo encontré del montón.,Neutral
+El videojuego lo calificaría como funcional.,Neutral
+"La instalación fue aceptable, si bien cumple lo básico.",Neutral
+"El servicio resultó estándar, si bien como cualquier otro.",Neutral
+"La duración se puede considerar ni frío ni calor. Por otra parte, ni más ni menos.",Neutral
+El dispositivo está mediano.,Neutral
+"El evento lo calificaría como sin novedad, considerando todo, nada especial que destacar.",Neutral
+"El supermercado se mantuvo regular. Personalmente, cumple su función.",Neutral
+"La serie no pasó de aceptable. En general, podría ser mejor, podría ser peor.",Neutral
+"La prenda se puede considerar ni frío ni calor, pero no es para tanto.",Neutral
+"El bar no pasó de del montón, considerando todo, no es para tanto.",Neutral
+"El servicio resultó ni bueno ni malo. Por otra parte, ni lo mejor ni lo peor.",Neutral
+La potencia se puede considerar ni bien ni mal.,Neutral
+"El concierto lo calificaría como ni bueno ni malo. Por otra parte, dentro de lo esperado.",Neutral
+El artículo lo calificaría como moderado.,Neutral
+La reparación lo calificaría como sin novedad.,Neutral
+"El producto no pasó de igual, aunque cumple su función.",Neutral
+La sesión lo encontré moderado.,Neutral
+"El evento resultó ni bueno ni malo. Por otra parte, es lo que se ofrece habitualmente.",Neutral
+La aplicación lo calificaría como igual.,Neutral
+"La jornada es apenas común, y en realidad dentro de lo esperado.",Neutral
+El smartphone está mediano. no es para tanto.,Neutral
+La sesión es simplemente correcto - algunos aspectos mejores que otros.,Neutral
+"La entrega no pasó de mismo, no es para tanto.",Neutral
+El soporte me pareció ni para bien ni para mal. cumple lo básico.,Neutral
+El bar lo calificaría como regular. sin grandes virtudes ni defectos.,Neutral
+El electrodoméstico fue así así; sin características destacables.,Neutral
+"El electrodoméstico resultó pasable, pero no es para tanto.",Neutral
+"La reunión es masomenos, pero lo usual.",Neutral
+El servicio es apenas básico.,Neutral
+La asistencia técnica lo encontré normal.,Neutral
+La interfaz resultó tolerable.,Neutral
+La reparación lo encontré ni fu ni fa - tiene sus pros y contras por igual.,Neutral
+La tienda es más bien mismo.,Neutral
+El envío estaba pasable.,Neutral
+La computadora está común.,Neutral
+"La estancia es apenas moderado. Por otra parte, ni para tirar cohetes ni para quejarse.",Neutral
+La interfaz no pasó de sin novedad.,Neutral
+"El diseño se puede considerar igual, algunos aspectos mejores que otros.",Neutral
+El aparato lo encontré regular.,Neutral
+El trato es funcional. como la mayoría.,Neutral
+La duración me pareció nada del otro mundo. nada especial que destacar.,Neutral
+La velocidad no pasó de igual.,Neutral
+"El aparato lo calificaría como tolerable, ni lo mejor ni lo peor.",Neutral
+El cine se mantuvo funcional.,Neutral
+"La entrega está así así, considerando todo, lo mismo de siempre.",Neutral
+"El servicio está normal. En general, ni lo mejor ni lo peor.",Neutral
+"El bar lo encontré intermedio, aunque típico, ni más ni menos.",Neutral
+El soporte me pareció nada del otro mundo. como cualquier otro.,Neutral
+"La serie es apenas nada del otro mundo. Por otra parte, lo típico.",Neutral
+"El juego lo calificaría como ni frío ni calor, considerando todo, es lo que se ofrece habitualmente.",Neutral
+La serie no pasó de sin pena ni gloria - sin características especiales.,Neutral
+"La velocidad me pareció ni bien ni mal, aunque tiene sus pros y contras por igual.",Neutral
+"La tienda es bastante ni bueno ni malo. Personalmente, ni más ni menos.",Neutral
+El tamaño no pasó de ni para bien ni para mal.,Neutral
+"El dispositivo estaba pasable, si bien no es para tanto.",Neutral
+"El local fue correcto. Sin embargo, algunos aspectos mejores que otros.",Neutral
+"La visita lo encontré ni bueno ni malo. Sin embargo, no es para tanto.",Neutral
+"La atención se puede considerar ni fu ni fa, pero no es para tanto.",Neutral
+"El servicio es común, considerando todo, lo de siempre.",Neutral
+"La sesión es simplemente promedio, considerando todo, nada especial que destacar.",Neutral
+"La aplicación es más bien pasable, y en realidad como cabría esperar.",Neutral
+La duración lo encontré nada del otro mundo; lo típico.,Neutral
+La tienda es bastante aceptable.,Neutral
+"El tamaño es ordinario. Personalmente, no es para tanto.",Neutral
+El trato es simplemente ni fu ni fa.,Neutral
+El mueble fue algo ni bueno ni malo.,Neutral
+El restaurante lo calificaría como mediano. justo en el medio.,Neutral
+El supermercado está ni bueno ni malo; no es para emocionarse ni para evitarlo.,Neutral
+"La tienda es simplemente estándar. Por otra parte, no es nada del otro mundo.",Neutral
+"La experiencia fue algo ni fu ni fa, considerando todo, como cabría esperar.",Neutral
+"La computadora fue suficiente, y en realidad típico, ni más ni menos.",Neutral
+"El viaje es bastante correcto, y en realidad lo que se esperaría normalmente.",Neutral
+El videojuego es apenas como siempre.,Neutral
+La clase fue algo correcto. no es para tanto.,Neutral
+"El videojuego resultó estándar, pero cumple su función.",Neutral
+"La tienda fue algo nada del otro mundo, y en realidad lo que se esperaría normalmente.",Neutral
+"La visita no pasó de aceptable, y en realidad 50/50.",Neutral
+El espectáculo se puede considerar ni para bien ni para mal.,Neutral
+"El envío se mantuvo tolerable. No obstante, nada especial que destacar.",Neutral
+"El espectáculo está correcto, no es para tanto.",Neutral
+"El curso es normal. Personalmente, 50/50.",Neutral
+"La potencia estaba ni fu ni fa, aunque lo típico.",Neutral
+"El centro comercial no pasó de ni bien ni mal, considerando todo, algunos aspectos mejores que otros.",Neutral
+La jornada es simplemente funcional - nada especial que destacar.,Neutral
+"El viaje estaba aceptable, considerando todo, lo que se esperaría normalmente.",Neutral
+"La entrega estaba tolerable, si bien no es para tanto.",Neutral
+"El producto me pareció igual, si bien tiene sus pros y contras por igual.",Neutral
+"El servicio fue intermedio. En general, lo mismo de siempre.",Neutral
+"El espectáculo es ni para bien ni para mal. En general, ni para tirar cohetes ni para quejarse.",Neutral
+"El soporte lo calificaría como común. Por otra parte, lo de siempre.",Neutral
+El cine lo calificaría como sin pena ni gloria. sin características especiales.,Neutral
+"La experiencia fue algo ni bueno ni malo, y en realidad es lo que hay.",Neutral
+"El mueble se puede considerar intermedio, y en realidad sin características destacables.",Neutral
+"La reparación resultó suficiente. Sin embargo, lo que se esperaría normalmente.",Neutral
+"El rendimiento es más bien ni bien ni mal. No obstante, ni lo mejor ni lo peor.",Neutral
+"La serie es más bien aceptable, si bien algunos aspectos mejores que otros.",Neutral
+"El evento se puede considerar nada del otro mundo. En general, tiene cosas buenas y malas.",Neutral
+"El espectáculo estaba masomenos, considerando todo, sin destacar particularmente.",Neutral
+"La atención es más bien igual. En general, se mantiene en la media.",Neutral
+"El mantenimiento es regular, típico, ni más ni menos.",Neutral
+"La interfaz estaba promedio, 50/50.",Neutral
+"El restaurante es apenas mediano. Sin embargo, como la mayoría.",Neutral
+La tienda lo encontré normal; ni lo mejor ni lo peor.,Neutral
+"La potencia lo calificaría como promedio. No obstante, lo de siempre.",Neutral
+La prenda está así así.,Neutral
+El videojuego es más bien nada del otro mundo - sin características especiales.,Neutral
+La serie no pasó de suficiente.,Neutral
+El funcionamiento estaba tolerable.,Neutral
+La película se puede considerar sin pena ni gloria.,Neutral
+"El concierto se puede considerar ni para bien ni para mal. No obstante, sin características especiales.",Neutral
+La estancia resultó normal.,Neutral
+"La calidad lo calificaría como del montón, y en realidad típico, ni más ni menos.",Neutral
+"El rendimiento es apenas ni bien ni mal. Sin embargo, se mantiene en la media.",Neutral
+"El programa se mantuvo nada del otro mundo, si bien ni para tirar cohetes ni para quejarse.",Neutral
+"La experiencia es más bien suficiente, cumple su función.",Neutral
+El mueble resultó normal. 50/50.,Neutral
+"El artículo se puede considerar estándar. No obstante, ni para tirar cohetes ni para quejarse.",Neutral
+"El mantenimiento fue algo así así. No obstante, cumple su función.",Neutral
+El programa lo encontré moderado.,Neutral
+El producto es simplemente funcional.,Neutral
+El funcionamiento estaba igual - lo mismo de siempre.,Neutral
+"El dispositivo se puede considerar ni bueno ni malo. En general, nada especial que destacar.",Neutral
+"La duración estaba pasable, considerando todo, sin sorpresas.",Neutral
+"La visita es más bien nada del otro mundo. En general, como la mayoría.",Neutral
+La capacidad es sin pena ni gloria - tiene sus pros y contras por igual.,Neutral
+El curso es apenas ni para bien ni para mal.,Neutral
+El funcionamiento fue algo más o menos.,Neutral
+El envío lo encontré básico - ni impresiona ni decepciona.,Neutral
+"La clase se mantuvo sin novedad, y en realidad sin sorpresas.",Neutral
+"El curso se mantuvo mediano, y en realidad podría ser mejor, podría ser peor.",Neutral
+La prenda estaba ni bien ni mal.,Neutral
+"La estancia lo encontré ni bueno ni malo. No obstante, ni destaca ni decepciona.",Neutral
+"La experiencia es mismo. No obstante, típico, ni más ni menos.",Neutral
+"El juego se puede considerar básico. Sin embargo, sin sorpresas.",Neutral
+"La jornada es promedio. Por otra parte, es lo que se ofrece habitualmente.",Neutral
+El local fue pasable.,Neutral
+El curso es suficiente. ni impresiona ni decepciona.,Neutral
+"El mueble es apenas estándar. Por otra parte, dentro de lo esperado.",Neutral
+"El dispositivo lo calificaría como como siempre. No obstante, cumple pero sin destacar.",Neutral
+La calidad fue masomenos. lo usual.,Neutral
+"La interfaz es simplemente ni fu ni fa, y en realidad no es para emocionarse ni para evitarlo.",Neutral
+El curso me pareció igual.,Neutral
+El local es funcional. 50/50.,Neutral
+La duración es más bien del montón.,Neutral
+"El establecimiento fue ni bien ni mal. Por otra parte, ni más ni menos.",Neutral
+"El aparato se puede considerar tolerable. En general, nada especial que destacar.",Neutral
+"La estancia fue igual. En general, sin sorpresas.",Neutral
+El programa no pasó de como siempre.,Neutral
+"La estancia lo encontré así así. Por otra parte, ni lo mejor ni lo peor.",Neutral
+"La duración es más bien intermedio. Sin embargo, lo típico.",Neutral
+La experiencia fue algo intermedio.,Neutral
+La cafetería es bastante ni fu ni fa. sin características especiales.,Neutral
+"El soporte se mantuvo aceptable. En general, ni lo mejor ni lo peor.",Neutral
+"El supermercado se puede considerar ni bueno ni malo, aunque sin grandes virtudes ni defectos.",Neutral
+"El restaurante está mediano, si bien justo en el medio.",Neutral
+La serie resultó masomenos.,Neutral
+El local lo encontré aceptable.,Neutral
+"El cine fue algo así así. Sin embargo, lo de siempre.",Neutral
+La duración lo calificaría como intermedio - dentro de lo esperado.,Neutral
+"La reparación me pareció común. No obstante, cumple lo básico.",Neutral
+La conferencia lo calificaría como como siempre.,Neutral
+El concierto está básico.,Neutral
+La clase resultó promedio.,Neutral
+"La clase es apenas estándar. Personalmente, ni más ni menos.",Neutral
+"El servicio es bastante normal, y en realidad ni lo mejor ni lo peor.",Neutral
+El supermercado es aceptable. ni lo mejor ni lo peor.,Neutral
+La tienda resultó básico. tiene cosas buenas y malas.,Neutral
+El televisor es ni bueno ni malo.,Neutral
+"El artículo me pareció del montón. Personalmente, dentro de lo esperado.",Neutral
+La reparación se mantuvo mediano.,Neutral
+El local estaba moderado - no es para tanto.,Neutral
+La computadora resultó más o menos.,Neutral
+"El funcionamiento es apenas ni bueno ni malo, si bien tiene cosas buenas y malas.",Neutral
+El mantenimiento es bastante adecuado - ni lo mejor ni lo peor.,Neutral
+El programa es más bien sin novedad.,Neutral
+La aplicación se mantuvo normal; como cabría esperar.,Neutral
+El libro estaba ni para bien ni para mal.,Neutral
+"La reunión es más bien ni frío ni calor, y en realidad como cabría esperar.",Neutral
+El centro comercial me pareció sin novedad.,Neutral
+"El bar es apenas mediano. Personalmente, dentro de lo esperado.",Neutral
+"La computadora es apenas aceptable, pero 50/50.",Neutral
+"El viaje es más bien correcto. Personalmente, como cualquier otro.",Neutral
+La asistencia técnica fue regular.,Neutral
+La duración es apenas estándar.,Neutral
+"El tamaño me pareció funcional. No obstante, algunos aspectos mejores que otros.",Neutral
+"El diseño fue algo común, considerando todo, lo usual.",Neutral
+El diseño fue correcto. algunos aspectos mejores que otros.,Neutral
+La tienda es bastante básico.,Neutral
+"El envío fue más o menos. No obstante, es lo que se ofrece habitualmente.",Neutral
+"El smartphone lo calificaría como ni fu ni fa, y en realidad cumple su función.",Neutral
+El dispositivo es bastante ni bueno ni malo; como cabría esperar.,Neutral
+El juego está promedio.,Neutral
+"La visita es igual. En general, es lo que se ofrece habitualmente.",Neutral
+La aplicación estaba mediano; no es para tanto.,Neutral
+La aplicación resultó mismo - lo mismo de siempre.,Neutral
+"La velocidad se puede considerar del montón. Personalmente, 50/50.",Neutral
+"La atención fue ni bueno ni malo. No obstante, ni más ni menos.",Neutral
+La asistencia técnica fue algo básico. ni para tirar cohetes ni para quejarse.,Neutral
+"La conferencia lo encontré ni bueno ni malo. No obstante, 50/50.",Neutral
+"El trato lo calificaría como ni bien ni mal. Por otra parte, lo que se esperaría normalmente.",Neutral
+"El juego resultó moderado. Personalmente, cumple su función.",Neutral
+El curso fue algo ordinario; algunos aspectos mejores que otros.,Neutral
+La potencia se puede considerar pasable.,Neutral
+"El diseño es más bien masomenos, si bien no es para emocionarse ni para evitarlo.",Neutral
+"La asistencia técnica estaba igual, y en realidad no es para tanto.",Neutral
+"El supermercado se puede considerar estándar, nada especial que destacar.",Neutral
+"El mueble fue algo masomenos, aunque se mantiene en la media.",Neutral
+"La estancia está mismo. En general, dentro de lo esperado.",Neutral
+"El servicio es más bien moderado. En general, no es nada del otro mundo.",Neutral
+"El videojuego es apenas ni para bien ni para mal, aunque no es nada del otro mundo.",Neutral
+La cafetería es apenas sin pena ni gloria - ni destaca ni decepciona.,Neutral
+"La velocidad no pasó de estándar, aunque no es para tanto.",Neutral
+La instalación fue ni bueno ni malo.,Neutral
+El libro se puede considerar intermedio.,Neutral
+"El mueble no pasó de sin novedad, ni más ni menos.",Neutral
+El cine lo encontré regular.,Neutral
+"El servicio fue algo correcto, ni destaca ni decepciona.",Neutral
+El servicio fue algo ni bueno ni malo.,Neutral
+La calidad es simplemente aceptable.,Neutral
+"El producto se mantuvo ni para bien ni para mal, y en realidad es lo que hay.",Neutral
+"La cafetería es simplemente sin pena ni gloria. Sin embargo, tiene sus pros y contras por igual.",Neutral
+El evento se puede considerar aceptable.,Neutral
+El bar fue algo funcional.,Neutral
+El dispositivo estaba pasable.,Neutral
+"La conferencia se mantuvo nada del otro mundo, tiene sus pros y contras por igual.",Neutral
+"El libro se puede considerar común, pero ni más ni menos.",Neutral
+"El libro resultó más o menos. Personalmente, justo en el medio.",Neutral
+El establecimiento es más bien regular.,Neutral
+"La prenda lo encontré ni fu ni fa, y en realidad no es nada del otro mundo.",Neutral
+"El evento estaba nada del otro mundo. Sin embargo, dentro de lo esperado.",Neutral
+El programa lo calificaría como nada del otro mundo.,Neutral
+"El soporte se puede considerar ni bueno ni malo. En general, ni destaca ni decepciona.",Neutral
+"La serie estaba ni para bien ni para mal. Sin embargo, lo que se esperaría normalmente.",Neutral
+El producto lo encontré común.,Neutral
+El diseño está ni fu ni fa.,Neutral
+"El mantenimiento es bastante como siempre, pero como cualquier otro.",Neutral
+"El artículo está intermedio, si bien nada especial que destacar.",Neutral
+"El cine es bastante aceptable, y en realidad cumple lo básico.",Neutral
+El cine se puede considerar mediano - lo de siempre.,Neutral
+La capacidad se puede considerar ordinario.,Neutral
+"La computadora se mantuvo nada del otro mundo. En general, ni más ni menos.",Neutral
+"La sesión fue algo regular, y en realidad cumple lo básico.",Neutral
+El curso me pareció como siempre; dentro de lo esperado.,Neutral
+La prenda es como siempre.,Neutral
+"El juego es más bien pasable. En general, ni lo mejor ni lo peor.",Neutral
+"El funcionamiento se mantuvo intermedio. No obstante, cumple pero sin destacar.",Neutral
+El mueble lo encontré del montón.,Neutral
+"La duración se mantuvo nada del otro mundo, pero lo de siempre.",Neutral
+"El supermercado es bastante mediano. No obstante, como cualquier otro.",Neutral
+"El mueble se puede considerar promedio, no me quejo pero tampoco lo recomendaría especialmente.",Neutral
+"El concierto es simplemente mismo. Por otra parte, 50/50.",Neutral
+"La serie fue así así. Por otra parte, cumple su función.",Neutral
+La aplicación es básico. ni lo mejor ni lo peor.,Neutral
+El hotel se puede considerar correcto.,Neutral
+La sesión me pareció del montón; no es para tanto.,Neutral
+El local lo encontré moderado.,Neutral
+"La reunión es bastante ni fu ni fa, sin características especiales.",Neutral
+El supermercado lo calificaría como más o menos.,Neutral
+El cine se mantuvo ni bien ni mal; no es para emocionarse ni para evitarlo.,Neutral
+"El soporte fue intermedio, y en realidad sin destacar particularmente.",Neutral
+El smartphone es apenas ni frío ni calor.,Neutral
+"La película se mantuvo más o menos. Sin embargo, lo típico.",Neutral
+"El mueble fue nada del otro mundo, considerando todo, cumple pero sin destacar.",Neutral
+"El diseño fue sin pena ni gloria, y en realidad ni más ni menos.",Neutral
+"La estancia está ni para bien ni para mal, considerando todo, justo en el medio.",Neutral
+El dispositivo no pasó de ni fu ni fa.,Neutral
+"El mantenimiento fue algo común, si bien sin sorpresas.",Neutral
+La capacidad es simplemente correcto.,Neutral
+El bar es bastante promedio. nada especial que destacar.,Neutral
+"La conferencia no pasó de intermedio, considerando todo, ni para tirar cohetes ni para quejarse.",Neutral
+La calidad se puede considerar masomenos.,Neutral
+"El juego es bastante correcto. Sin embargo, ni lo mejor ni lo peor.",Neutral
+"La reunión lo calificaría como regular. Sin embargo, lo típico.",Neutral
+El bar es regular.,Neutral
+El smartphone es masomenos.,Neutral
+"El rendimiento es más bien estándar. No obstante, sin características especiales.",Neutral
+"La jornada es más bien masomenos. En general, no es para tanto.",Neutral
+El funcionamiento se mantuvo ni bueno ni malo.,Neutral
+La visita es apenas ni para bien ni para mal.,Neutral
+"El bar es simplemente funcional. No obstante, 50/50.",Neutral
+"El mueble lo encontré moderado, sin características destacables.",Neutral
+La reparación se puede considerar sin pena ni gloria. no es para tanto.,Neutral
+La velocidad resultó moderado.,Neutral
+La interfaz me pareció como siempre.,Neutral
+"La tienda no pasó de mismo, si bien sin grandes virtudes ni defectos.",Neutral
+"La potencia me pareció sin novedad. En general, tiene sus pros y contras por igual.",Neutral
+La tienda es apenas mismo.,Neutral
+El centro comercial es mismo.,Neutral
+"La reparación está sin novedad, pero no es nada del otro mundo.",Neutral
+El dispositivo lo encontré sin novedad.,Neutral
+"La velocidad es mismo, sin características especiales.",Neutral
+"La entrega es más bien suficiente. No obstante, sin destacar particularmente.",Neutral
+El juego fue algo ni fu ni fa.,Neutral
+La prenda lo encontré común.,Neutral
+"El hotel es apenas ordinario, si bien dentro de lo esperado.",Neutral
+"El mueble es simplemente común, lo de siempre.",Neutral
+El bar resultó nada del otro mundo - tiene cosas buenas y malas.,Neutral
+La reunión es bastante promedio; se mantiene en la media.,Neutral
+"El libro es apenas ni fu ni fa, y en realidad sin destacar particularmente.",Neutral
+El mantenimiento resultó adecuado. como cualquier otro.,Neutral
+La calidad se puede considerar ni para bien ni para mal.,Neutral
+"El producto se mantuvo intermedio, si bien ni destaca ni decepciona.",Neutral
+El hotel es más bien ni bueno ni malo - sin características especiales.,Neutral
+"La película lo calificaría como básico, y en realidad es lo que se ofrece habitualmente.",Neutral
+La interfaz fue mediano.,Neutral
+El local lo calificaría como adecuado.,Neutral
+El soporte lo calificaría como ordinario.,Neutral
+"La duración se puede considerar sin pena ni gloria. Por otra parte, cumple pero sin destacar.",Neutral
+El envío es bastante más o menos.,Neutral
+"La calidad estaba ni bueno ni malo, cumple su función.",Neutral
+"El programa es bastante adecuado. En general, como cualquier otro.",Neutral
+"El viaje está ni bueno ni malo. En general, sin grandes virtudes ni defectos.",Neutral
+"La jornada es ni fu ni fa, pero sin sorpresas.",Neutral
+El programa se mantuvo regular - ni impresiona ni decepciona.,Neutral
+"El hotel es tolerable. Sin embargo, es lo que hay.",Neutral
+La atención fue algo pasable.,Neutral
+El aparato fue tolerable; ni lo mejor ni lo peor.,Neutral
+El espectáculo no pasó de masomenos.,Neutral
+El curso se puede considerar sin novedad.,Neutral
+El dispositivo me pareció del montón - lo usual.,Neutral
+"El diseño se puede considerar más o menos. Por otra parte, lo de siempre.",Neutral
+"El diseño fue algo como siempre. Sin embargo, lo típico.",Neutral
+"El programa estaba igual. En general, cumple pero sin destacar.",Neutral
+"El rendimiento está ni fu ni fa. Por otra parte, ni más ni menos.",Neutral
+La interfaz lo calificaría como funcional. ni para tirar cohetes ni para quejarse.,Neutral
+El artículo fue normal.,Neutral
+"La película resultó igual, aunque como cualquier otro.",Neutral
+"El restaurante fue algo intermedio, y en realidad ni lo mejor ni lo peor.",Neutral
+"La calidad fue algo básico, y en realidad lo usual.",Neutral
+La película lo calificaría como aceptable.,Neutral
+"El producto lo encontré correcto. Personalmente, ni impresiona ni decepciona.",Neutral
+"El artículo es simplemente estándar. Sin embargo, nada especial que destacar.",Neutral
+El soporte no pasó de ni bien ni mal.,Neutral
+El mantenimiento es apenas intermedio.,Neutral
+El restaurante no pasó de así así.,Neutral
+"La potencia se puede considerar funcional. En general, lo típico.",Neutral
+La reunión se puede considerar suficiente - nada especial que destacar.,Neutral
+"La tienda se puede considerar del montón, aunque sin destacar particularmente.",Neutral
+"El televisor se puede considerar aceptable, pero cumple lo básico.",Neutral
+"El hotel estaba sin pena ni gloria, considerando todo, cumple lo básico.",Neutral
+"El hotel es promedio. En general, típico, ni más ni menos.",Neutral
+La potencia está promedio.,Neutral
+El videojuego fue moderado. se mantiene en la media.,Neutral
+"El supermercado lo encontré funcional. En general, ni lo mejor ni lo peor.",Neutral
+El programa es ni bien ni mal. lo usual.,Neutral
+"La asistencia técnica fue algo así así, si bien sin características especiales.",Neutral
+La jornada fue tolerable.,Neutral
+"El establecimiento es más bien mismo. No obstante, como cualquier otro.",Neutral
+"El mueble es bastante tolerable, considerando todo, cumple su función.",Neutral
+"La serie fue algo mediano. No obstante, ni impresiona ni decepciona.",Neutral
+"El supermercado es bastante ni para bien ni para mal. Sin embargo, como cabría esperar.",Neutral
+La jornada resultó pasable.,Neutral
+El producto no pasó de suficiente.,Neutral
+La sesión lo encontré suficiente; no es para emocionarse ni para evitarlo.,Neutral
+El restaurante es más bien tolerable.,Neutral
+La clase es simplemente funcional.,Neutral
+"La experiencia es bastante igual, aunque ni destaca ni decepciona.",Neutral
+"El soporte es más bien adecuado. En general, ni destaca ni decepciona.",Neutral
+"El establecimiento se puede considerar tolerable, si bien cumple su función.",Neutral
+"El artículo se puede considerar del montón. Personalmente, podría ser mejor, podría ser peor.",Neutral
+"El trato lo calificaría como correcto, aunque sin características destacables.",Neutral
+La asistencia técnica resultó como siempre.,Neutral
+"La computadora fue algo correcto, podría ser mejor, podría ser peor.",Neutral
+El trato lo calificaría como así así.,Neutral
+"El televisor es bastante masomenos, aunque lo usual.",Neutral
+La velocidad se puede considerar sin pena ni gloria.,Neutral
+"El establecimiento está suficiente. Sin embargo, no es nada del otro mundo.",Neutral
+"La atención es apenas como siempre, pero ni impresiona ni decepciona.",Neutral
+El establecimiento es apenas masomenos.,Neutral
+"El smartphone es apenas suficiente, si bien lo usual.",Neutral
+La conferencia estaba ni fu ni fa.,Neutral
+"La computadora está adecuado. En general, lo típico.",Neutral
+"La calidad es moderado. No obstante, lo usual.",Neutral
+"El envío no pasó de común, y en realidad cumple pero sin destacar.",Neutral
+El dispositivo lo encontré ni bien ni mal - tiene sus pros y contras por igual.,Neutral
+"La calidad se mantuvo pasable, se mantiene en la media.",Neutral
+El curso lo calificaría como nada del otro mundo.,Neutral
+La instalación me pareció como siempre.,Neutral
+"El diseño fue algo ni bueno ni malo. podría ser mejor, podría ser peor.",Neutral
+"El programa se mantuvo tolerable, no es para emocionarse ni para evitarlo.",Neutral
+El bar es funcional.,Neutral
+La tienda fue ni fu ni fa - lo usual.,Neutral
+El evento resultó moderado.,Neutral
+El dispositivo se puede considerar moderado.,Neutral
+El envío resultó regular.,Neutral
+"El programa fue sin novedad. En general, lo típico.",Neutral
+La clase fue aceptable.,Neutral
+El establecimiento se puede considerar mismo.,Neutral
+La experiencia es más bien más o menos.,Neutral
+"El smartphone lo encontré nada del otro mundo, pero cumple su función.",Neutral
+El local se mantuvo ni para bien ni para mal.,Neutral
+La cafetería es simplemente promedio.,Neutral
+"El local es más bien correcto, aunque sin características especiales.",Neutral
+"El trato es más bien masomenos, si bien ni más ni menos.",Neutral
+"El rendimiento es simplemente ni para bien ni para mal, ni destaca ni decepciona.",Neutral
+El mueble me pareció adecuado.,Neutral
+"La cafetería fue algo igual. Sin embargo, lo usual.",Neutral
+"El aparato lo calificaría como estándar, considerando todo, sin características destacables.",Neutral
+"La capacidad se mantuvo así así. No obstante, ni lo mejor ni lo peor.",Neutral
+La clase lo calificaría como como siempre.,Neutral
+"La instalación es bastante sin novedad. Sin embargo, sin sorpresas.",Neutral
+"La jornada fue algo normal, si bien no es para tanto.",Neutral
+"La visita fue algo como siempre, y en realidad justo en el medio.",Neutral
+"La capacidad es apenas tolerable, aunque típico, ni más ni menos.",Neutral
+El establecimiento es más bien normal.,Neutral
+"La duración se mantuvo igual. Sin embargo, sin características especiales.",Neutral
+"La aplicación está estándar, considerando todo, algunos aspectos mejores que otros.",Neutral
+La capacidad estaba ni bueno ni malo.,Neutral
+El funcionamiento fue del montón.,Neutral
+"La instalación estaba ni para bien ni para mal, y en realidad cumple pero sin destacar.",Neutral
+"El mueble fue normal, tiene cosas buenas y malas.",Neutral
+"El centro comercial lo encontré funcional. No obstante, como cualquier otro.",Neutral
+"La potencia me pareció pasable, y en realidad sin grandes virtudes ni defectos.",Neutral
+"La estancia es apenas masomenos, pero justo en el medio.",Neutral
+La computadora es bastante del montón - cumple pero sin destacar.,Neutral
+"El programa fue algo igual, considerando todo, algunos aspectos mejores que otros.",Neutral
+"La estancia es apenas así así. Por otra parte, nada especial que destacar.",Neutral
+"El televisor es simplemente mediano. Por otra parte, lo de siempre.",Neutral
+"El televisor se mantuvo suficiente, no es para emocionarse ni para evitarlo.",Neutral
+El juego resultó común; lo de siempre.,Neutral
+El mantenimiento fue mismo.,Neutral
+El establecimiento es simplemente estándar. cumple su función.,Neutral
+"El producto se puede considerar intermedio, y en realidad justo en el medio.",Neutral
+La aplicación fue nada del otro mundo.,Neutral
+"La entrega resultó ni frío ni calor, si bien no es para tanto.",Neutral
+El supermercado estaba ni bueno ni malo.,Neutral
+El libro estaba mediano.,Neutral
+"El centro comercial estaba suficiente, aunque cumple lo básico.",Neutral
+"El envío estaba ni fu ni fa, como cualquier otro.",Neutral
+El televisor es apenas igual.,Neutral
+La visita está adecuado. cumple lo básico.,Neutral
+"El supermercado se puede considerar moderado, considerando todo, como cualquier otro.",Neutral
+La sesión se puede considerar así así.,Neutral
+El programa es apenas pasable.,Neutral
+"La conferencia es simplemente ni para bien ni para mal. En general, lo que se esperaría normalmente.",Neutral
+La aplicación me pareció pasable.,Neutral
+"La cafetería es más bien así así, considerando todo, como cualquier otro.",Neutral
+"El servicio estaba ni bueno ni malo. En general, no es para tanto.",Neutral
+"El hotel no pasó de básico, y en realidad lo que se esperaría normalmente.",Neutral
+"El televisor no pasó de ni para bien ni para mal, aunque lo típico.",Neutral
+La tienda fue pasable.,Neutral
+El soporte lo encontré correcto; no es para tanto.,Neutral
+El local resultó aceptable.,Neutral
+"El espectáculo lo encontré del montón. Personalmente, como cabría esperar.",Neutral
+La capacidad se mantuvo suficiente.,Neutral
+"El mantenimiento estaba aceptable. Personalmente, cumple lo básico.",Neutral
+"El artículo es apenas tolerable. Por otra parte, sin características especiales.",Neutral
